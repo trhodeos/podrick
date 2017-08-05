@@ -1,0 +1,1433 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:npr="https://www.npr.org/rss/" xmlns:nprml="https://api.npr.org/nprml" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+  <channel>
+    <title>Hidden Brain</title>
+    <link>http://npr.org/series/423302056/hidden-brain</link>
+    <description><![CDATA[The Hidden Brain helps curious people understand the world – and themselves. Using science and storytelling, Hidden Brain's host Shankar Vedantam reveals the unconscious patterns that drive human behavior, the biases that shape our choices, and the triggers that direct the course of our relationships.]]></description>
+    <copyright>Copyright 2015 NPR - For Personal Use Only</copyright>
+    <generator>NPR API RSS Generator 0.94</generator>
+    <language>en-us</language>
+    <itunes:new-feed-url>https://www.npr.org/rss/podcast.php?id=510308</itunes:new-feed-url>
+    <itunes:summary><![CDATA[The Hidden Brain helps curious people understand the world – and themselves. Using science and storytelling, Hidden Brain's host Shankar Vedantam reveals the unconscious patterns that drive human behavior, the biases that shape our choices, and the triggers that direct the course of our relationships.]]></itunes:summary>
+    <itunes:subtitle><![CDATA[A conversation about life's unseen patterns.]]></itunes:subtitle>
+    <itunes:author>NPR</itunes:author>
+    <itunes:block>no</itunes:block>
+    <itunes:owner>
+      <itunes:email>podcasts@npr.org</itunes:email>
+      <itunes:name>NPR</itunes:name>
+    </itunes:owner>
+    <itunes:category text="Social Sciences"/>
+    <itunes:category text="Science &amp; Medicine"/>
+    <itunes:category text="Performing Arts"/>
+    <itunes:category text="Natural Sciences"/>
+    <itunes:category text="Literature"/>
+    <itunes:image href="https://media.npr.org/assets/img/2017/01/12/hiddenbrain_sq-c52ddc28021ba306c99f2a94f06e0f649b0b62cd.jpg?s=1400"/>
+    <image>
+      <url>https://media.npr.org/assets/img/2017/01/12/hiddenbrain_sq-c52ddc28021ba306c99f2a94f06e0f649b0b62cd.jpg?s=200</url>
+      <title>Hidden Brain</title>
+      <link>http://npr.org/series/423302056/hidden-brain</link>
+    </image>
+    <lastBuildDate>Mon, 31 Jul 2017 21:00:26 -0400</lastBuildDate>
+    <item>
+      <title>You 2.0: Dream Jobs</title>
+      <description><![CDATA[Why do you work? Are you mostly in it for the money, or do you have another purpose? Popular wisdom says your answer depends on the nature of your job. But psychologist Amy Wrzesniewski finds it may have more to do with how we <em>think</em> about our work. She finds we're about evenly split in whether we say we have a job, a career, or a calling. As part of our You 2.0 series, we bring you this March 2016 conversation with Amy about how we find meaning and purpose at work.]]></description>
+      <pubDate>Mon, 31 Jul 2017 21:00:26 -0400</pubDate>
+      <copyright>Copyright 2015 NPR - For Personal Use Only</copyright>
+      <guid>8397e598-3fd6-4391-9839-c31d10a6350e</guid>
+      <itunes:author>NPR</itunes:author>
+      <itunes:summary><![CDATA[Why do you work? Are you mostly in it for the money, or do you have another purpose? Popular wisdom says your answer depends on the nature of your job. But psychologist Amy Wrzesniewski finds it may have more to do with how we <em>think</em> about our work. She finds we're about evenly split in whether we say we have a job, a career, or a calling. As part of our You 2.0 series, we bring you this March 2016 conversation with Amy about how we find meaning and purpose at work.]]></itunes:summary>
+      <itunes:subtitle><![CDATA[Why do you work? Are you mostly in it for the money, or do you have another purpose? Popular wisdom says your answer depends on the nature of your job. But psychologist Amy Wrzesniewski finds it may have more to do with how we <em>think</em> about our work. She finds we're about evenly split in whether we say we have a job, a career, or a calling. As part of our You 2.0 series, we bring you this March 2016 conversation with Amy about how we find meaning and purpose at work.]]></itunes:subtitle>
+      <itunes:image href="https://media.npr.org/assets/img/2017/07/31/gettyimages-580816021-1-_wide-32d66463c7e1a914a63e1fa777dbf512ce5312d2.jpg?s=1400"/>
+      <itunes:duration>1387</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <enclosure url="https://play.podtrac.com/npr-510308/npr.mc.tritondigital.com/NPR_510308/media/anon.npr-mp3/npr/hiddenbrain/2017/07/20170731_hiddenbrain_dreamjobs.mp3?orgId=1&amp;d=1387&amp;p=510308&amp;story=540578022&amp;t=podcast&amp;e=540578022&amp;ft=pod&amp;f=510308" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>You 2.0: Deep Work </title>
+      <description><![CDATA[When your phone buzzes or a notification pops up your screen, do you stop what you're doing to look and respond? That's what many of us are doing. Even though we think we should be less distracted by technology, we haven't admitted the true cost of these interruptions. This week on Hidden Brain, we talk with the computer scientist Cal Newport about how to cultivate our attention, and what we gain by immersing ourselves in meaningful work. It's part of our series You 2.0, in which we'll explore how we can all make better decisions and cope with the messiness of daily life.]]></description>
+      <pubDate>Mon, 24 Jul 2017 21:00:04 -0400</pubDate>
+      <copyright>Copyright 2015 NPR - For Personal Use Only</copyright>
+      <guid>5a0bfb0f-8f79-492b-a87b-2fd057d69a21</guid>
+      <itunes:author>NPR</itunes:author>
+      <itunes:summary><![CDATA[When your phone buzzes or a notification pops up your screen, do you stop what you're doing to look and respond? That's what many of us are doing. Even though we think we should be less distracted by technology, we haven't admitted the true cost of these interruptions. This week on Hidden Brain, we talk with the computer scientist Cal Newport about how to cultivate our attention, and what we gain by immersing ourselves in meaningful work. It's part of our series You 2.0, in which we'll explore how we can all make better decisions and cope with the messiness of daily life.]]></itunes:summary>
+      <itunes:subtitle><![CDATA[When your phone buzzes or a notification pops up your screen, do you stop what you're doing to look and respond? That's what many of us are doing. Even though we think we should be less distracted by technology, we haven't admitted the true cost of these interruptions. This week on Hidden Brain, we talk with the computer scientist Cal Newport about how to cultivate our attention, and what we gain by immersing ourselves in meaningful work. It's part of our series You 2.0, in which we'll explore how we can all make better decisions and cope with the messiness of daily life.]]></itunes:subtitle>
+      <itunes:image href="https://media.npr.org/assets/img/2017/07/24/gettyimages-555799063_wide-160672f2928d1afe45eb5af89cbca2284aa01b27.jpg?s=1400"/>
+      <itunes:duration>2194</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <enclosure url="https://play.podtrac.com/npr-510308/npr.mc.tritondigital.com/NPR_510308/media/anon.npr-mp3/npr/hiddenbrain/2017/07/20170724_hiddenbrain_79.mp3?orgId=1&amp;d=2194&amp;p=510308&amp;story=539094544&amp;t=podcast&amp;e=539094544&amp;ft=pod&amp;f=510308" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Summer Melt</title>
+      <description><![CDATA[According to research from Harvard, as many as 40% of kids who intend to go to college at the time of high school graduation don't actually show up in the fall. Education researchers call this phenomenon "summer melt," and it has long been a puzzling problem. These kids have taken the SATs, written college essays, applied to and been accepted by a school of their choice. Often they've even applied for and received financial aid. Why would they not show up at college? This week on Hidden Brain, we look more closely at the problem — and talk about ways that some universities are trying to fix it.]]></description>
+      <pubDate>Mon, 17 Jul 2017 21:00:18 -0400</pubDate>
+      <copyright>Copyright 2015 NPR - For Personal Use Only</copyright>
+      <guid>64933d75-c99c-42a5-9d3a-9f76a9be5910</guid>
+      <itunes:author>NPR</itunes:author>
+      <itunes:summary><![CDATA[According to research from Harvard, as many as 40% of kids who intend to go to college at the time of high school graduation don't actually show up in the fall. Education researchers call this phenomenon "summer melt," and it has long been a puzzling problem. These kids have taken the SATs, written college essays, applied to and been accepted by a school of their choice. Often they've even applied for and received financial aid. Why would they not show up at college? This week on Hidden Brain, we look more closely at the problem — and talk about ways that some universities are trying to fix it.]]></itunes:summary>
+      <itunes:subtitle><![CDATA[According to research from Harvard, as many as 40% of kids who intend to go to college at the time of high school graduation don't actually show up in the fall. Education researchers call this phenomenon "summer melt," and it has long been a puzzling problem. These kids have taken the SATs, written college essays, applied to and been accepted by a school of their choice. Often they've even applied for and received financial aid. Why would they not show up at college? This week on Hidden Brain, we look more closely at the problem — and talk about ways that some universities are trying to fix it.]]></itunes:subtitle>
+      <itunes:image href="https://media.npr.org/assets/img/2017/07/17/istock-92034966_wide-d7a144041ce3a31d7ed3f3fedbc3260c73cc4e9b.jpg?s=1400"/>
+      <itunes:duration>1540</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <enclosure url="https://play.podtrac.com/npr-510308/npr.mc.tritondigital.com/NPR_510308/media/anon.npr-mp3/npr/hiddenbrain/2017/07/20170717_hiddenbrain_ep_78__summer_melt.mp3?orgId=1&amp;d=1540&amp;p=510308&amp;story=537723638&amp;t=podcast&amp;e=537723638&amp;ft=pod&amp;f=510308" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Could You Kill A Robot? </title>
+      <description><![CDATA[Will we one day create machines that are essentially just like us? People have been wrestling with that question since the advent of robotics. But maybe we're missing another, even more intriguing question: what can robots teach us about ourselves? We ponder that question with Kate Darling of the MIT Media Lab in a special taping at the Aspen Ideas Festival.]]></description>
+      <pubDate>Mon, 10 Jul 2017 21:00:04 -0400</pubDate>
+      <copyright>Copyright 2015 NPR - For Personal Use Only</copyright>
+      <guid>9263bc12-0622-462a-8bbf-b11ea4ba52e9</guid>
+      <itunes:author>NPR</itunes:author>
+      <itunes:summary><![CDATA[Will we one day create machines that are essentially just like us? People have been wrestling with that question since the advent of robotics. But maybe we're missing another, even more intriguing question: what can robots teach us about ourselves? We ponder that question with Kate Darling of the MIT Media Lab in a special taping at the Aspen Ideas Festival.]]></itunes:summary>
+      <itunes:subtitle><![CDATA[Will we one day create machines that are essentially just like us? People have been wrestling with that question since the advent of robotics. But maybe we're missing another, even more intriguing question: what can robots teach us about ourselves? We ponder that question with Kate Darling of the MIT Media Lab in a special taping at the Aspen Ideas Festival.]]></itunes:subtitle>
+      <itunes:image href="https://media.npr.org/assets/img/2017/07/10/pleo_wide-960534a7ab9116af0172b9ba1810e05193de3fae.png?s=1400"/>
+      <itunes:duration>2037</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <enclosure url="https://play.podtrac.com/npr-510308/npr.mc.tritondigital.com/NPR_510308/media/anon.npr-mp3/npr/hiddenbrain/2017/07/20170710_hiddenbrain_ep77.mp3?orgId=1&amp;d=2037&amp;p=510308&amp;story=536043276&amp;t=podcast&amp;e=536043276&amp;ft=pod&amp;f=510308" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Losing Face </title>
+      <description><![CDATA[It happens to all of us: someone recognizes you on the street, calls you by name, and says hello... and you have no idea who that person is. Researchers say this struggle to read other faces is common. This week on Hidden Brain, super-recognizers, and the rest of us.]]></description>
+      <pubDate>Mon, 03 Jul 2017 21:00:01 -0400</pubDate>
+      <copyright>Copyright 2015 NPR - For Personal Use Only</copyright>
+      <guid>dd707604-8eab-45cc-98d5-9a32bed25293</guid>
+      <itunes:author>NPR</itunes:author>
+      <itunes:summary><![CDATA[It happens to all of us: someone recognizes you on the street, calls you by name, and says hello... and you have no idea who that person is. Researchers say this struggle to read other faces is common. This week on Hidden Brain, super-recognizers, and the rest of us.]]></itunes:summary>
+      <itunes:subtitle><![CDATA[It happens to all of us: someone recognizes you on the street, calls you by name, and says hello... and you have no idea who that person is. Researchers say this struggle to read other faces is common. This week on Hidden Brain, super-recognizers, and the rest of us.]]></itunes:subtitle>
+      <itunes:image href="https://media.npr.org/assets/img/2017/07/03/Reading Faces_wide-9239aa1a4998021ba88ed10bf3c26aa2106f9d38.jpg?s=1400"/>
+      <itunes:duration>1496</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <enclosure url="https://play.podtrac.com/npr-510308/npr.mc.tritondigital.com/NPR_510308/media/anon.npr-mp3/npr/hiddenbrain/2017/07/20170703_hiddenbrain_losingface.mp3?orgId=1&amp;d=1496&amp;p=510308&amp;story=535413116&amp;t=podcast&amp;e=535413116&amp;ft=pod&amp;f=510308" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Guessing Games</title>
+      <description><![CDATA[Pundits and prognosticators make predictions all the time: about everything from elections, to sports, to global affairs. This week on Hidden Brain, we explore why they're often wrong, and how we can all do it better.]]></description>
+      <pubDate>Mon, 26 Jun 2017 21:00:23 -0400</pubDate>
+      <copyright>Copyright 2015 NPR - For Personal Use Only</copyright>
+      <guid>3c27bf82-3296-418f-82c9-3a0e4c2532e9</guid>
+      <itunes:author>NPR</itunes:author>
+      <itunes:summary><![CDATA[Pundits and prognosticators make predictions all the time: about everything from elections, to sports, to global affairs. This week on Hidden Brain, we explore why they're often wrong, and how we can all do it better.]]></itunes:summary>
+      <itunes:subtitle><![CDATA[Pundits and prognosticators make predictions all the time: about everything from elections, to sports, to global affairs. This week on Hidden Brain, we explore why they're often wrong, and how we can all do it better.]]></itunes:subtitle>
+      <itunes:image href="https://media.npr.org/assets/img/2017/06/26/ap_17157592282679_wide-410c747e446a0e68e7250f663d30b661509a81e6.jpg?s=1400"/>
+      <itunes:duration>1694</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <enclosure url="https://play.podtrac.com/npr-510308/npr.mc.tritondigital.com/NPR_510308/media/anon.npr-mp3/npr/hiddenbrain/2017/06/20170626_hiddenbrain_76.mp3?orgId=1&amp;d=1694&amp;p=510308&amp;story=532601345&amp;t=podcast&amp;e=532601345&amp;ft=pod&amp;f=510308" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>"Is he Muslim?"</title>
+      <description><![CDATA[In a five year period from 2011 to 2016, just twelve percent of terrorist attacks in the United States were perpetrated by Muslims. More than fifty percent, on the other hand, were carried out by Neo-Nazis, white supremacists, or other far right groups. So why do Americans spend so much time worrying about "radical Islamic terrorism?" This week on Hidden Brain, we look at how the media over-covers some acts of terrorism — and quickly forgets others. We also look at some of the psychological reasons we have a hard time putting the threat of terrorism in perspective.]]></description>
+      <pubDate>Mon, 19 Jun 2017 21:00:30 -0400</pubDate>
+      <copyright>Copyright 2015 NPR - For Personal Use Only</copyright>
+      <guid>6709fe6f-06dc-47dd-8d99-1231f7802a5e</guid>
+      <itunes:author>NPR</itunes:author>
+      <itunes:summary><![CDATA[In a five year period from 2011 to 2016, just twelve percent of terrorist attacks in the United States were perpetrated by Muslims. More than fifty percent, on the other hand, were carried out by Neo-Nazis, white supremacists, or other far right groups. So why do Americans spend so much time worrying about "radical Islamic terrorism?" This week on Hidden Brain, we look at how the media over-covers some acts of terrorism — and quickly forgets others. We also look at some of the psychological reasons we have a hard time putting the threat of terrorism in perspective.]]></itunes:summary>
+      <itunes:subtitle><![CDATA[In a five year period from 2011 to 2016, just twelve percent of terrorist attacks in the United States were perpetrated by Muslims. More than fifty percent, on the other hand, were carried out by Neo-Nazis, white supremacists, or other far right groups. So why do Americans spend so much time worrying about "radical Islamic terrorism?" This week on Hidden Brain, we look at how the media over-covers some acts of terrorism — and quickly forgets others. We also look at some of the psychological reasons we have a hard time putting the threat of terrorism in perspective.]]></itunes:subtitle>
+      <itunes:image href="https://media.npr.org/assets/img/2017/06/19/gettyimages-502204100_wide-acda63725670abeb980a06f79ab0fb519cf083da.jpg?s=1400"/>
+      <itunes:duration>1668</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <enclosure url="https://play.podtrac.com/npr-510308/npr.mc.tritondigital.com/NPR_510308/media/anon.npr-mp3/npr/hiddenbrain/2017/06/20170619_hiddenbrain_75.mp3?orgId=1&amp;d=1668&amp;p=510308&amp;story=532601348&amp;t=podcast&amp;e=532601348&amp;ft=pod&amp;f=510308" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Rap on Trial</title>
+      <description><![CDATA[Olutosin Oduwole was an aspiring rapper and college student when he was arrested in 2007. He was given an unusual charge: "attempting to make a terrorist threat." Prosecutors used his writings — which he maintains were rap lyrics — to build their case against him. This week on Hidden Brain, we revisit Oduwole's story, and how public perceptions of rap music may have played a role.]]></description>
+      <pubDate>Mon, 12 Jun 2017 21:00:27 -0400</pubDate>
+      <copyright>Copyright 2015 NPR - For Personal Use Only</copyright>
+      <guid>6ca7e42d-48e4-45e5-aed8-c7854814ed2b</guid>
+      <itunes:author>NPR</itunes:author>
+      <itunes:summary><![CDATA[Olutosin Oduwole was an aspiring rapper and college student when he was arrested in 2007. He was given an unusual charge: "attempting to make a terrorist threat." Prosecutors used his writings — which he maintains were rap lyrics — to build their case against him. This week on Hidden Brain, we revisit Oduwole's story, and how public perceptions of rap music may have played a role.]]></itunes:summary>
+      <itunes:subtitle><![CDATA[Olutosin Oduwole was an aspiring rapper and college student when he was arrested in 2007. He was given an unusual charge: "attempting to make a terrorist threat." Prosecutors used his writings — which he maintains were rap lyrics — to build their case against him. This week on Hidden Brain, we revisit Oduwole's story, and how public perceptions of rap music may have played a role.]]></itunes:subtitle>
+      <itunes:image href="https://media.npr.org/assets/img/2017/06/12/tosin-2_wide-40d16d998812f6570a44792cfebdc27ca3f44061.jpg?s=1400"/>
+      <itunes:duration>3308</itunes:duration>
+      <itunes:explicit>yes</itunes:explicit>
+      <enclosure url="https://play.podtrac.com/npr-510308/npr.mc.tritondigital.com/NPR_510308/media/anon.npr-mp3/npr/hiddenbrain/2017/06/20170612_hiddenbrain_74.mp3?orgId=1&amp;d=3308&amp;p=510308&amp;story=532603567&amp;t=podcast&amp;e=532603567&amp;ft=pod&amp;f=510308" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>In The Air We Breathe </title>
+      <description><![CDATA[After a police-involved shooting, there's often a familiar blame game: Maybe the cop was racist. Maybe the person who was shot really <em>was</em> threatening. Or maybe, the bias that leads cops to shoot affects us all. This week on Hidden Brain, we explore how unconscious bias can infect a culture — and how a police shooting may say as much about a community as it does about individuals.]]></description>
+      <pubDate>Mon, 05 Jun 2017 22:07:00 -0400</pubDate>
+      <copyright>Copyright 2015 NPR - For Personal Use Only</copyright>
+      <guid>5c401882-6a6b-40ea-a27f-5c7254f7afa9</guid>
+      <itunes:author>NPR</itunes:author>
+      <itunes:summary><![CDATA[After a police-involved shooting, there's often a familiar blame game: Maybe the cop was racist. Maybe the person who was shot really <em>was</em> threatening. Or maybe, the bias that leads cops to shoot affects us all. This week on Hidden Brain, we explore how unconscious bias can infect a culture — and how a police shooting may say as much about a community as it does about individuals.]]></itunes:summary>
+      <itunes:subtitle><![CDATA[After a police-involved shooting, there's often a familiar blame game: Maybe the cop was racist. Maybe the person who was shot really <em>was</em> threatening. Or maybe, the bias that leads cops to shoot affects us all. This week on Hidden Brain, we explore how unconscious bias can infect a culture — and how a police shooting may say as much about a community as it does about individuals.]]></itunes:subtitle>
+      <itunes:image href="https://media.npr.org/assets/img/2017/06/05/gettyimages-668939896_wide-4b175a06de32e45db9287cce5b230544df18f35c.jpg?s=1400"/>
+      <itunes:duration>2290</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <enclosure url="https://play.podtrac.com/npr-510308/npr.mc.tritondigital.com/NPR_510308/media/anon.npr-mp3/npr/hiddenbrain/2017/06/20170605_hiddenbrain_73b.mp3?orgId=1&amp;d=2290&amp;p=510308&amp;story=531587708&amp;t=podcast&amp;e=531587708&amp;ft=pod&amp;f=510308" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Broken Windows </title>
+      <description><![CDATA[In the early 1980s, a couple of researchers wrote an article in <em>The Atlantic</em> that would have far-reaching consequences. The article introduced a new idea about crime and policing. It was called Broken Windows. The idea was simple: A broken window is a sign of a neglected community, and a neglected community is a place where crime can thrive. The researchers said, if police fixed the small problems that created visible signs of disorder, the big ones would disappear. Today, we explore how ideas sometimes get away from those who invented them... and then are taken to places that were never intended.]]></description>
+      <pubDate>Mon, 29 May 2017 21:00:04 -0400</pubDate>
+      <copyright>Copyright 2015 NPR - For Personal Use Only</copyright>
+      <guid>01ecc15d-9159-447e-8e88-f5cf9e64c605</guid>
+      <itunes:author>NPR</itunes:author>
+      <itunes:summary><![CDATA[In the early 1980s, a couple of researchers wrote an article in <em>The Atlantic</em> that would have far-reaching consequences. The article introduced a new idea about crime and policing. It was called Broken Windows. The idea was simple: A broken window is a sign of a neglected community, and a neglected community is a place where crime can thrive. The researchers said, if police fixed the small problems that created visible signs of disorder, the big ones would disappear. Today, we explore how ideas sometimes get away from those who invented them... and then are taken to places that were never intended.]]></itunes:summary>
+      <itunes:subtitle><![CDATA[In the early 1980s, a couple of researchers wrote an article in <em>The Atlantic</em> that would have far-reaching consequences. The article introduced a new idea about crime and policing. It was called Broken Windows. The idea was simple: A broken window is a sign of a neglected community, and a neglected community is a place where crime can thrive. The researchers said, if police fixed the small problems that created visible signs of disorder, the big ones would disappear. Today, we explore how ideas sometimes get away from those who invented them... and then are taken to places that were never intended.]]></itunes:subtitle>
+      <itunes:image href="https://media.npr.org/assets/img/2017/05/25/gettyimages-97829814-353ffb3ecdeaa5969f9ed003a20de33201e178f4_wide-6414e7d1ac6189fc7047c91da0a5f98b72e5f22c.jpg?s=1400"/>
+      <itunes:duration>1847</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <enclosure url="https://play.podtrac.com/npr-510308/npr.mc.tritondigital.com/NPR_510308/media/anon.npr-mp3/npr/hiddenbrain/2017/05/20170526_hiddenbrain_windows.mp3?orgId=1&amp;d=1847&amp;p=510308&amp;story=530128565&amp;t=podcast&amp;e=530128565&amp;ft=pod&amp;f=510308" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Me, Myself, and IKEA</title>
+      <description><![CDATA[It's normal to feel drawn to people you share something with — whether that's a name, or a birthday, or a common background. But did you know that women named Georgia also gravitate toward the state of Georgia? And Virginias are slightly more likely to move to Virginia? Or that people with the last name Carpenter are actually more likely to <em>be</em> carpenters? This week on Hidden Brain, we talk about all the subtle ways we prefer things that have something to do with us, and why that means, for example, we prefer that IKEA furniture we built ourselves. This phenomenon — which we're calling the Narcissus Effect — can have much bigger implications than we might at first think.]]></description>
+      <pubDate>Mon, 22 May 2017 21:00:00 -0400</pubDate>
+      <copyright>Copyright 2015 NPR - For Personal Use Only</copyright>
+      <guid>8241888d-49bb-464b-b81c-534d934166ac</guid>
+      <itunes:author>NPR</itunes:author>
+      <itunes:summary><![CDATA[It's normal to feel drawn to people you share something with — whether that's a name, or a birthday, or a common background. But did you know that women named Georgia also gravitate toward the state of Georgia? And Virginias are slightly more likely to move to Virginia? Or that people with the last name Carpenter are actually more likely to <em>be</em> carpenters? This week on Hidden Brain, we talk about all the subtle ways we prefer things that have something to do with us, and why that means, for example, we prefer that IKEA furniture we built ourselves. This phenomenon — which we're calling the Narcissus Effect — can have much bigger implications than we might at first think.]]></itunes:summary>
+      <itunes:subtitle><![CDATA[It's normal to feel drawn to people you share something with — whether that's a name, or a birthday, or a common background. But did you know that women named Georgia also gravitate toward the state of Georgia? And Virginias are slightly more likely to move to Virginia? Or that people with the last name Carpenter are actually more likely to <em>be</em> carpenters? This week on Hidden Brain, we talk about all the subtle ways we prefer things that have something to do with us, and why that means, for example, we prefer that IKEA furniture we built ourselves. This phenomenon — which we're calling the Narcissus Effect — can have much bigger implications than we might at first think.]]></itunes:subtitle>
+      <itunes:image href="https://media.npr.org/assets/img/2017/05/22/artboard-1_wide-be752a58d7829294a6c3d20598cabd60c90c251e.png?s=1400"/>
+      <itunes:duration>1513</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <enclosure url="https://play.podtrac.com/npr-510308/npr.mc.tritondigital.com/NPR_510308/media/anon.npr-mp3/npr/hiddenbrain/2017/05/20170522_hiddenbrain_72b.mp3?orgId=1&amp;d=1513&amp;p=510308&amp;story=529127224&amp;t=podcast&amp;e=529127224&amp;ft=pod&amp;f=510308" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Ep. 71: The Fox and the Hedgehog </title>
+      <description><![CDATA[The Greek poet Archilochus is known for the phrase, "The fox knows many things; the hedgehog one big thing." This week, we'll use this metaphor as a way to understand two different cognitive styles. The first is that of a tactician who is comfortable with nuance and contradiction (the fox), the second is that of a big thinker, motivated by one organizing idea (the hedgehog). We'll explore this idea through the story of a pioneering surgeon whose hedgehog tendencies led him to great triumphs, and a heartbreaking tragedy.]]></description>
+      <pubDate>Mon, 15 May 2017 21:00:00 -0400</pubDate>
+      <copyright>Copyright 2015 NPR - For Personal Use Only</copyright>
+      <guid>0ed9ff14-1b4a-45f9-85dd-a712e50cc40c</guid>
+      <itunes:author>NPR</itunes:author>
+      <itunes:summary><![CDATA[The Greek poet Archilochus is known for the phrase, "The fox knows many things; the hedgehog one big thing." This week, we'll use this metaphor as a way to understand two different cognitive styles. The first is that of a tactician who is comfortable with nuance and contradiction (the fox), the second is that of a big thinker, motivated by one organizing idea (the hedgehog). We'll explore this idea through the story of a pioneering surgeon whose hedgehog tendencies led him to great triumphs, and a heartbreaking tragedy.]]></itunes:summary>
+      <itunes:subtitle><![CDATA[The Greek poet Archilochus is known for the phrase, "The fox knows many things; the hedgehog one big thing." This week, we'll use this metaphor as a way to understand two different cognitive styles. The first is that of a tactician who is comfortable with nuance and contradiction (the fox), the second is that of a big thinker, motivated by one organizing idea (the hedgehog). We'll explore this idea through the story of a pioneering surgeon whose hedgehog tendencies led him to great triumphs, and a heartbreaking tragedy.]]></itunes:subtitle>
+      <itunes:image href="https://media.npr.org/assets/img/2017/05/12/hedge_fox_wide-ec1df503c3c1f141ee00319365313e7dcb476cf2.png?s=1400"/>
+      <itunes:duration>2262</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <enclosure url="https://play.podtrac.com/npr-510308/npr.mc.tritondigital.com/NPR_510308/media/anon.npr-mp3/npr/hiddenbrain/2017/05/20170515_hiddenbrain_fandh.mp3?orgId=1&amp;d=2262&amp;p=510308&amp;story=528039332&amp;t=podcast&amp;e=528039332&amp;ft=pod&amp;f=510308" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Encore of Ep. 45: What Are The Odds?</title>
+      <description><![CDATA[This week on Hidden Brain: coincidences. Why they're not quite as magical as they seem, and the reasons we can't help but search for meaning in them anyway.]]></description>
+      <pubDate>Mon, 08 May 2017 21:00:23 -0400</pubDate>
+      <copyright>Copyright 2015 NPR - For Personal Use Only</copyright>
+      <guid>537c7292-fcc4-4a9c-9a5a-33b8a009e64a</guid>
+      <itunes:author>NPR</itunes:author>
+      <itunes:summary><![CDATA[This week on Hidden Brain: coincidences. Why they're not quite as magical as they seem, and the reasons we can't help but search for meaning in them anyway.]]></itunes:summary>
+      <itunes:subtitle><![CDATA[This week on Hidden Brain: coincidences. Why they're not quite as magical as they seem, and the reasons we can't help but search for meaning in them anyway.]]></itunes:subtitle>
+      <itunes:image href="https://media.npr.org/assets/img/2017/05/08/ap_120328065129_wide-7a93504ad3a1e5f8216a077c721d358d4e7c60bb.jpg?s=1400"/>
+      <itunes:duration>1780</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <enclosure url="https://play.podtrac.com/npr-510308/npr.mc.tritondigital.com/NPR_510308/media/anon.npr-mp3/npr/hiddenbrain/2017/05/20170508_hiddenbrain_45b.mp3?orgId=1&amp;d=1780&amp;p=510308&amp;story=527053652&amp;t=podcast&amp;e=527053652&amp;ft=pod&amp;f=510308" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Ep. 70: Who We Are At 2 A.M.</title>
+      <description><![CDATA[Have you ever googled something that you would never dream of saying out loud to another human being? Many of us turn to Google when we have a deeply personal or embarrassing question. And we're often more honest when we type our questions into search engines than when we answer surveys or talk to friends. Seth Stephens-Davidowitz, a former data scientist at Google, says our online searches provide unprecedented insight into what we truly think, want, and do. This week on Hidden Brain, what big data knows about our deepest thoughts and secrets.]]></description>
+      <pubDate>Mon, 01 May 2017 21:00:00 -0400</pubDate>
+      <copyright>Copyright 2015 NPR - For Personal Use Only</copyright>
+      <guid>65853d81-6b71-48f1-8456-3509e9697cab</guid>
+      <itunes:author>NPR</itunes:author>
+      <itunes:summary><![CDATA[Have you ever googled something that you would never dream of saying out loud to another human being? Many of us turn to Google when we have a deeply personal or embarrassing question. And we're often more honest when we type our questions into search engines than when we answer surveys or talk to friends. Seth Stephens-Davidowitz, a former data scientist at Google, says our online searches provide unprecedented insight into what we truly think, want, and do. This week on Hidden Brain, what big data knows about our deepest thoughts and secrets.]]></itunes:summary>
+      <itunes:subtitle><![CDATA[Have you ever googled something that you would never dream of saying out loud to another human being? Many of us turn to Google when we have a deeply personal or embarrassing question. And we're often more honest when we type our questions into search engines than when we answer surveys or talk to friends. Seth Stephens-Davidowitz, a former data scientist at Google, says our online searches provide unprecedented insight into what we truly think, want, and do. This week on Hidden Brain, what big data knows about our deepest thoughts and secrets.]]></itunes:subtitle>
+      <itunes:image href="https://media.npr.org/assets/img/2017/05/01/gettyimages-688899343-2-1_wide-c880964ff239e521154aab1293b92ee0e3e221d8.jpg?s=1400"/>
+      <itunes:duration>1700</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <enclosure url="https://play.podtrac.com/npr-510308/npr.mc.tritondigital.com/NPR_510308/media/anon.npr-podcasts/podcast/npr/hiddenbrain/2017/06/20170626_hiddenbrain_70-2e60d10d-d4dc-45cf-8fc5-b03132ebe7ea.mp3?orgId=1&amp;d=1700&amp;p=510308&amp;story=526399509&amp;t=podcast&amp;e=526399509&amp;ft=pod&amp;f=510308" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Episode 69: Money Talks</title>
+      <description><![CDATA[How do you spend your money? On food, transportation, or housing? On shoes, cars, coffee, fancy restaurants? You might think you use money just to, you know, buy stuff. But as Neeru Paharia explains, the way we spend often says a lot about who we are, and what we want to project. We use money to express our values — by going to the local coffee shop instead of Starbucks, or by boycotting — or buycotting — Ivanka Trump shoes. We delete Uber; we refuse to fly United. We seek out or avoid Chick-fil-A. This week on Hidden Brain, the ways we use our money to tell stories about ourselves, and to ourselves.]]></description>
+      <pubDate>Mon, 24 Apr 2017 21:00:00 -0400</pubDate>
+      <copyright>Copyright 2015 NPR - For Personal Use Only</copyright>
+      <guid>73ee6c3a-47d0-4419-a045-5c8b2e48e518</guid>
+      <itunes:author>NPR</itunes:author>
+      <itunes:summary><![CDATA[How do you spend your money? On food, transportation, or housing? On shoes, cars, coffee, fancy restaurants? You might think you use money just to, you know, buy stuff. But as Neeru Paharia explains, the way we spend often says a lot about who we are, and what we want to project. We use money to express our values — by going to the local coffee shop instead of Starbucks, or by boycotting — or buycotting — Ivanka Trump shoes. We delete Uber; we refuse to fly United. We seek out or avoid Chick-fil-A. This week on Hidden Brain, the ways we use our money to tell stories about ourselves, and to ourselves.]]></itunes:summary>
+      <itunes:subtitle><![CDATA[How do you spend your money? On food, transportation, or housing? On shoes, cars, coffee, fancy restaurants? You might think you use money just to, you know, buy stuff. But as Neeru Paharia explains, the way we spend often says a lot about who we are, and what we want to project. We use money to express our values — by going to the local coffee shop instead of Starbucks, or by boycotting — or buycotting — Ivanka Trump shoes. We delete Uber; we refuse to fly United. We seek out or avoid Chick-fil-A. This week on Hidden Brain, the ways we use our money to tell stories about ourselves, and to ourselves.]]></itunes:subtitle>
+      <itunes:image href="https://media.npr.org/assets/img/2017/04/21/ap_4652639316911_wide-e340ff96a8ae8b1d5f2bb9054ba29c36a55dbc67.jpg?s=1400"/>
+      <itunes:duration>1492</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <enclosure url="https://play.podtrac.com/npr-510308/npr.mc.tritondigital.com/NPR_510308/media/anon.npr-podcasts/podcast/npr/hiddenbrain/2017/06/20170626_hiddenbrain_69-3952f3fd-49fb-43f1-afdf-73d42fa9fbd8.mp3?orgId=1&amp;d=1492&amp;p=510308&amp;story=525058283&amp;t=podcast&amp;e=525058283&amp;ft=pod&amp;f=510308" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Ep. 68: Schadenfacebook</title>
+      <description><![CDATA[Millions of people around the world use social media every day to stay in touch with friends and family. But ironically, studies have shown that people who spend more time on these sites feel more socially isolated than those who don't. This week on Hidden Brain, we explore the psychological effects that social media has on us, and how FOMO — or, the fear of missing out — can lead to actually missing out.]]></description>
+      <pubDate>Mon, 17 Apr 2017 21:00:00 -0400</pubDate>
+      <copyright>Copyright 2015 NPR - For Personal Use Only</copyright>
+      <guid>63f23fe3-3942-48f7-8ce1-aec9965b5601</guid>
+      <itunes:author>NPR</itunes:author>
+      <itunes:summary><![CDATA[Millions of people around the world use social media every day to stay in touch with friends and family. But ironically, studies have shown that people who spend more time on these sites feel more socially isolated than those who don't. This week on Hidden Brain, we explore the psychological effects that social media has on us, and how FOMO — or, the fear of missing out — can lead to actually missing out.]]></itunes:summary>
+      <itunes:subtitle><![CDATA[Millions of people around the world use social media every day to stay in touch with friends and family. But ironically, studies have shown that people who spend more time on these sites feel more socially isolated than those who don't. This week on Hidden Brain, we explore the psychological effects that social media has on us, and how FOMO — or, the fear of missing out — can lead to actually missing out.]]></itunes:subtitle>
+      <itunes:image href="https://media.npr.org/assets/img/2017/04/14/gettyimages-4808153311_wide-f0e3785eaca0af1196d014beedc2b41d564db469.jpg?s=1400"/>
+      <itunes:duration>1629</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <enclosure url="https://play.podtrac.com/npr-510308/npr.mc.tritondigital.com/NPR_510308/media/anon.npr-podcasts/podcast/npr/hiddenbrain/2017/06/20170626_hiddenbrain_68-b85df8de-b04b-4d0c-a2c0-58725f737607.mp3?orgId=1&amp;d=1629&amp;p=510308&amp;story=523776956&amp;t=podcast&amp;e=523776956&amp;ft=pod&amp;f=510308" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Encore of Ep. 35: Creature Comforts</title>
+      <description><![CDATA[This week, Hidden Brain considers the power of touch. First, Alison MacAdam tells us the story of her security blanket, called Baba. Then, Shankar interviews writer Deborah Blum about groundbreaking experiments into the importance of affection for young children.]]></description>
+      <pubDate>Mon, 10 Apr 2017 21:01:00 -0400</pubDate>
+      <copyright>Copyright 2015 NPR - For Personal Use Only</copyright>
+      <guid>42bd4b3b-167c-4410-ad98-d4c013c65218</guid>
+      <itunes:author>NPR</itunes:author>
+      <itunes:summary><![CDATA[This week, Hidden Brain considers the power of touch. First, Alison MacAdam tells us the story of her security blanket, called Baba. Then, Shankar interviews writer Deborah Blum about groundbreaking experiments into the importance of affection for young children.]]></itunes:summary>
+      <itunes:subtitle><![CDATA[This week, Hidden Brain considers the power of touch. First, Alison MacAdam tells us the story of her security blanket, called Baba. Then, Shankar interviews writer Deborah Blum about groundbreaking experiments into the importance of affection for young children.]]></itunes:subtitle>
+      <itunes:image href="https://media.npr.org/assets/img/2017/04/10/baby-blanket1_wide-d0646e838da3bed9aa296f4474cc3176f5f3ab8f.jpg?s=1400"/>
+      <itunes:duration>1788</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <enclosure url="https://play.podtrac.com/npr-510308/npr.mc.tritondigital.com/NPR_510308/media/anon.npr-podcasts/podcast/npr/hiddenbrain/2017/06/20170626_hiddenbrain_35-d477b50d-77e2-44ab-a039-3af17573fa05.mp3?orgId=1&amp;d=1788&amp;p=510308&amp;story=523055475&amp;t=podcast&amp;e=523055475&amp;ft=pod&amp;f=510308" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Ep. 67: The Hole </title>
+      <description><![CDATA[Imagine a concrete room, not much bigger than a parking space. You're in there 23 hours a day, 7 days a week. This is the reality of solitary confinement at prisons across the United States. Keramet Reiter, a criminology professor at UC Irvine, says that while some inmates in solitary are dangerous, others are there because they're difficult for prisons to manage, or because of bureaucratic inertia. This week on Hidden Brain, we look at what happens in solitary confinement, and the psychological effects of being alone for long periods of time.]]></description>
+      <pubDate>Mon, 03 Apr 2017 21:01:00 -0400</pubDate>
+      <copyright>Copyright 2015 NPR - For Personal Use Only</copyright>
+      <guid>2bc4d32a-2a97-41bb-9815-4f6c904a8b81</guid>
+      <itunes:author>NPR</itunes:author>
+      <itunes:summary><![CDATA[Imagine a concrete room, not much bigger than a parking space. You're in there 23 hours a day, 7 days a week. This is the reality of solitary confinement at prisons across the United States. Keramet Reiter, a criminology professor at UC Irvine, says that while some inmates in solitary are dangerous, others are there because they're difficult for prisons to manage, or because of bureaucratic inertia. This week on Hidden Brain, we look at what happens in solitary confinement, and the psychological effects of being alone for long periods of time.]]></itunes:summary>
+      <itunes:subtitle><![CDATA[Imagine a concrete room, not much bigger than a parking space. You're in there 23 hours a day, 7 days a week. This is the reality of solitary confinement at prisons across the United States. Keramet Reiter, a criminology professor at UC Irvine, says that while some inmates in solitary are dangerous, others are there because they're difficult for prisons to manage, or because of bureaucratic inertia. This week on Hidden Brain, we look at what happens in solitary confinement, and the psychological effects of being alone for long periods of time.]]></itunes:subtitle>
+      <itunes:image href="https://media.npr.org/assets/img/2017/04/03/the-hole_wide-ecec170555ae72272e3dc295370415dbf72e11d8.jpg?s=1400"/>
+      <itunes:duration>1586</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <enclosure url="https://play.podtrac.com/npr-510308/npr.mc.tritondigital.com/NPR_510308/media/anon.npr-mp3/npr/hiddenbrain/2017/04/20170403_hiddenbrain_67.mp3?orgId=1&amp;d=1586&amp;p=510308&amp;story=522460222&amp;t=podcast&amp;e=522460222&amp;ft=pod&amp;f=510308" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Ep. 66: Liar, Liar </title>
+      <description><![CDATA[Everybody lies. This is not breaking news. But what separates the average person from the infamous cheaters we see on the news? Dan Ariely says we like to think it's character — but in his research he's found it's more often <em>opportunity</em>. Dan Ariely is a professor at Duke University and the author of the book <em>The Honest Truth About Dishonesty: How We Lie to Everyone — Especially Ourselves.</em>]]></description>
+      <pubDate>Mon, 27 Mar 2017 21:00:00 -0400</pubDate>
+      <copyright>Copyright 2015 NPR - For Personal Use Only</copyright>
+      <guid>a6d877cd-e9f0-42f2-ab07-a3d13b9bfce0</guid>
+      <itunes:author>NPR</itunes:author>
+      <itunes:summary><![CDATA[Everybody lies. This is not breaking news. But what separates the average person from the infamous cheaters we see on the news? Dan Ariely says we like to think it's character — but in his research he's found it's more often <em>opportunity</em>. Dan Ariely is a professor at Duke University and the author of the book <em>The Honest Truth About Dishonesty: How We Lie to Everyone — Especially Ourselves.</em>]]></itunes:summary>
+      <itunes:subtitle><![CDATA[Everybody lies. This is not breaking news. But what separates the average person from the infamous cheaters we see on the news? Dan Ariely says we like to think it's character — but in his research he's found it's more often <em>opportunity</em>. Dan Ariely is a professor at Duke University and the author of the book <em>The Honest Truth About Dishonesty: How We Lie to Everyone — Especially Ourselves.</em>]]></itunes:subtitle>
+      <itunes:image href="https://media.npr.org/assets/img/2017/03/27/gettyimages-200116762-001_wide-4952fe7f7881dde8b0d9d15aed97e685f7050b02.jpg?s=1400"/>
+      <itunes:duration>1786</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <enclosure url="https://play.podtrac.com/npr-510308/npr.mc.tritondigital.com/NPR_510308/media/anon.npr-mp3/npr/hiddenbrain/2017/03/20170327_hiddenbrain_66.mp3?orgId=1&amp;d=1786&amp;p=510308&amp;story=521663770&amp;t=podcast&amp;e=521663770&amp;ft=pod&amp;f=510308" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Episode 65: Tunnel Vision </title>
+      <description><![CDATA[When you're hungry, it can be hard to think of anything other than food. When you're desperately poor, you may constantly worry about making ends meet. When you're lonely, you might obsess about making friends. This week on Hidden Brain, we explore the psychological phenomenon of <em>scarcity </em>and how it can affect our ability to see the big picture and cope with problems in our lives.]]></description>
+      <pubDate>Mon, 20 Mar 2017 21:00:14 -0400</pubDate>
+      <copyright>Copyright 2015 NPR - For Personal Use Only</copyright>
+      <guid>e601ab3e-deb9-457c-a15d-4c83456e2fb4</guid>
+      <itunes:author>NPR</itunes:author>
+      <itunes:summary><![CDATA[When you're hungry, it can be hard to think of anything other than food. When you're desperately poor, you may constantly worry about making ends meet. When you're lonely, you might obsess about making friends. This week on Hidden Brain, we explore the psychological phenomenon of <em>scarcity </em>and how it can affect our ability to see the big picture and cope with problems in our lives.]]></itunes:summary>
+      <itunes:subtitle><![CDATA[When you're hungry, it can be hard to think of anything other than food. When you're desperately poor, you may constantly worry about making ends meet. When you're lonely, you might obsess about making friends. This week on Hidden Brain, we explore the psychological phenomenon of <em>scarcity </em>and how it can affect our ability to see the big picture and cope with problems in our lives.]]></itunes:subtitle>
+      <itunes:duration>2200</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <enclosure url="https://play.podtrac.com/npr-510308/npr.mc.tritondigital.com/NPR_510308/media/anon.npr-mp3/npr/hiddenbrain/2017/03/20170320_hiddenbrain_65.mp3?orgId=1&amp;d=2200&amp;p=510308&amp;story=520136937&amp;t=podcast&amp;e=520136937&amp;ft=pod&amp;f=510308" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Ep. 64: I'm Right, You're Wrong</title>
+      <description><![CDATA[There are some topics about which it seems no amount of data will change people's minds: things like climate change, or restrictions on gun ownership. Neuroscientist Tali Sharot says that's actually for good reason. As a general rule, she says, it's better to stick to your beliefs and disregard new information that contradicts them. But this also means it's very difficult to change false beliefs. This week, we look at how we process information, and why it's so hard to change our views.]]></description>
+      <pubDate>Mon, 13 Mar 2017 21:00:19 -0400</pubDate>
+      <copyright>Copyright 2015 NPR - For Personal Use Only</copyright>
+      <guid>31e5e70b-4041-4fbb-81bd-a59057307bb3</guid>
+      <itunes:author>NPR</itunes:author>
+      <itunes:summary><![CDATA[There are some topics about which it seems no amount of data will change people's minds: things like climate change, or restrictions on gun ownership. Neuroscientist Tali Sharot says that's actually for good reason. As a general rule, she says, it's better to stick to your beliefs and disregard new information that contradicts them. But this also means it's very difficult to change false beliefs. This week, we look at how we process information, and why it's so hard to change our views.]]></itunes:summary>
+      <itunes:subtitle><![CDATA[There are some topics about which it seems no amount of data will change people's minds: things like climate change, or restrictions on gun ownership. Neuroscientist Tali Sharot says that's actually for good reason. As a general rule, she says, it's better to stick to your beliefs and disregard new information that contradicts them. But this also means it's very difficult to change false beliefs. This week, we look at how we process information, and why it's so hard to change our views.]]></itunes:subtitle>
+      <itunes:image href="https://media.npr.org/assets/img/2017/03/13/misinfornedcustom_wide-4761b5abcc60dd914c3adc15f571544a232b0b67.png?s=1400"/>
+      <itunes:duration>1394</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <enclosure url="https://play.podtrac.com/npr-510308/npr.mc.tritondigital.com/NPR_510308/media/anon.npr-mp3/npr/hiddenbrain/2017/03/20170313_hiddenbrain_64.mp3?orgId=1&amp;d=1394&amp;p=510308&amp;story=519234721&amp;t=podcast&amp;e=519234721&amp;ft=pod&amp;f=510308" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Encore of Ep. 24: Tribes and Traitors</title>
+      <description><![CDATA[Nearly a year ago, we ran an episode about one of the world's most intractable divides: the Israeli–Palestinian conflict. Since that story aired, a solution seems even more out of reach. We wanted to play this episode again, because it offers something we don't often hear in the news: empathy for the other side.]]></description>
+      <pubDate>Mon, 06 Mar 2017 21:00:15 -0500</pubDate>
+      <copyright>Copyright 2015 NPR - For Personal Use Only</copyright>
+      <guid>2f81f65d-aada-47b5-ae0c-b4ee79ae1bbd</guid>
+      <itunes:author>NPR</itunes:author>
+      <itunes:summary><![CDATA[Nearly a year ago, we ran an episode about one of the world's most intractable divides: the Israeli–Palestinian conflict. Since that story aired, a solution seems even more out of reach. We wanted to play this episode again, because it offers something we don't often hear in the news: empathy for the other side.]]></itunes:summary>
+      <itunes:subtitle><![CDATA[Nearly a year ago, we ran an episode about one of the world's most intractable divides: the Israeli–Palestinian conflict. Since that story aired, a solution seems even more out of reach. We wanted to play this episode again, because it offers something we don't often hear in the news: empathy for the other side.]]></itunes:subtitle>
+      <itunes:image href="https://media.npr.org/assets/img/2017/03/06/tribes-and-traitors_wide-51f56379f9a287c7835f0cbf3e1986c997ef6a74.jpg?s=1400"/>
+      <itunes:duration>1827</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <enclosure url="https://play.podtrac.com/npr-510308/npr.mc.tritondigital.com/NPR_510308/media/anon.npr-mp3/npr/hiddenbrain/2017/03/20170306_hiddenbrain_24.mp3?orgId=1&amp;d=1827&amp;p=510308&amp;story=518196343&amp;t=podcast&amp;e=518196343&amp;ft=pod&amp;f=510308" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Ep. 63: "I'm Not A Terrorist..."</title>
+      <description><![CDATA[Making jokes about politics is a tradition as old as America itself. These days, of course, comedians have a new target: President Donald Trump. We talk with Iranian-American comedian Maz Jobrani about finding humor in the midst of deep political divides, and how he uses an understanding of human nature to craft a successful punchline.]]></description>
+      <pubDate>Mon, 27 Feb 2017 21:00:00 -0500</pubDate>
+      <copyright>Copyright 2015 NPR - For Personal Use Only</copyright>
+      <guid>32267ca8-6e60-4e80-a3ae-39d0eda9634d</guid>
+      <itunes:author>NPR</itunes:author>
+      <itunes:summary><![CDATA[Making jokes about politics is a tradition as old as America itself. These days, of course, comedians have a new target: President Donald Trump. We talk with Iranian-American comedian Maz Jobrani about finding humor in the midst of deep political divides, and how he uses an understanding of human nature to craft a successful punchline.]]></itunes:summary>
+      <itunes:subtitle><![CDATA[Making jokes about politics is a tradition as old as America itself. These days, of course, comedians have a new target: President Donald Trump. We talk with Iranian-American comedian Maz Jobrani about finding humor in the midst of deep political divides, and how he uses an understanding of human nature to craft a successful punchline.]]></itunes:subtitle>
+      <itunes:duration>1438</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <enclosure url="https://play.podtrac.com/npr-510308/npr.mc.tritondigital.com/NPR_510308/media/anon.npr-mp3/npr/hiddenbrain/2017/02/20170227_hiddenbrain_63.mp3?orgId=1&amp;d=1438&amp;p=510308&amp;story=517577035&amp;t=podcast&amp;e=517577035&amp;ft=pod&amp;f=510308" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Episode 62: On The Knife's Edge</title>
+      <description><![CDATA[What would drive someone to take another person's life? When researchers at the University of Chicago asked that question, the answer was a laundry list of slights: a stolen jacket, or a carelessly lobbed insult. It made them wonder whether crime rates could be driven down by teaching young men to pause, take a deep breath, and think before they act. We'll go inside a program that teaches Chicago teens to do just that, and explore the research on whether this approach actually works.]]></description>
+      <pubDate>Tue, 21 Feb 2017 00:00:00 -0500</pubDate>
+      <copyright>Copyright 2015 NPR - For Personal Use Only</copyright>
+      <guid>c7e4df9b-be88-4c51-bdf8-c67df82fe0ec</guid>
+      <itunes:author>NPR</itunes:author>
+      <itunes:summary><![CDATA[What would drive someone to take another person's life? When researchers at the University of Chicago asked that question, the answer was a laundry list of slights: a stolen jacket, or a carelessly lobbed insult. It made them wonder whether crime rates could be driven down by teaching young men to pause, take a deep breath, and think before they act. We'll go inside a program that teaches Chicago teens to do just that, and explore the research on whether this approach actually works.]]></itunes:summary>
+      <itunes:subtitle><![CDATA[What would drive someone to take another person's life? When researchers at the University of Chicago asked that question, the answer was a laundry list of slights: a stolen jacket, or a carelessly lobbed insult. It made them wonder whether crime rates could be driven down by teaching young men to pause, take a deep breath, and think before they act. We'll go inside a program that teaches Chicago teens to do just that, and explore the research on whether this approach actually works.]]></itunes:subtitle>
+      <itunes:duration>1698</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <enclosure url="https://play.podtrac.com/npr-510308/npr.mc.tritondigital.com/NPR_510308/media/anon.npr-mp3/npr/hiddenbrain/2017/02/20170220_hiddenbrain_62.mp3?orgId=1&amp;d=1698&amp;p=510308&amp;story=515388194&amp;t=podcast&amp;e=515388194&amp;ft=pod&amp;f=510308" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Episode 61: Just Sex</title>
+      <description><![CDATA[We all know casual sex isn't about love. But what if it's not even about lust? Sociologist Lisa Wade believes the pervasive hookup culture on campuses today is different from that faced by previous generations. This week on Hidden Brain, we explore what this culture means for those who choose to participate, and for those who opt out.]]></description>
+      <pubDate>Tue, 14 Feb 2017 00:01:00 -0500</pubDate>
+      <copyright>Copyright 2015 NPR - For Personal Use Only</copyright>
+      <guid>a46af22b-2cec-438e-9c0b-8362b1e36f3d</guid>
+      <itunes:author>NPR</itunes:author>
+      <itunes:summary><![CDATA[We all know casual sex isn't about love. But what if it's not even about lust? Sociologist Lisa Wade believes the pervasive hookup culture on campuses today is different from that faced by previous generations. This week on Hidden Brain, we explore what this culture means for those who choose to participate, and for those who opt out.]]></itunes:summary>
+      <itunes:subtitle><![CDATA[We all know casual sex isn't about love. But what if it's not even about lust? Sociologist Lisa Wade believes the pervasive hookup culture on campuses today is different from that faced by previous generations. This week on Hidden Brain, we explore what this culture means for those who choose to participate, and for those who opt out.]]></itunes:subtitle>
+      <itunes:image href="https://media.npr.org/assets/img/2017/02/13/hookup_wide-b2508d0be00ffca26abe69c0b34002651f402fc7.jpg?s=1400"/>
+      <itunes:duration>1487</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <enclosure url="https://play.podtrac.com/npr-510308/npr.mc.tritondigital.com/NPR_510308/media/anon.npr-mp3/npr/hiddenbrain/2017/02/20170213_hiddenbrain_61.mp3?orgId=1&amp;d=1487&amp;p=510308&amp;story=515047133&amp;t=podcast&amp;e=515047133&amp;ft=pod&amp;f=510308" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Encore of Episode 20: Remembering Anarcha</title>
+      <description><![CDATA[A recent paper found that black patients receive less pain medication for broken bones and cancer. Black children receive less pain medication than white children for appendicitis. The research is new, but the phenomenon is not. This week, we revisit an episode from our archive that looked at the intersection of race, pain, and medicine. It might not be suitable for young children.]]></description>
+      <pubDate>Tue, 07 Feb 2017 00:00:30 -0500</pubDate>
+      <copyright>Copyright 2015 NPR - For Personal Use Only</copyright>
+      <guid>d01fa11b-c13d-48dd-9a5d-9786bc6e6dc2</guid>
+      <itunes:author>NPR</itunes:author>
+      <itunes:summary><![CDATA[A recent paper found that black patients receive less pain medication for broken bones and cancer. Black children receive less pain medication than white children for appendicitis. The research is new, but the phenomenon is not. This week, we revisit an episode from our archive that looked at the intersection of race, pain, and medicine. It might not be suitable for young children.]]></itunes:summary>
+      <itunes:subtitle><![CDATA[A recent paper found that black patients receive less pain medication for broken bones and cancer. Black children receive less pain medication than white children for appendicitis. The research is new, but the phenomenon is not. This week, we revisit an episode from our archive that looked at the intersection of race, pain, and medicine. It might not be suitable for young children.]]></itunes:subtitle>
+      <itunes:image href="https://media.npr.org/assets/img/2017/02/06/anarcha3_wide-a5730a81d71fb5b0f6bf753f4f6d95d79950ab46.png?s=1400"/>
+      <itunes:duration>1663</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <enclosure url="https://play.podtrac.com/npr-510308/npr.mc.tritondigital.com/NPR_510308/media/anon.npr-mp3/npr/hiddenbrain/2017/02/20170206_hiddenbrain_20.mp3?orgId=1&amp;d=1663&amp;p=510308&amp;story=513789813&amp;t=podcast&amp;e=513789813&amp;ft=pod&amp;f=510308" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Episode 60: Fortress America</title>
+      <description><![CDATA[Barely a week after assuming office, President Donald Trump set off a worldwide firestorm when he decided to temporarily ban entry to migrants from seven Muslim-majority countries and refugees from all over the world. In response, many people are looking to the past, to see what history can teach us. But this process can fraught with psychological peril. On today's Hidden Brain, we revisit a specific incident from World War II – the American decision to refuse entry to Jewish refugees aboard the SS St. Louis – and explore how it speaks to the current mood in the United States.]]></description>
+      <pubDate>Tue, 31 Jan 2017 00:00:29 -0500</pubDate>
+      <copyright>Copyright 2015 NPR - For Personal Use Only</copyright>
+      <guid>60af77eb-8cbe-4c36-9020-64bbd4e558d8</guid>
+      <itunes:author>NPR</itunes:author>
+      <itunes:summary><![CDATA[Barely a week after assuming office, President Donald Trump set off a worldwide firestorm when he decided to temporarily ban entry to migrants from seven Muslim-majority countries and refugees from all over the world. In response, many people are looking to the past, to see what history can teach us. But this process can fraught with psychological peril. On today's Hidden Brain, we revisit a specific incident from World War II – the American decision to refuse entry to Jewish refugees aboard the SS St. Louis – and explore how it speaks to the current mood in the United States.]]></itunes:summary>
+      <itunes:subtitle><![CDATA[Barely a week after assuming office, President Donald Trump set off a worldwide firestorm when he decided to temporarily ban entry to migrants from seven Muslim-majority countries and refugees from all over the world. In response, many people are looking to the past, to see what history can teach us. But this process can fraught with psychological peril. On today's Hidden Brain, we revisit a specific incident from World War II – the American decision to refuse entry to Jewish refugees aboard the SS St. Louis – and explore how it speaks to the current mood in the United States.]]></itunes:subtitle>
+      <itunes:image href="https://media.npr.org/assets/img/2017/01/30/ap_170310295081031_wide-f8e25179c22fbcfcae2bdfb3247768d7b0f3d1b9.jpg?s=1400"/>
+      <itunes:duration>1367</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <enclosure url="https://play.podtrac.com/npr-510308/npr.mc.tritondigital.com/NPR_510308/media/anon.npr-mp3/npr/hiddenbrain/2017/01/20170130_hiddenbrain_60.mp3?orgId=1&amp;d=1367&amp;p=510308&amp;story=512554523&amp;t=podcast&amp;e=512554523&amp;ft=pod&amp;f=510308" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Episode 59: The Deep Story</title>
+      <description><![CDATA[In the months since the presidential election, many have noted that lots of Americans live in bubbles — echo chambers filled with the voices of people who mostly agree with us. Sociologist Arlie Hochschild felt this long before the rise of Donald Trump, and five years ago she went on a mission to understand the other side. She left her own liberal bubble in Berkeley, California for a conservative one, deep in the Louisiana bayou.]]></description>
+      <pubDate>Tue, 24 Jan 2017 00:00:26 -0500</pubDate>
+      <copyright>Copyright 2015 NPR - For Personal Use Only</copyright>
+      <guid>93462a33-a7a1-4497-85d4-37786173586d</guid>
+      <itunes:author>NPR</itunes:author>
+      <itunes:summary><![CDATA[In the months since the presidential election, many have noted that lots of Americans live in bubbles — echo chambers filled with the voices of people who mostly agree with us. Sociologist Arlie Hochschild felt this long before the rise of Donald Trump, and five years ago she went on a mission to understand the other side. She left her own liberal bubble in Berkeley, California for a conservative one, deep in the Louisiana bayou.]]></itunes:summary>
+      <itunes:subtitle><![CDATA[In the months since the presidential election, many have noted that lots of Americans live in bubbles — echo chambers filled with the voices of people who mostly agree with us. Sociologist Arlie Hochschild felt this long before the rise of Donald Trump, and five years ago she went on a mission to understand the other side. She left her own liberal bubble in Berkeley, California for a conservative one, deep in the Louisiana bayou.]]></itunes:subtitle>
+      <itunes:duration>1366</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <enclosure url="https://play.podtrac.com/npr-510308/npr.mc.tritondigital.com/NPR_510308/media/anon.npr-mp3/npr/hiddenbrain/2017/01/20170123_hiddenbrain_59.mp3?orgId=1&amp;d=1366&amp;p=510308&amp;story=511200600&amp;t=podcast&amp;e=511200600&amp;ft=pod&amp;f=510308" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Episode 58: Pedestals and Guillotines</title>
+      <description><![CDATA[It's inauguration season, which means balls, parades, and celebrations. We may love the pomp and circumstance, but there's another, darker side to our psychology, too. Whether we like the new president or not, human beings have a strange and contradictory relationship with power and celebrity. We idolize the rich and famous, but also enjoy seeing them fall from their pedestals. This week on Hidden Brain, we explore this paradox: from Hollywood, to the White House, to the forests of Tanzania.]]></description>
+      <pubDate>Tue, 17 Jan 2017 00:00:22 -0500</pubDate>
+      <copyright>Copyright 2015 NPR - For Personal Use Only</copyright>
+      <guid>5a6017a7-48e5-4cb4-bbfb-6c72c473ce53</guid>
+      <itunes:author>NPR</itunes:author>
+      <itunes:summary><![CDATA[It's inauguration season, which means balls, parades, and celebrations. We may love the pomp and circumstance, but there's another, darker side to our psychology, too. Whether we like the new president or not, human beings have a strange and contradictory relationship with power and celebrity. We idolize the rich and famous, but also enjoy seeing them fall from their pedestals. This week on Hidden Brain, we explore this paradox: from Hollywood, to the White House, to the forests of Tanzania.]]></itunes:summary>
+      <itunes:subtitle><![CDATA[It's inauguration season, which means balls, parades, and celebrations. We may love the pomp and circumstance, but there's another, darker side to our psychology, too. Whether we like the new president or not, human beings have a strange and contradictory relationship with power and celebrity. We idolize the rich and famous, but also enjoy seeing them fall from their pedestals. This week on Hidden Brain, we explore this paradox: from Hollywood, to the White House, to the forests of Tanzania.]]></itunes:subtitle>
+      <itunes:image href="https://media.npr.org/assets/img/2017/01/13/gettyimages-1318573771_wide-4712517f89d7939b8e20f02bd4bc86cbf6bbf528.jpg?s=1400"/>
+      <itunes:duration>1401</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <enclosure url="https://play.podtrac.com/npr-510308/npr.mc.tritondigital.com/NPR_510308/media/anon.npr-mp3/npr/hiddenbrain/2017/01/20170113_hiddenbrain_58.mp3?orgId=1&amp;d=1401&amp;p=510308&amp;story=509746658&amp;t=podcast&amp;e=509746658&amp;ft=pod&amp;f=510308" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Episode 57: Slanguage</title>
+      <description><![CDATA[Young people have always used language in new and different ways, and it has pretty much always driven older people crazy. But the linguist John McWhorter says all the "likes" and LOLs are part of a natural – and inevitable –evolution of language. This week on Hidden Brain, why language can't "sit still."]]></description>
+      <pubDate>Tue, 10 Jan 2017 00:00:07 -0500</pubDate>
+      <copyright>Copyright 2015 NPR - For Personal Use Only</copyright>
+      <guid>6501870b-ceb3-4cab-a941-7e3fd7f70744</guid>
+      <itunes:author>NPR</itunes:author>
+      <itunes:summary><![CDATA[Young people have always used language in new and different ways, and it has pretty much always driven older people crazy. But the linguist John McWhorter says all the "likes" and LOLs are part of a natural – and inevitable –evolution of language. This week on Hidden Brain, why language can't "sit still."]]></itunes:summary>
+      <itunes:subtitle><![CDATA[Young people have always used language in new and different ways, and it has pretty much always driven older people crazy. But the linguist John McWhorter says all the "likes" and LOLs are part of a natural – and inevitable –evolution of language. This week on Hidden Brain, why language can't "sit still."]]></itunes:subtitle>
+      <itunes:image href="https://media.npr.org/assets/img/2017/01/09/slanguage-topper_wide-800befbcd8c5a70f18c84ca54fcef94c3ff2a94a.png?s=1400"/>
+      <itunes:duration>1564</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <enclosure url="https://play.podtrac.com/npr-510308/npr.mc.tritondigital.com/NPR_510308/media/anon.npr-mp3/npr/hiddenbrain/2017/01/20170109_hiddenbrain_57.mp3?orgId=1&amp;d=1564&amp;p=510308&amp;story=509022419&amp;t=podcast&amp;e=509022419&amp;ft=pod&amp;f=510308" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Episode 56: Getting Unstuck</title>
+      <description><![CDATA[At one time or another, many of us feel stuck: in the wrong job, the wrong relationship, the wrong city – the wrong life. Psychologists and self-help gurus have all kinds of advice for us when we feel rudderless. This week on Hidden Brain, we explore a new idea, from an unlikely source: Silicon Valley.]]></description>
+      <pubDate>Tue, 03 Jan 2017 00:00:00 -0500</pubDate>
+      <copyright>Copyright 2015 NPR - For Personal Use Only</copyright>
+      <guid>dda0272f-4da1-4352-a005-2e93acd21a81</guid>
+      <itunes:author>NPR</itunes:author>
+      <itunes:summary><![CDATA[At one time or another, many of us feel stuck: in the wrong job, the wrong relationship, the wrong city – the wrong life. Psychologists and self-help gurus have all kinds of advice for us when we feel rudderless. This week on Hidden Brain, we explore a new idea, from an unlikely source: Silicon Valley.]]></itunes:summary>
+      <itunes:subtitle><![CDATA[At one time or another, many of us feel stuck: in the wrong job, the wrong relationship, the wrong city – the wrong life. Psychologists and self-help gurus have all kinds of advice for us when we feel rudderless. This week on Hidden Brain, we explore a new idea, from an unlikely source: Silicon Valley.]]></itunes:subtitle>
+      <itunes:duration>1704</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <enclosure url="https://play.podtrac.com/npr-510308/npr.mc.tritondigital.com/NPR_510308/media/anon.npr-mp3/npr/hiddenbrain/2017/01/20170102_hiddenbrain_56.mp3?orgId=1&amp;d=1704&amp;p=510308&amp;story=507930318&amp;t=podcast&amp;e=507930318&amp;ft=pod&amp;f=510308" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Encore of Episode 15: Loss and Renewal</title>
+      <description><![CDATA[Maya Shankar was well on her way to an extraordinary career as a violinist when an injury closed that door. This week, we look at how she wound up at the top of another field: the social sciences.]]></description>
+      <pubDate>Tue, 27 Dec 2016 00:00:02 -0500</pubDate>
+      <copyright>Copyright 2015 NPR - For Personal Use Only</copyright>
+      <guid>6dd529d0-474b-4e65-8f3f-3319f0ec35ca</guid>
+      <itunes:author>NPR</itunes:author>
+      <itunes:summary><![CDATA[Maya Shankar was well on her way to an extraordinary career as a violinist when an injury closed that door. This week, we look at how she wound up at the top of another field: the social sciences.]]></itunes:summary>
+      <itunes:subtitle><![CDATA[Maya Shankar was well on her way to an extraordinary career as a violinist when an injury closed that door. This week, we look at how she wound up at the top of another field: the social sciences.]]></itunes:subtitle>
+      <itunes:image href="https://media.npr.org/assets/img/2016/12/22/npr_wide-c058a03ae922da54ba76484f6c0111e2a708c32f.jpg?s=1400"/>
+      <itunes:duration>1665</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <enclosure url="https://play.podtrac.com/npr-510308/npr.mc.tritondigital.com/NPR_510308/media/anon.npr-mp3/npr/hiddenbrain/2016/12/20161222_hiddenbrain_hbepi15.mp3?orgId=1&amp;d=1665&amp;p=510308&amp;story=506634275&amp;t=podcast&amp;e=506634275&amp;ft=pod&amp;f=510308" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Encore of Episode 32: The Scientific Process</title>
+      <description><![CDATA[There is a replication "crisis" in psychology: many findings simply do not replicate. Some critics take this as an indictment of the entire field — perhaps the best journals are only interested in publishing the "sexiest" findings, or universities are pressuring their faculty to publish more. But this week on Hidden Brain, we take a closer look at the so-called crisis. While there certainly have been cases of bad science, and even fraudulent data, there are also lots of other reasons why perfectly good studies might not replicate. We'll look at a seminal study about stereotypes, Asian women, and math tests.]]></description>
+      <pubDate>Tue, 20 Dec 2016 00:00:29 -0500</pubDate>
+      <copyright>Copyright 2015 NPR - For Personal Use Only</copyright>
+      <guid>47da6af3-ceba-4da7-987d-61cf0d58f934</guid>
+      <itunes:author>NPR</itunes:author>
+      <itunes:summary><![CDATA[There is a replication "crisis" in psychology: many findings simply do not replicate. Some critics take this as an indictment of the entire field — perhaps the best journals are only interested in publishing the "sexiest" findings, or universities are pressuring their faculty to publish more. But this week on Hidden Brain, we take a closer look at the so-called crisis. While there certainly have been cases of bad science, and even fraudulent data, there are also lots of other reasons why perfectly good studies might not replicate. We'll look at a seminal study about stereotypes, Asian women, and math tests.]]></itunes:summary>
+      <itunes:subtitle><![CDATA[There is a replication "crisis" in psychology: many findings simply do not replicate. Some critics take this as an indictment of the entire field — perhaps the best journals are only interested in publishing the "sexiest" findings, or universities are pressuring their faculty to publish more. But this week on Hidden Brain, we take a closer look at the so-called crisis. While there certainly have been cases of bad science, and even fraudulent data, there are also lots of other reasons why perfectly good studies might not replicate. We'll look at a seminal study about stereotypes, Asian women, and math tests.]]></itunes:subtitle>
+      <itunes:image href="https://media.npr.org/assets/img/2016/12/17/replication-dfishel_wide-21effdef3114c6db4d43e7d9df8839f53c6cccd6.jpg?s=1400"/>
+      <itunes:duration>1733</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <enclosure url="https://play.podtrac.com/npr-510308/npr.mc.tritondigital.com/NPR_510308/media/anon.npr-mp3/npr/hiddenbrain/2016/12/20161216_hiddenbrain_hb32.mp3?orgId=1&amp;d=1733&amp;p=510308&amp;story=505986935&amp;t=podcast&amp;e=505986935&amp;ft=pod&amp;f=510308" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Episode 55: Snooki and the Handbag</title>
+      <description><![CDATA[Look down at what you're wearing. You picked out that blue shirt, right? And those boots — you decided on those because they're warm, didn't you? Well, maybe not. Researcher Jonah Berger says, we tend to be pretty good at recognizing how influences like product placement and peer pressure affect other people's choices... but we're not so good at recognizing those forces in our own decision-making.]]></description>
+      <pubDate>Tue, 13 Dec 2016 00:00:00 -0500</pubDate>
+      <copyright>Copyright 2015 NPR - For Personal Use Only</copyright>
+      <guid>70d18505-4543-442a-8333-aa6e8b62a22c</guid>
+      <itunes:author>NPR</itunes:author>
+      <itunes:summary><![CDATA[Look down at what you're wearing. You picked out that blue shirt, right? And those boots — you decided on those because they're warm, didn't you? Well, maybe not. Researcher Jonah Berger says, we tend to be pretty good at recognizing how influences like product placement and peer pressure affect other people's choices... but we're not so good at recognizing those forces in our own decision-making.]]></itunes:summary>
+      <itunes:subtitle><![CDATA[Look down at what you're wearing. You picked out that blue shirt, right? And those boots — you decided on those because they're warm, didn't you? Well, maybe not. Researcher Jonah Berger says, we tend to be pretty good at recognizing how influences like product placement and peer pressure affect other people's choices... but we're not so good at recognizing those forces in our own decision-making.]]></itunes:subtitle>
+      <itunes:image href="https://media.npr.org/assets/img/2016/12/12/gettyimages-664712223_wide-0d6f297fc78f3cbe9b91bd6fd710602cfa3d16a2.jpg?s=1400"/>
+      <itunes:duration>1605</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <enclosure url="https://play.podtrac.com/npr-510308/npr.mc.tritondigital.com/NPR_510308/media/anon.npr-mp3/npr/hiddenbrain/2016/12/20161212_hiddenbrain_55.mp3?orgId=1&amp;d=1605&amp;p=510308&amp;story=505338850&amp;t=podcast&amp;e=505338850&amp;ft=pod&amp;f=510308" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Episode 54: Panic in the Streets</title>
+      <description><![CDATA[It sounds like the plot of a movie: police discover the body of a young man who's been murdered. The body tests positive for a deadly infectious disease. Authorities trace the killing to a gang. They race to find gang members linked to the murder... who may also be incubating the virus. This week on Hidden Brain... disease, panic, and how a public health team used psychology to confront an epidemic.]]></description>
+      <pubDate>Tue, 06 Dec 2016 00:00:17 -0500</pubDate>
+      <copyright>Copyright 2015 NPR - For Personal Use Only</copyright>
+      <guid>235bbe99-6f2f-4f96-957a-804ac28ec53d</guid>
+      <itunes:author>NPR</itunes:author>
+      <itunes:summary><![CDATA[It sounds like the plot of a movie: police discover the body of a young man who's been murdered. The body tests positive for a deadly infectious disease. Authorities trace the killing to a gang. They race to find gang members linked to the murder... who may also be incubating the virus. This week on Hidden Brain... disease, panic, and how a public health team used psychology to confront an epidemic.]]></itunes:summary>
+      <itunes:subtitle><![CDATA[It sounds like the plot of a movie: police discover the body of a young man who's been murdered. The body tests positive for a deadly infectious disease. Authorities trace the killing to a gang. They race to find gang members linked to the murder... who may also be incubating the virus. This week on Hidden Brain... disease, panic, and how a public health team used psychology to confront an epidemic.]]></itunes:subtitle>
+      <itunes:image href="https://media.npr.org/assets/img/2016/12/05/gettyimages-457166058_wide-8c42dac26ce0c98294f7f41a5725210f4ccc1c6e.jpg?s=1400"/>
+      <itunes:duration>1525</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <enclosure url="https://play.podtrac.com/npr-510308/npr.mc.tritondigital.com/NPR_510308/media/anon.npr-mp3/npr/hiddenbrain/2016/12/20161205_hiddenbrain_panic.mp3?orgId=1&amp;d=1525&amp;p=510308&amp;story=504447618&amp;t=podcast&amp;e=504447618&amp;ft=pod&amp;f=510308" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Episode 53: Embrace the Chaos</title>
+      <description><![CDATA[Many of us spend lots of time and energy trying to get organized. We KonMari our closets, we strive for inbox zero, we tell our kids to clean their rooms, and our politicians to clean up Washington. But Economist Tim Harford says, maybe we should embrace the chaos. His new book is Messy: The Power of Disorder to Transform Our Lives.]]></description>
+      <pubDate>Tue, 29 Nov 2016 00:00:00 -0500</pubDate>
+      <copyright>Copyright 2015 NPR - For Personal Use Only</copyright>
+      <guid>ae12b41b-869f-4345-8f9c-53e130ce0e2d</guid>
+      <itunes:author>NPR</itunes:author>
+      <itunes:summary><![CDATA[Many of us spend lots of time and energy trying to get organized. We KonMari our closets, we strive for inbox zero, we tell our kids to clean their rooms, and our politicians to clean up Washington. But Economist Tim Harford says, maybe we should embrace the chaos. His new book is Messy: The Power of Disorder to Transform Our Lives.]]></itunes:summary>
+      <itunes:subtitle><![CDATA[Many of us spend lots of time and energy trying to get organized. We KonMari our closets, we strive for inbox zero, we tell our kids to clean their rooms, and our politicians to clean up Washington. But Economist Tim Harford says, maybe we should embrace the chaos. His new book is Messy: The Power of Disorder to Transform Our Lives.]]></itunes:subtitle>
+      <itunes:image href="https://media.npr.org/assets/img/2016/11/22/gettyimages-51156156_wide-be841e7f2940127e64af0777d7abc74a4aca99e5.jpg?s=1400"/>
+      <itunes:duration>1489</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <enclosure url="https://play.podtrac.com/npr-510308/npr.mc.tritondigital.com/NPR_510308/media/anon.npr-mp3/npr/hiddenbrain/2016/11/20161122_hiddenbrain_53.mp3?orgId=1&amp;d=1489&amp;p=510308&amp;story=503019791&amp;t=podcast&amp;e=503019791&amp;ft=pod&amp;f=510308" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Episode 52: Losing Face</title>
+      <description><![CDATA[It happens to all of us: someone recognizes you on the street, calls you by name, and says hello... and you have no idea who that person is. Researchers say this struggle to read other faces is common. This week on Hidden Brain, super-recognizers, and the rest of us.]]></description>
+      <pubDate>Tue, 22 Nov 2016 00:00:25 -0500</pubDate>
+      <copyright>Copyright 2015 NPR - For Personal Use Only</copyright>
+      <guid>b1bcdbb3-d9ea-4c8e-a4b2-caa36ee2942b</guid>
+      <itunes:author>NPR</itunes:author>
+      <itunes:summary><![CDATA[It happens to all of us: someone recognizes you on the street, calls you by name, and says hello... and you have no idea who that person is. Researchers say this struggle to read other faces is common. This week on Hidden Brain, super-recognizers, and the rest of us.]]></itunes:summary>
+      <itunes:subtitle><![CDATA[It happens to all of us: someone recognizes you on the street, calls you by name, and says hello... and you have no idea who that person is. Researchers say this struggle to read other faces is common. This week on Hidden Brain, super-recognizers, and the rest of us.]]></itunes:subtitle>
+      <itunes:image href="https://media.npr.org/assets/img/2016/11/21/Reading Faces_wide-b9cb07654256435c977dcd6b01969343de7dae69.jpg?s=1400"/>
+      <itunes:duration>1443</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <enclosure url="https://play.podtrac.com/npr-510308/npr.mc.tritondigital.com/NPR_510308/media/anon.npr-mp3/npr/hiddenbrain/2016/11/20161121_hiddenbrain_52.mp3?orgId=1&amp;d=1443&amp;p=510308&amp;story=502945010&amp;t=podcast&amp;e=502945010&amp;ft=pod&amp;f=510308" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Episode 51: What Happened?</title>
+      <description><![CDATA[On the morning after election day, pundits, pollsters, politicians, and citizens woke up feeling stunned. All signs, all year, had been pointing towards a victory for Democrat Hillary Clinton. So, what happened? We ask one of the few people who didn't get it wrong: the historian Allan Lichtman.]]></description>
+      <pubDate>Tue, 15 Nov 2016 00:00:22 -0500</pubDate>
+      <copyright>Copyright 2015 NPR - For Personal Use Only</copyright>
+      <guid>96728f40-3704-4d02-9152-a4d589c8a0b3</guid>
+      <itunes:author>NPR</itunes:author>
+      <itunes:summary><![CDATA[On the morning after election day, pundits, pollsters, politicians, and citizens woke up feeling stunned. All signs, all year, had been pointing towards a victory for Democrat Hillary Clinton. So, what happened? We ask one of the few people who didn't get it wrong: the historian Allan Lichtman.]]></itunes:summary>
+      <itunes:subtitle><![CDATA[On the morning after election day, pundits, pollsters, politicians, and citizens woke up feeling stunned. All signs, all year, had been pointing towards a victory for Democrat Hillary Clinton. So, what happened? We ask one of the few people who didn't get it wrong: the historian Allan Lichtman.]]></itunes:subtitle>
+      <itunes:image href="https://media.npr.org/assets/img/2016/11/14/ap_16314312135675_wide-28d0ecfde018a2e81905d754464efb57b2cbc9dc.jpg?s=1400"/>
+      <itunes:duration>1702</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <enclosure url="https://play.podtrac.com/npr-510308/npr.mc.tritondigital.com/NPR_510308/media/anon.npr-mp3/npr/hiddenbrain/2016/11/20161114_hiddenbrain_51.mp3?orgId=1&amp;d=1702&amp;p=510308&amp;story=502074690&amp;t=podcast&amp;e=502074690&amp;ft=pod&amp;f=510308" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Encore of Episode 27: Losing Alaska</title>
+      <description><![CDATA[We didn't hear very much about climate change during this election cycle — and social science research might give us some insight as to why not. This week, an encore of one of our favorite episodes about why it's so hard for us to wrap our heads around climate change.]]></description>
+      <pubDate>Tue, 08 Nov 2016 00:00:19 -0500</pubDate>
+      <copyright>Copyright 2015 NPR - For Personal Use Only</copyright>
+      <guid>cc390a3c-88cc-4059-8170-c095d2ffdf18</guid>
+      <itunes:author>NPR</itunes:author>
+      <itunes:summary><![CDATA[We didn't hear very much about climate change during this election cycle — and social science research might give us some insight as to why not. This week, an encore of one of our favorite episodes about why it's so hard for us to wrap our heads around climate change.]]></itunes:summary>
+      <itunes:subtitle><![CDATA[We didn't hear very much about climate change during this election cycle — and social science research might give us some insight as to why not. This week, an encore of one of our favorite episodes about why it's so hard for us to wrap our heads around climate change.]]></itunes:subtitle>
+      <itunes:image href="https://media.npr.org/assets/img/2016/11/07/dscn3364_wide-dac2e12768cedda25f1c174500c84e99e9f52b34.jpg?s=1400"/>
+      <itunes:duration>1555</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <enclosure url="https://play.podtrac.com/npr-510308/npr.mc.tritondigital.com/NPR_510308/media/anon.npr-mp3/npr/hiddenbrain/2016/11/20161107_hiddenbrain_27.mp3?orgId=1&amp;d=1555&amp;p=510308&amp;story=501071500&amp;t=podcast&amp;e=501071500&amp;ft=pod&amp;f=510308" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Episode 50: Broken Windows</title>
+      <description><![CDATA[In the early 1980s, a couple of researchers wrote an article in <em>The Atlantic</em> that would have far reaching consequences. The article introduced a new idea about crime and policing. It was called Broken Windows. The idea was simple: A broken window is a sign of a neglected community, and a neglected community is a place where crime can thrive. The researchers said, if police fixed the small problems that created visible signs of disorder, the big ones would disappear. Today, we explore how ideas sometimes get away from those who invented them.. And then are taken to places that were never intended.]]></description>
+      <pubDate>Tue, 01 Nov 2016 00:00:25 -0400</pubDate>
+      <copyright>Copyright 2015 NPR - For Personal Use Only</copyright>
+      <guid>49d56a9f-31ff-4375-90ba-e5de327fa54d</guid>
+      <itunes:author>NPR</itunes:author>
+      <itunes:summary><![CDATA[In the early 1980s, a couple of researchers wrote an article in <em>The Atlantic</em> that would have far reaching consequences. The article introduced a new idea about crime and policing. It was called Broken Windows. The idea was simple: A broken window is a sign of a neglected community, and a neglected community is a place where crime can thrive. The researchers said, if police fixed the small problems that created visible signs of disorder, the big ones would disappear. Today, we explore how ideas sometimes get away from those who invented them.. And then are taken to places that were never intended.]]></itunes:summary>
+      <itunes:subtitle><![CDATA[In the early 1980s, a couple of researchers wrote an article in <em>The Atlantic</em> that would have far reaching consequences. The article introduced a new idea about crime and policing. It was called Broken Windows. The idea was simple: A broken window is a sign of a neglected community, and a neglected community is a place where crime can thrive. The researchers said, if police fixed the small problems that created visible signs of disorder, the big ones would disappear. Today, we explore how ideas sometimes get away from those who invented them.. And then are taken to places that were never intended.]]></itunes:subtitle>
+      <itunes:image href="https://media.npr.org/assets/img/2016/10/31/gettyimages-97829814_wide-37092a8d0bcbcd399959cdf84953c7815785bcbd.jpg?s=1400"/>
+      <itunes:duration>1801</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <enclosure url="https://play.podtrac.com/npr-510308/npr.mc.tritondigital.com/NPR_510308/media/anon.npr-mp3/npr/hiddenbrain/2016/10/20161031_hiddenbrain_50.mp3?orgId=1&amp;d=1801&amp;p=510308&amp;story=500105856&amp;t=podcast&amp;e=500105856&amp;ft=pod&amp;f=510308" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Episode 49: Filthy Rich</title>
+      <description><![CDATA[Several years ago, sociologist Brooke Harrington decided to explore the secret lives of billionaires. What she found, she said, shocked her.]]></description>
+      <pubDate>Tue, 25 Oct 2016 00:00:03 -0400</pubDate>
+      <copyright>Copyright 2015 NPR - For Personal Use Only</copyright>
+      <guid>eaa8a9a9-1790-46d8-81a7-f6043afe1e6d</guid>
+      <itunes:author>NPR</itunes:author>
+      <itunes:summary><![CDATA[Several years ago, sociologist Brooke Harrington decided to explore the secret lives of billionaires. What she found, she said, shocked her.]]></itunes:summary>
+      <itunes:subtitle><![CDATA[Several years ago, sociologist Brooke Harrington decided to explore the secret lives of billionaires. What she found, she said, shocked her.]]></itunes:subtitle>
+      <itunes:duration>1294</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <enclosure url="https://play.podtrac.com/npr-510308/npr.mc.tritondigital.com/NPR_510308/media/anon.npr-mp3/npr/hiddenbrain/2016/10/20161024_hiddenbrain_49.mp3?orgId=1&amp;d=1294&amp;p=510308&amp;story=499226763&amp;t=podcast&amp;e=499226763&amp;ft=pod&amp;f=510308" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Episode 48: Men: 44, Women: 0</title>
+      <description><![CDATA[A century after women won the vote in the US, we still see very few of them in leadership roles. Researchers say women are trapped in a catch-22 known as "the double bind." <em>Note: an early version of this episode incorrectly stated that Carol Moseley Braun was the first African-American U.S. Senator. She was in fact the first female African-American Senator. </em>]]></description>
+      <pubDate>Tue, 18 Oct 2016 00:00:00 -0400</pubDate>
+      <copyright>Copyright 2015 NPR - For Personal Use Only</copyright>
+      <guid>649495e1-27cb-4e63-89b2-d8d7a7113577</guid>
+      <itunes:author>NPR</itunes:author>
+      <itunes:summary><![CDATA[A century after women won the vote in the US, we still see very few of them in leadership roles. Researchers say women are trapped in a catch-22 known as "the double bind." <em>Note: an early version of this episode incorrectly stated that Carol Moseley Braun was the first African-American U.S. Senator. She was in fact the first female African-American Senator. </em>]]></itunes:summary>
+      <itunes:subtitle><![CDATA[A century after women won the vote in the US, we still see very few of them in leadership roles. Researchers say women are trapped in a catch-22 known as "the double bind." <em>Note: an early version of this episode incorrectly stated that Carol Moseley Braun was the first African-American U.S. Senator. She was in fact the first female African-American Senator. </em>]]></itunes:subtitle>
+      <itunes:image href="https://media.npr.org/assets/img/2016/10/17/gettyimages-515791605-1-_wide-e03542c2586d56f349a78d02f543507e645ad9da.jpg?s=1400"/>
+      <itunes:duration>1272</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <enclosure url="https://play.podtrac.com/npr-510308/npr.mc.tritondigital.com/NPR_510308/media/anon.npr-mp3/npr/hiddenbrain/2016/10/20161018_hiddenbrain_hbepi48.mp3?orgId=1&amp;d=1272&amp;p=510308&amp;story=498311166&amp;t=podcast&amp;e=498311166&amp;ft=pod&amp;f=510308" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Episode 47: Give Me Your Tired...</title>
+      <description><![CDATA[Our airwaves are filled with debates about migrants, refugees, and undocumented immigrants... Who should be in the United States, who shouldn't, and who should decide? Immigration is, without question, a flash point in this year's political debates. It's an issue that seems to get to the core of who we are, who we want to be, and where we're headed as a nation. Today we're going to take a fresh look at the issue by exploring what history can teach us about the patterns and paradoxes of immigration in a nation of immigrants. It's one of a series of shows in the next few weeks that will speak to issues that have bubbled to the surface in politics this year, that reveal something about us — and human nature. Historian Maria Cristina Garcia joins us.]]></description>
+      <pubDate>Tue, 11 Oct 2016 00:00:04 -0400</pubDate>
+      <copyright>Copyright 2015 NPR - For Personal Use Only</copyright>
+      <guid>7f50b491-c75c-4447-82bd-80b5ac78f98d</guid>
+      <itunes:author>NPR</itunes:author>
+      <itunes:summary><![CDATA[Our airwaves are filled with debates about migrants, refugees, and undocumented immigrants... Who should be in the United States, who shouldn't, and who should decide? Immigration is, without question, a flash point in this year's political debates. It's an issue that seems to get to the core of who we are, who we want to be, and where we're headed as a nation. Today we're going to take a fresh look at the issue by exploring what history can teach us about the patterns and paradoxes of immigration in a nation of immigrants. It's one of a series of shows in the next few weeks that will speak to issues that have bubbled to the surface in politics this year, that reveal something about us — and human nature. Historian Maria Cristina Garcia joins us.]]></itunes:summary>
+      <itunes:subtitle><![CDATA[Our airwaves are filled with debates about migrants, refugees, and undocumented immigrants... Who should be in the United States, who shouldn't, and who should decide? Immigration is, without question, a flash point in this year's political debates. It's an issue that seems to get to the core of who we are, who we want to be, and where we're headed as a nation. Today we're going to take a fresh look at the issue by exploring what history can teach us about the patterns and paradoxes of immigration in a nation of immigrants. It's one of a series of shows in the next few weeks that will speak to issues that have bubbled to the surface in politics this year, that reveal something about us — and human nature. Historian Maria Cristina Garcia joins us.]]></itunes:subtitle>
+      <itunes:duration>1342</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <enclosure url="https://play.podtrac.com/npr-510308/npr.mc.tritondigital.com/NPR_510308/media/anon.npr-mp3/npr/hiddenbrain/2016/10/20161007_hiddenbrain_47.mp3?orgId=1&amp;d=1342&amp;p=510308&amp;story=497114523&amp;t=podcast&amp;e=497114523&amp;ft=pod&amp;f=510308" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Episode 46: Blessings in Disguise?</title>
+      <description><![CDATA[We have lots of ways to describe the good that can come from bad: a blessing in disguise, a silver lining — but what if the bad thing was truly awful? This week on Hidden Brain, framing and re-framing a tragedy.]]></description>
+      <pubDate>Tue, 04 Oct 2016 00:00:30 -0400</pubDate>
+      <copyright>Copyright 2015 NPR - For Personal Use Only</copyright>
+      <guid>8bd57be9-2590-482d-9ae0-d5e1258e6bff</guid>
+      <itunes:author>NPR</itunes:author>
+      <itunes:summary><![CDATA[We have lots of ways to describe the good that can come from bad: a blessing in disguise, a silver lining — but what if the bad thing was truly awful? This week on Hidden Brain, framing and re-framing a tragedy.]]></itunes:summary>
+      <itunes:subtitle><![CDATA[We have lots of ways to describe the good that can come from bad: a blessing in disguise, a silver lining — but what if the bad thing was truly awful? This week on Hidden Brain, framing and re-framing a tragedy.]]></itunes:subtitle>
+      <itunes:image href="https://media.npr.org/assets/img/2016/09/30/lori-and-colin_wide-db94f714ce633fff2e65c1ebde0b902c5d15b17d.jpg?s=1400"/>
+      <itunes:duration>1311</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <enclosure url="https://play.podtrac.com/npr-510308/npr.mc.tritondigital.com/NPR_510308/media/anon.npr-mp3/npr/hiddenbrain/2016/09/20160930_hiddenbrain_blessings.mp3?orgId=1&amp;d=1311&amp;p=510308&amp;story=496135803&amp;t=podcast&amp;e=496135803&amp;ft=pod&amp;f=510308" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Episode 45: What Are The Odds?</title>
+      <description><![CDATA[This week on Hidden Brain, coincidences. Why they're not quite as magical as they seem... and the reasons we can't help but search for meaning in them anyway.]]></description>
+      <pubDate>Tue, 27 Sep 2016 00:01:26 -0400</pubDate>
+      <copyright>Copyright 2015 NPR - For Personal Use Only</copyright>
+      <guid>c4e9e5e2-9911-4269-a8ab-7dcaf998a904</guid>
+      <itunes:author>NPR</itunes:author>
+      <itunes:summary><![CDATA[This week on Hidden Brain, coincidences. Why they're not quite as magical as they seem... and the reasons we can't help but search for meaning in them anyway.]]></itunes:summary>
+      <itunes:subtitle><![CDATA[This week on Hidden Brain, coincidences. Why they're not quite as magical as they seem... and the reasons we can't help but search for meaning in them anyway.]]></itunes:subtitle>
+      <itunes:image href="https://media.npr.org/assets/img/2016/09/26/ap_1203280651291_wide-ae2adcf045a1219ef696deda021cf5ea3803e3dd.jpg?s=1400"/>
+      <itunes:duration>1772</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <enclosure url="https://play.podtrac.com/npr-510308/npr.mc.tritondigital.com/NPR_510308/media/anon.npr-mp3/npr/hiddenbrain/2016/09/20160926_hiddenbrain_coincidences.mp3?orgId=1&amp;d=1772&amp;p=510308&amp;story=495534743&amp;t=podcast&amp;e=495534743&amp;ft=pod&amp;f=510308" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Trailer: Hidden Brain 2.0</title>
+      <description><![CDATA[We have an anniversary to celebrate. We've been bringing you Hidden Brain for a year now, and we are so glad and thankful you've come along with us. We've learned a lot about what you like, and what we like. Specifically, deep dives into stories or topics that reveal something true about human behavior. Now, it's time to double down on that with a string of ambitious new episodes. Here's a sneak peek.]]></description>
+      <pubDate>Thu, 22 Sep 2016 00:00:24 -0400</pubDate>
+      <copyright>Copyright 2015 NPR - For Personal Use Only</copyright>
+      <guid>66822660-38aa-45b4-b6bb-8dd07a36cc55</guid>
+      <itunes:author>NPR</itunes:author>
+      <itunes:summary><![CDATA[We have an anniversary to celebrate. We've been bringing you Hidden Brain for a year now, and we are so glad and thankful you've come along with us. We've learned a lot about what you like, and what we like. Specifically, deep dives into stories or topics that reveal something true about human behavior. Now, it's time to double down on that with a string of ambitious new episodes. Here's a sneak peek.]]></itunes:summary>
+      <itunes:subtitle><![CDATA[We have an anniversary to celebrate. We've been bringing you Hidden Brain for a year now, and we are so glad and thankful you've come along with us. We've learned a lot about what you like, and what we like. Specifically, deep dives into stories or topics that reveal something true about human behavior. Now, it's time to double down on that with a string of ambitious new episodes. Here's a sneak peek.]]></itunes:subtitle>
+      <itunes:duration>137</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <enclosure url="https://play.podtrac.com/npr-510308/npr.mc.tritondigital.com/NPR_510308/media/anon.npr-mp3/npr/hiddenbrain/2016/09/20160916_hiddenbrain_hb20.mp3?orgId=1&amp;d=137&amp;p=510308&amp;story=494290756&amp;t=podcast&amp;e=494290756&amp;ft=pod&amp;f=510308" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Update: #AirbnbWhileBlack</title>
+      <description><![CDATA[A few months ago, Hidden Brain investigated claims that Airbnb users were facing discrimination on the platform. Now, we bring you an update on the company's response.]]></description>
+      <pubDate>Tue, 20 Sep 2016 00:01:28 -0400</pubDate>
+      <copyright>Copyright 2015 NPR - For Personal Use Only</copyright>
+      <guid>9484d174-5a4f-43d1-a170-3b78002a898f</guid>
+      <itunes:author>NPR</itunes:author>
+      <itunes:summary><![CDATA[A few months ago, Hidden Brain investigated claims that Airbnb users were facing discrimination on the platform. Now, we bring you an update on the company's response.]]></itunes:summary>
+      <itunes:subtitle><![CDATA[A few months ago, Hidden Brain investigated claims that Airbnb users were facing discrimination on the platform. Now, we bring you an update on the company's response.]]></itunes:subtitle>
+      <itunes:image href="https://media.npr.org/assets/img/2016/09/19/synta_wide-7eb56ffbac0d79b19e8927614210d50a978933e8.jpg?s=1400"/>
+      <itunes:duration>1506</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <enclosure url="https://play.podtrac.com/npr-510308/npr.mc.tritondigital.com/NPR_510308/media/anon.npr-mp3/npr/hiddenbrain/2016/09/20160919_hiddenbrain_awb.mp3?orgId=1&amp;d=1506&amp;p=510308&amp;story=494632765&amp;t=podcast&amp;e=494632765&amp;ft=pod&amp;f=510308" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Episode 44: Our Politics, Our Parenting</title>
+      <description><![CDATA[In the midst of a rancorous election, we present a new theory to explain why the two sides of the aisle seem irreconcilable sometimes.]]></description>
+      <pubDate>Tue, 13 Sep 2016 00:04:23 -0400</pubDate>
+      <copyright>Copyright 2015 NPR - For Personal Use Only</copyright>
+      <guid>fe40496e-9430-4cb4-a97c-ed7a9356e1fb</guid>
+      <itunes:author>NPR</itunes:author>
+      <itunes:summary><![CDATA[In the midst of a rancorous election, we present a new theory to explain why the two sides of the aisle seem irreconcilable sometimes.]]></itunes:summary>
+      <itunes:subtitle><![CDATA[In the midst of a rancorous election, we present a new theory to explain why the two sides of the aisle seem irreconcilable sometimes.]]></itunes:subtitle>
+      <itunes:duration>1401</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <enclosure url="https://play.podtrac.com/npr-510308/npr.mc.tritondigital.com/NPR_510308/media/anon.npr-mp3/npr/hiddenbrain/2016/09/20160912_hiddenbrain_44.mp3?orgId=1&amp;d=1401&amp;p=510308&amp;story=493672656&amp;t=podcast&amp;e=493672656&amp;ft=pod&amp;f=510308" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Episode 43: The Perils of Power</title>
+      <description><![CDATA[We've all heard the old adage that "power tends to corrupt, and absolute power corrupts absolutely," but psychologist Dacher Keltner at UC Berkeley has found evidence to prove it. His book is <em>The Power Paradox: How We Gain and Lose Influence.</em>]]></description>
+      <pubDate>Tue, 06 Sep 2016 00:00:23 -0400</pubDate>
+      <copyright>Copyright 2015 NPR - For Personal Use Only</copyright>
+      <guid>6b6fe142-7be7-4702-a078-6b5979b9865e</guid>
+      <itunes:author>NPR</itunes:author>
+      <itunes:summary><![CDATA[We've all heard the old adage that "power tends to corrupt, and absolute power corrupts absolutely," but psychologist Dacher Keltner at UC Berkeley has found evidence to prove it. His book is <em>The Power Paradox: How We Gain and Lose Influence.</em>]]></itunes:summary>
+      <itunes:subtitle><![CDATA[We've all heard the old adage that "power tends to corrupt, and absolute power corrupts absolutely," but psychologist Dacher Keltner at UC Berkeley has found evidence to prove it. His book is <em>The Power Paradox: How We Gain and Lose Influence.</em>]]></itunes:subtitle>
+      <itunes:duration>1581</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <enclosure url="https://play.podtrac.com/npr-510308/npr.mc.tritondigital.com/NPR_510308/media/anon.npr-mp3/npr/hiddenbrain/2016/09/20160902_hiddenbrain_podcast43.mp3?orgId=1&amp;d=1581&amp;p=510308&amp;story=492446417&amp;t=podcast&amp;e=492446417&amp;ft=pod&amp;f=510308" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Encore of Episode 21: Stroke of Genius</title>
+      <description><![CDATA[Derek Amato wasn't born a musical savant. He became one—almost instantly—after hitting his head on the bottom of a swimming pool.]]></description>
+      <pubDate>Tue, 30 Aug 2016 00:01:30 -0400</pubDate>
+      <copyright>Copyright 2015 NPR - For Personal Use Only</copyright>
+      <guid>68db4d57-c97f-4b63-8e81-b49eafa2b26f</guid>
+      <itunes:author>NPR</itunes:author>
+      <itunes:summary><![CDATA[Derek Amato wasn't born a musical savant. He became one—almost instantly—after hitting his head on the bottom of a swimming pool.]]></itunes:summary>
+      <itunes:subtitle><![CDATA[Derek Amato wasn't born a musical savant. He became one—almost instantly—after hitting his head on the bottom of a swimming pool.]]></itunes:subtitle>
+      <itunes:image href="https://media.npr.org/assets/img/2016/08/26/derek-amato-picture_wide-37b40794bdc5164fdd68e2c58e88b8afdf4aa920.jpg?s=1400"/>
+      <itunes:duration>1521</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <enclosure url="https://play.podtrac.com/npr-510308/npr.mc.tritondigital.com/NPR_510308/media/anon.npr-mp3/npr/hiddenbrain/2016/08/20160826_hiddenbrain_genius.mp3?orgId=1&amp;d=1521&amp;p=510308&amp;story=491541456&amp;t=podcast&amp;e=491541456&amp;ft=pod&amp;f=510308" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Episode 42: Decide Already!</title>
+      <description><![CDATA[This week, Harvard researcher Dan Gilbert tells us why we're bad at predicting our future happiness, how that affects our decision making, and why we are actually happier after making a decision that feels irrevocable.]]></description>
+      <pubDate>Tue, 23 Aug 2016 00:01:29 -0400</pubDate>
+      <copyright>Copyright 2015 NPR - For Personal Use Only</copyright>
+      <guid>165b2c9c-75fe-4a5a-863b-b3eb91b1d8c0</guid>
+      <itunes:author>NPR</itunes:author>
+      <itunes:summary><![CDATA[This week, Harvard researcher Dan Gilbert tells us why we're bad at predicting our future happiness, how that affects our decision making, and why we are actually happier after making a decision that feels irrevocable.]]></itunes:summary>
+      <itunes:subtitle><![CDATA[This week, Harvard researcher Dan Gilbert tells us why we're bad at predicting our future happiness, how that affects our decision making, and why we are actually happier after making a decision that feels irrevocable.]]></itunes:subtitle>
+      <itunes:duration>1451</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <enclosure url="https://play.podtrac.com/npr-510308/npr.mc.tritondigital.com/NPR_510308/media/anon.npr-mp3/npr/hiddenbrain/2016/08/20160822_hiddenbrain_decide.mp3?orgId=1&amp;d=1451&amp;p=510308&amp;story=490989663&amp;t=podcast&amp;e=490989663&amp;ft=pod&amp;f=510308" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Encore of Episode 11: Forgery</title>
+      <description><![CDATA[This week on Hidden Brain, we explore real and fake, from fine art to fine wine. Shankar speaks with Noah Charney, author of <em>The Art of Forgery, </em>about why art forgers are compelled to spend their lives copying the great masters, and why so many of them want to get caught. Also this week: why we love studies that prove wine connoisseurs wrong.]]></description>
+      <pubDate>Tue, 16 Aug 2016 00:04:06 -0400</pubDate>
+      <copyright>Copyright 2015 NPR - For Personal Use Only</copyright>
+      <guid>1e1d01f2-e4ae-4ea9-bd08-2360e049d5f0</guid>
+      <itunes:author>NPR</itunes:author>
+      <itunes:summary><![CDATA[This week on Hidden Brain, we explore real and fake, from fine art to fine wine. Shankar speaks with Noah Charney, author of <em>The Art of Forgery, </em>about why art forgers are compelled to spend their lives copying the great masters, and why so many of them want to get caught. Also this week: why we love studies that prove wine connoisseurs wrong.]]></itunes:summary>
+      <itunes:subtitle><![CDATA[This week on Hidden Brain, we explore real and fake, from fine art to fine wine. Shankar speaks with Noah Charney, author of <em>The Art of Forgery, </em>about why art forgers are compelled to spend their lives copying the great masters, and why so many of them want to get caught. Also this week: why we love studies that prove wine connoisseurs wrong.]]></itunes:subtitle>
+      <itunes:duration>1496</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <enclosure url="https://play.podtrac.com/npr-510308/npr.mc.tritondigital.com/NPR_510308/media/anon.npr-mp3/npr/hiddenbrain/2016/08/20160815_hiddenbrain_forgery.mp3?orgId=1&amp;d=1496&amp;p=510308&amp;story=490136364&amp;t=podcast&amp;e=490136364&amp;ft=pod&amp;f=510308" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Episode 41: Defeated</title>
+      <description><![CDATA[While everyone is focused on the Olympic winners in Rio, we're zooming in on loss. We have the story of how a world-champion judo player reacted to a devastating defeat, plus a Stopwatch Science on how losing affects us all.]]></description>
+      <pubDate>Tue, 09 Aug 2016 00:04:03 -0400</pubDate>
+      <copyright>Copyright 2015 NPR - For Personal Use Only</copyright>
+      <guid>64f4afae-2da5-40d0-8b8f-5761db7b2544</guid>
+      <itunes:author>NPR</itunes:author>
+      <itunes:summary><![CDATA[While everyone is focused on the Olympic winners in Rio, we're zooming in on loss. We have the story of how a world-champion judo player reacted to a devastating defeat, plus a Stopwatch Science on how losing affects us all.]]></itunes:summary>
+      <itunes:subtitle><![CDATA[While everyone is focused on the Olympic winners in Rio, we're zooming in on loss. We have the story of how a world-champion judo player reacted to a devastating defeat, plus a Stopwatch Science on how losing affects us all.]]></itunes:subtitle>
+      <itunes:duration>1263</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <enclosure url="https://play.podtrac.com/npr-510308/npr.mc.tritondigital.com/NPR_510308/media/anon.npr-mp3/npr/hiddenbrain/2016/08/20160808_hiddenbrain_losing.mp3?orgId=1&amp;d=1263&amp;p=510308&amp;story=489231533&amp;t=podcast&amp;e=489231533&amp;ft=pod&amp;f=510308" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Episode 40: Silver and Gold</title>
+      <description><![CDATA[The rush of victory or crush of defeat in the Olympics can flash by very quickly. But if you slow those moments down, there's a lot to learn about human behavior.]]></description>
+      <pubDate>Tue, 02 Aug 2016 00:05:29 -0400</pubDate>
+      <copyright>Copyright 2015 NPR - For Personal Use Only</copyright>
+      <guid>5aeb152f-1ac3-4011-8e09-82377f2ae3e2</guid>
+      <itunes:author>NPR</itunes:author>
+      <itunes:summary><![CDATA[The rush of victory or crush of defeat in the Olympics can flash by very quickly. But if you slow those moments down, there's a lot to learn about human behavior.]]></itunes:summary>
+      <itunes:subtitle><![CDATA[The rush of victory or crush of defeat in the Olympics can flash by very quickly. But if you slow those moments down, there's a lot to learn about human behavior.]]></itunes:subtitle>
+      <itunes:duration>1344</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <enclosure url="https://play.podtrac.com/npr-510308/npr.mc.tritondigital.com/NPR_510308/media/anon.npr-mp3/npr/hiddenbrain/2016/08/20160801_hiddenbrain_olympics.mp3?orgId=1&amp;d=1344&amp;p=510308&amp;story=488264172&amp;t=podcast&amp;e=488264172&amp;ft=pod&amp;f=510308" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Encore of Episode 7: Lonely Hearts</title>
+      <description><![CDATA[Jesse always wanted to fall in love. So when the perfect woman started writing him letters, it seemed too good to be true. Because it was. This week, a story about a con — with a twist. When the con was exposed, its victims defended the con artists. They still wanted to believe the lie]]></description>
+      <pubDate>Tue, 26 Jul 2016 00:05:07 -0400</pubDate>
+      <copyright>Copyright 2015 NPR - For Personal Use Only</copyright>
+      <guid>0d60bc40-8869-479f-ba2b-052069aa3e60</guid>
+      <itunes:author>NPR</itunes:author>
+      <itunes:summary><![CDATA[Jesse always wanted to fall in love. So when the perfect woman started writing him letters, it seemed too good to be true. Because it was. This week, a story about a con — with a twist. When the con was exposed, its victims defended the con artists. They still wanted to believe the lie]]></itunes:summary>
+      <itunes:subtitle><![CDATA[Jesse always wanted to fall in love. So when the perfect woman started writing him letters, it seemed too good to be true. Because it was. This week, a story about a con — with a twist. When the con was exposed, its victims defended the con artists. They still wanted to believe the lie]]></itunes:subtitle>
+      <itunes:duration>1980</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <enclosure url="https://play.podtrac.com/npr-510308/npr.mc.tritondigital.com/NPR_510308/media/anon.npr-mp3/npr/hiddenbrain/2016/07/20160725_hiddenbrain_episode7.mp3?orgId=1&amp;d=1980&amp;p=510308&amp;story=487391074&amp;t=podcast&amp;e=487391074&amp;ft=pod&amp;f=510308" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Episode 39: Vacations</title>
+      <description><![CDATA[Summer vacations often take time, energy and money to plan. Expectations can run unreasonably high. This week in Stopwatch Science, we dive into what research says about how to have a better getaway.]]></description>
+      <pubDate>Tue, 19 Jul 2016 00:01:04 -0400</pubDate>
+      <copyright>Copyright 2015 NPR - For Personal Use Only</copyright>
+      <guid>276fd87c-8e5c-4833-84cb-3f9a49d09790</guid>
+      <itunes:author>NPR</itunes:author>
+      <itunes:summary><![CDATA[Summer vacations often take time, energy and money to plan. Expectations can run unreasonably high. This week in Stopwatch Science, we dive into what research says about how to have a better getaway.]]></itunes:summary>
+      <itunes:subtitle><![CDATA[Summer vacations often take time, energy and money to plan. Expectations can run unreasonably high. This week in Stopwatch Science, we dive into what research says about how to have a better getaway.]]></itunes:subtitle>
+      <itunes:duration>1003</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <enclosure url="https://play.podtrac.com/npr-510308/npr.mc.tritondigital.com/NPR_510308/media/anon.npr-mp3/npr/hiddenbrain/2016/07/20160718_hiddenbrain_vacations.mp3?orgId=1&amp;d=1003&amp;p=510308&amp;story=486502577&amp;t=podcast&amp;e=486502577&amp;ft=pod&amp;f=510308" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Episode 38: Me, Me, Me</title>
+      <description><![CDATA[It doesn't take a psychologist to see narcissism in our culture of selfies. But we decided to talk to one anyway. Jean Twenge is a researcher and author of the books <em>The Narcissism Epidemi</em>c, and<em> Generation Me</em>.]]></description>
+      <pubDate>Tue, 12 Jul 2016 00:05:00 -0400</pubDate>
+      <copyright>Copyright 2015 NPR - For Personal Use Only</copyright>
+      <guid>e371eee8-1990-4a6f-9caa-7b54ff329fdc</guid>
+      <itunes:author>NPR</itunes:author>
+      <itunes:summary><![CDATA[It doesn't take a psychologist to see narcissism in our culture of selfies. But we decided to talk to one anyway. Jean Twenge is a researcher and author of the books <em>The Narcissism Epidemi</em>c, and<em> Generation Me</em>.]]></itunes:summary>
+      <itunes:subtitle><![CDATA[It doesn't take a psychologist to see narcissism in our culture of selfies. But we decided to talk to one anyway. Jean Twenge is a researcher and author of the books <em>The Narcissism Epidemi</em>c, and<em> Generation Me</em>.]]></itunes:subtitle>
+      <itunes:duration>1498</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <enclosure url="https://play.podtrac.com/npr-510308/npr.mc.tritondigital.com/NPR_510308/media/anon.npr-mp3/npr/hiddenbrain/2016/07/20160708_hiddenbrain_podcast38.mp3?orgId=1&amp;d=1498&amp;p=510308&amp;story=485309037&amp;t=podcast&amp;e=485309037&amp;ft=pod&amp;f=510308" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Episode 37: Smoke &amp; Mirrors</title>
+      <description><![CDATA[Six months ago, Hidden Brain's Max Nesterak made a resolution to quit smoking. But as we all know... resolutions are made to be broken. This week, we check in with Max to find out how he's fared, and give you social science insight to help you quit your bad habits too.]]></description>
+      <pubDate>Tue, 05 Jul 2016 00:12:00 -0400</pubDate>
+      <copyright>Copyright 2015 NPR - For Personal Use Only</copyright>
+      <guid>c1aed96e-0777-440b-9716-c617c893417c</guid>
+      <itunes:author>NPR</itunes:author>
+      <itunes:summary><![CDATA[Six months ago, Hidden Brain's Max Nesterak made a resolution to quit smoking. But as we all know... resolutions are made to be broken. This week, we check in with Max to find out how he's fared, and give you social science insight to help you quit your bad habits too.]]></itunes:summary>
+      <itunes:subtitle><![CDATA[Six months ago, Hidden Brain's Max Nesterak made a resolution to quit smoking. But as we all know... resolutions are made to be broken. This week, we check in with Max to find out how he's fared, and give you social science insight to help you quit your bad habits too.]]></itunes:subtitle>
+      <itunes:duration>1502</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <enclosure url="https://play.podtrac.com/npr-510308/npr.mc.tritondigital.com/NPR_510308/media/anon.npr-mp3/npr/hiddenbrain/2016/06/20160630_hiddenbrain_episode37.mp3?orgId=1&amp;d=1502&amp;p=510308&amp;story=481603110&amp;t=podcast&amp;e=481603110&amp;ft=pod&amp;f=510308" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Episode 36: Science of Deception</title>
+      <description><![CDATA[This week on Hidden Brain, we find out what makes humans of all ages cheat. Plus in Stopwatch Science, Dan Pink comes armed with studies on how our social context influences our cheating habits.]]></description>
+      <pubDate>Tue, 28 Jun 2016 00:05:17 -0400</pubDate>
+      <copyright>Copyright 2015 NPR - For Personal Use Only</copyright>
+      <guid>f4577c39-68ae-40d9-946d-f36a4f188554</guid>
+      <itunes:author>NPR</itunes:author>
+      <itunes:summary><![CDATA[This week on Hidden Brain, we find out what makes humans of all ages cheat. Plus in Stopwatch Science, Dan Pink comes armed with studies on how our social context influences our cheating habits.]]></itunes:summary>
+      <itunes:subtitle><![CDATA[This week on Hidden Brain, we find out what makes humans of all ages cheat. Plus in Stopwatch Science, Dan Pink comes armed with studies on how our social context influences our cheating habits.]]></itunes:subtitle>
+      <itunes:duration>1023</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <enclosure url="https://play.podtrac.com/npr-510308/npr.mc.tritondigital.com/NPR_510308/media/anon.npr-mp3/npr/hiddenbrain/2016/06/20160627_hiddenbrain_deception.mp3?orgId=1&amp;d=1023&amp;p=510308&amp;story=483770527&amp;t=podcast&amp;e=483770527&amp;ft=pod&amp;f=510308" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Episode 35: Creature Comforts</title>
+      <description><![CDATA[This week, Hidden Brain considers the power of touch. First, Alison MacAdam tells us the story of her security blanket, called Baba. Then, Shankar interviews writer Deborah Blum about groundbreaking experiments into the importance of affection for young children.]]></description>
+      <pubDate>Tue, 21 Jun 2016 00:00:17 -0400</pubDate>
+      <copyright>Copyright 2015 NPR - For Personal Use Only</copyright>
+      <guid>35f1d47f-e7aa-4ae2-8a1b-e5631ed648ed</guid>
+      <itunes:author>NPR</itunes:author>
+      <itunes:summary><![CDATA[This week, Hidden Brain considers the power of touch. First, Alison MacAdam tells us the story of her security blanket, called Baba. Then, Shankar interviews writer Deborah Blum about groundbreaking experiments into the importance of affection for young children.]]></itunes:summary>
+      <itunes:subtitle><![CDATA[This week, Hidden Brain considers the power of touch. First, Alison MacAdam tells us the story of her security blanket, called Baba. Then, Shankar interviews writer Deborah Blum about groundbreaking experiments into the importance of affection for young children.]]></itunes:subtitle>
+      <itunes:image href="https://media.npr.org/assets/img/2016/06/20/hb-blanket-dfishel_wide-672b236511bbc15686664aa137da77084056a97e.jpg?s=1400"/>
+      <itunes:duration>1742</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <enclosure url="https://play.podtrac.com/npr-510308/npr.mc.tritondigital.com/NPR_510308/media/anon.npr-mp3/npr/hiddenbrain/2016/06/20160620_hiddenbrain_creature.mp3?orgId=1&amp;d=1742&amp;p=510308&amp;story=482835141&amp;t=podcast&amp;e=482835141&amp;ft=pod&amp;f=510308" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Encore of Episode 13: Terrorism</title>
+      <description><![CDATA[In the wake of the mass shooting in Orlando, we explore how groups such as the Islamic State explicitly try to capitalize on the grievances and individual frustrations of potential "recruits."]]></description>
+      <pubDate>Tue, 14 Jun 2016 00:05:00 -0400</pubDate>
+      <copyright>Copyright 2015 NPR - For Personal Use Only</copyright>
+      <guid>97c0a791-c8fe-4fbe-ae71-e16d0e1cfd28</guid>
+      <itunes:author>NPR</itunes:author>
+      <itunes:summary><![CDATA[In the wake of the mass shooting in Orlando, we explore how groups such as the Islamic State explicitly try to capitalize on the grievances and individual frustrations of potential "recruits."]]></itunes:summary>
+      <itunes:subtitle><![CDATA[In the wake of the mass shooting in Orlando, we explore how groups such as the Islamic State explicitly try to capitalize on the grievances and individual frustrations of potential "recruits."]]></itunes:subtitle>
+      <itunes:duration>1603</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <enclosure url="https://play.podtrac.com/npr-510308/npr.mc.tritondigital.com/NPR_510308/media/anon.npr-mp3/npr/hiddenbrain/2016/06/20160613_hiddenbrain_terrorism.mp3?orgId=1&amp;d=1603&amp;p=510308&amp;story=481931350&amp;t=podcast&amp;e=481931350&amp;ft=pod&amp;f=510308" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Episode 34: Google at Work</title>
+      <description><![CDATA[This week on Hidden Brain, Shankar talks to Google's Laszlo Bock for insider tips and insights about what works — and what doesn't work — in recruiting, motivating, and retaining a talented workforce.]]></description>
+      <pubDate>Tue, 07 Jun 2016 00:00:21 -0400</pubDate>
+      <copyright>Copyright 2015 NPR - For Personal Use Only</copyright>
+      <guid>64bda32a-27da-4d59-b831-e035a1ce3904</guid>
+      <itunes:author>NPR</itunes:author>
+      <itunes:summary><![CDATA[This week on Hidden Brain, Shankar talks to Google's Laszlo Bock for insider tips and insights about what works — and what doesn't work — in recruiting, motivating, and retaining a talented workforce.]]></itunes:summary>
+      <itunes:subtitle><![CDATA[This week on Hidden Brain, Shankar talks to Google's Laszlo Bock for insider tips and insights about what works — and what doesn't work — in recruiting, motivating, and retaining a talented workforce.]]></itunes:subtitle>
+      <itunes:duration>1592</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <enclosure url="https://play.podtrac.com/npr-510308/npr.mc.tritondigital.com/NPR_510308/media/anon.npr-mp3/npr/hiddenbrain/2016/06/20160603_hiddenbrain_google.mp3?orgId=1&amp;d=1592&amp;p=510308&amp;story=480635027&amp;t=podcast&amp;e=480635027&amp;ft=pod&amp;f=510308" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Episode 33: Food for Thought</title>
+      <description><![CDATA[What do large tables, large breakfasts, and large servers have in common? They all affect how much you eat. This week on Hidden Brain, we look at the hidden forces that drive our diets.]]></description>
+      <pubDate>Tue, 31 May 2016 00:00:00 -0400</pubDate>
+      <copyright>Copyright 2015 NPR - For Personal Use Only</copyright>
+      <guid>ef13aecf-59e7-458a-93a1-545b529525ee</guid>
+      <itunes:author>NPR</itunes:author>
+      <itunes:summary><![CDATA[What do large tables, large breakfasts, and large servers have in common? They all affect how much you eat. This week on Hidden Brain, we look at the hidden forces that drive our diets.]]></itunes:summary>
+      <itunes:subtitle><![CDATA[What do large tables, large breakfasts, and large servers have in common? They all affect how much you eat. This week on Hidden Brain, we look at the hidden forces that drive our diets.]]></itunes:subtitle>
+      <itunes:image href="https://media.npr.org/assets/img/2016/05/27/2ddb5e68-de0c-4dfd-8361-cbfaacbcc3e9_wide-7bc51813c4dcfef01303e7786367c197c0aa7fd9.jpg?s=1400"/>
+      <itunes:duration>1179</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <enclosure url="https://play.podtrac.com/npr-510308/npr.mc.tritondigital.com/NPR_510308/media/anon.npr-mp3/npr/hiddenbrain/2016/05/20160527_hiddenbrain_food2.mp3?orgId=1&amp;d=1179&amp;p=510308&amp;story=479769293&amp;t=podcast&amp;e=479769293&amp;ft=pod&amp;f=510308" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Episode 32: The Scientific Process</title>
+      <description><![CDATA[Lots of psychology studies fail to produce the same results when they are repeated. How do scientists know what's true?]]></description>
+      <pubDate>Tue, 24 May 2016 00:05:28 -0400</pubDate>
+      <copyright>Copyright 2015 NPR - For Personal Use Only</copyright>
+      <guid>6b6d217c-d13d-499f-b9d3-486df74fc582</guid>
+      <itunes:author>NPR</itunes:author>
+      <itunes:summary><![CDATA[Lots of psychology studies fail to produce the same results when they are repeated. How do scientists know what's true?]]></itunes:summary>
+      <itunes:subtitle><![CDATA[Lots of psychology studies fail to produce the same results when they are repeated. How do scientists know what's true?]]></itunes:subtitle>
+      <itunes:image href="https://media.npr.org/assets/img/2016/05/23/npr_replication_low_wide-f838766dfc68cfa7245f5a1d7680a0d2fbf62d7f.jpeg?s=1400"/>
+      <itunes:duration>1697</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <enclosure url="https://play.podtrac.com/npr-510308/npr.mc.tritondigital.com/NPR_510308/media/anon.npr-mp3/npr/hiddenbrain/2016/05/20160523_hiddenbrain_32scipro.mp3?orgId=1&amp;d=1697&amp;p=510308&amp;story=479201596&amp;t=podcast&amp;e=479201596&amp;ft=pod&amp;f=510308" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Episode 31: Your Brain on Uber</title>
+      <description><![CDATA[Uber is built on the scourge of surge. When demand is high, the company charges two, three, even NINE-POINT-NINE times as much as normal for a ride. Riders hate it . . . but not so much that they stop riding. Yep, "dynamic pricing" has helped the company to grow into one of the largest taxi services in the world. What's the psychology behind it? Shankar sits down with Uber's Head of Economic Research Keith Chen to talk about when we're most likely pay for surge, when we hate it the most, and why monkeys would probably act and feel the same way. That's right. Monkeys.]]></description>
+      <pubDate>Tue, 17 May 2016 00:01:00 -0400</pubDate>
+      <copyright>Copyright 2015 NPR - For Personal Use Only</copyright>
+      <guid>606d1336-b47b-4508-8c7f-feceb13df764</guid>
+      <itunes:author>NPR</itunes:author>
+      <itunes:summary><![CDATA[Uber is built on the scourge of surge. When demand is high, the company charges two, three, even NINE-POINT-NINE times as much as normal for a ride. Riders hate it . . . but not so much that they stop riding. Yep, "dynamic pricing" has helped the company to grow into one of the largest taxi services in the world. What's the psychology behind it? Shankar sits down with Uber's Head of Economic Research Keith Chen to talk about when we're most likely pay for surge, when we hate it the most, and why monkeys would probably act and feel the same way. That's right. Monkeys.]]></itunes:summary>
+      <itunes:subtitle><![CDATA[Uber is built on the scourge of surge. When demand is high, the company charges two, three, even NINE-POINT-NINE times as much as normal for a ride. Riders hate it . . . but not so much that they stop riding. Yep, "dynamic pricing" has helped the company to grow into one of the largest taxi services in the world. What's the psychology behind it? Shankar sits down with Uber's Head of Economic Research Keith Chen to talk about when we're most likely pay for surge, when we hate it the most, and why monkeys would probably act and feel the same way. That's right. Monkeys.]]></itunes:subtitle>
+      <itunes:duration>1802</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <enclosure url="https://play.podtrac.com/npr-510308/npr.mc.tritondigital.com/NPR_510308/media/anon.npr-mp3/npr/hiddenbrain/2016/05/20160516_hiddenbrain_uber.mp3?orgId=1&amp;d=1802&amp;p=510308&amp;story=478287737&amp;t=podcast&amp;e=478287737&amp;ft=pod&amp;f=510308" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Episode 30: WOOP, There It Is</title>
+      <description><![CDATA[Many of us have heard that we should think positive... Visualize ourselves achieving our goals. But researcher Gabriele Oettingen finds, this isn't actually the best advice. Instead, we should use her strategy — which she calls WOOP.]]></description>
+      <pubDate>Tue, 10 May 2016 03:34:00 -0400</pubDate>
+      <copyright>Copyright 2015 NPR - For Personal Use Only</copyright>
+      <guid>11c5ff1d-0847-43d6-a04d-7903b91e5c8f</guid>
+      <itunes:author>NPR</itunes:author>
+      <itunes:summary><![CDATA[Many of us have heard that we should think positive... Visualize ourselves achieving our goals. But researcher Gabriele Oettingen finds, this isn't actually the best advice. Instead, we should use her strategy — which she calls WOOP.]]></itunes:summary>
+      <itunes:subtitle><![CDATA[Many of us have heard that we should think positive... Visualize ourselves achieving our goals. But researcher Gabriele Oettingen finds, this isn't actually the best advice. Instead, we should use her strategy — which she calls WOOP.]]></itunes:subtitle>
+      <itunes:duration>1294</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <enclosure url="https://play.podtrac.com/npr-510308/npr.mc.tritondigital.com/NPR_510308/media/anon.npr-mp3/npr/hiddenbrain/2016/05/20160506_hiddenbrain_oettingen.mp3?orgId=1&amp;d=1294&amp;p=510308&amp;story=477071587&amp;t=podcast&amp;e=477071587&amp;ft=pod&amp;f=510308" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Episode 29: Traffic</title>
+      <description><![CDATA[Traffic. You hate it, we hate it, the rest of the world hates it, and unfortunately, our best efforts to curb it usually only make it worse. This week on Hidden Brain, we visit a few of the world's most congested cities, and investigate a few options to make driving safer and less maddening.]]></description>
+      <pubDate>Tue, 03 May 2016 00:02:11 -0400</pubDate>
+      <copyright>Copyright 2015 NPR - For Personal Use Only</copyright>
+      <guid>e5d51bc8-84cc-4feb-96ea-e00d705a42e6</guid>
+      <itunes:author>NPR</itunes:author>
+      <itunes:summary><![CDATA[Traffic. You hate it, we hate it, the rest of the world hates it, and unfortunately, our best efforts to curb it usually only make it worse. This week on Hidden Brain, we visit a few of the world's most congested cities, and investigate a few options to make driving safer and less maddening.]]></itunes:summary>
+      <itunes:subtitle><![CDATA[Traffic. You hate it, we hate it, the rest of the world hates it, and unfortunately, our best efforts to curb it usually only make it worse. This week on Hidden Brain, we visit a few of the world's most congested cities, and investigate a few options to make driving safer and less maddening.]]></itunes:subtitle>
+      <itunes:image href="https://media.npr.org/assets/img/2016/05/02/hires_wide-4d0a5c35a2cb6dcc0b1b42c89c85829741800896.jpg?s=1400"/>
+      <itunes:duration>1021</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <enclosure url="https://play.podtrac.com/npr-510308/npr.mc.tritondigital.com/NPR_510308/media/anon.npr-mp3/npr/hiddenbrain/2016/05/20160502_hiddenbrain_traffic.mp3?orgId=1&amp;d=1021&amp;p=510308&amp;story=476510991&amp;t=podcast&amp;e=476510991&amp;ft=pod&amp;f=510308" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Episode 28: #AirbnbWhileBlack</title>
+      <description><![CDATA[The sharing economy is great. It gives us opportunities to connect with strangers... to pool resources... to get a cheap ride, or a weekend away. But this week on Hidden Brain, we'll look at how these new platforms can amplify some old biases.]]></description>
+      <pubDate>Tue, 26 Apr 2016 00:01:11 -0400</pubDate>
+      <copyright>Copyright 2015 NPR - For Personal Use Only</copyright>
+      <guid>f508449f-0db4-4999-8f41-655b40f22c20</guid>
+      <itunes:author>NPR</itunes:author>
+      <itunes:summary><![CDATA[The sharing economy is great. It gives us opportunities to connect with strangers... to pool resources... to get a cheap ride, or a weekend away. But this week on Hidden Brain, we'll look at how these new platforms can amplify some old biases.]]></itunes:summary>
+      <itunes:subtitle><![CDATA[The sharing economy is great. It gives us opportunities to connect with strangers... to pool resources... to get a cheap ride, or a weekend away. But this week on Hidden Brain, we'll look at how these new platforms can amplify some old biases.]]></itunes:subtitle>
+      <itunes:image href="https://media.npr.org/assets/img/2016/04/25/synta_wide-935ab7720fa97b51cccf6dfa38eb04e738e86758.jpg?s=1400"/>
+      <itunes:duration>1349</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <enclosure url="https://play.podtrac.com/npr-510308/npr.mc.tritondigital.com/NPR_510308/media/anon.npr-mp3/npr/hiddenbrain/2016/04/20160425_hiddenbrain_episode28.mp3?orgId=1&amp;d=1349&amp;p=510308&amp;story=475635166&amp;t=podcast&amp;e=475635166&amp;ft=pod&amp;f=510308" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Episode 27: Losing Alaska</title>
+      <description><![CDATA[Human beings would be better at fighting climate change if we weren't so, well, human. In this episode, we explore the psychological barriers to addressing climate change.]]></description>
+      <pubDate>Tue, 19 Apr 2016 00:05:00 -0400</pubDate>
+      <copyright>Copyright 2015 NPR - For Personal Use Only</copyright>
+      <guid>33e6dde3-da76-4cb2-8b76-eb4dd4237cff</guid>
+      <itunes:author>NPR</itunes:author>
+      <itunes:summary><![CDATA[Human beings would be better at fighting climate change if we weren't so, well, human. In this episode, we explore the psychological barriers to addressing climate change.]]></itunes:summary>
+      <itunes:subtitle><![CDATA[Human beings would be better at fighting climate change if we weren't so, well, human. In this episode, we explore the psychological barriers to addressing climate change.]]></itunes:subtitle>
+      <itunes:image href="https://media.npr.org/assets/img/2016/04/18/Alaska_wide-925809d34af0ac896ecdc3d61cd9b5b7c4a7414d.jpg?s=1400"/>
+      <itunes:duration>1496</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <enclosure url="https://play.podtrac.com/npr-510308/npr.mc.tritondigital.com/NPR_510308/media/anon.npr-mp3/npr/hiddenbrain/2016/04/20160418_hiddenbrain_losingalaska3.mp3?orgId=1&amp;d=1496&amp;p=510308&amp;story=474684609&amp;t=podcast&amp;e=474684609&amp;ft=pod&amp;f=510308" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Encore of Episode 16: Misbehaving</title>
+      <description><![CDATA[From eating marshmallows to spending lottery winnings, Shankar Vedantam talks with behavioral economist Richard Thaler about <em>Misbehaving</em>.]]></description>
+      <pubDate>Tue, 12 Apr 2016 00:00:30 -0400</pubDate>
+      <copyright>Copyright 2015 NPR - For Personal Use Only</copyright>
+      <guid>62060919-b0c6-4b07-b105-ce05348d753a</guid>
+      <itunes:author>NPR</itunes:author>
+      <itunes:summary><![CDATA[From eating marshmallows to spending lottery winnings, Shankar Vedantam talks with behavioral economist Richard Thaler about <em>Misbehaving</em>.]]></itunes:summary>
+      <itunes:subtitle><![CDATA[From eating marshmallows to spending lottery winnings, Shankar Vedantam talks with behavioral economist Richard Thaler about <em>Misbehaving</em>.]]></itunes:subtitle>
+      <itunes:image href="https://media.npr.org/assets/img/2016/04/11/Richard Thaler_wide-1d1d01a0a630d833a08dcb6fc2f7826d059f91f5.jpg?s=1400"/>
+      <itunes:duration>1464</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <enclosure url="https://play.podtrac.com/npr-510308/npr.mc.tritondigital.com/NPR_510308/media/anon.npr-mp3/npr/hiddenbrain/2016/04/20160411_hiddenbrain_podcast16.mp3?orgId=1&amp;d=1464&amp;p=510308&amp;story=473834879&amp;t=podcast&amp;e=473834879&amp;ft=pod&amp;f=510308" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Episode 26: Grit</title>
+      <description><![CDATA[Grit is a quality that parents strive to teach to their children, and teachers strive to teach their students. This week on Hidden Brain, we explore grit, and ask, does it also have a downside?]]></description>
+      <pubDate>Tue, 05 Apr 2016 00:00:00 -0400</pubDate>
+      <copyright>Copyright 2015 NPR - For Personal Use Only</copyright>
+      <guid>0a7b7526-f9c2-4665-9162-b1d069668774</guid>
+      <itunes:author>NPR</itunes:author>
+      <itunes:summary><![CDATA[Grit is a quality that parents strive to teach to their children, and teachers strive to teach their students. This week on Hidden Brain, we explore grit, and ask, does it also have a downside?]]></itunes:summary>
+      <itunes:subtitle><![CDATA[Grit is a quality that parents strive to teach to their children, and teachers strive to teach their students. This week on Hidden Brain, we explore grit, and ask, does it also have a downside?]]></itunes:subtitle>
+      <itunes:image href="https://media.npr.org/assets/img/2016/04/04/npr_grit_3000x1688_version_002_wide-439d1a44d477a31daa62b8329dfc18148af069b1.jpg?s=1400"/>
+      <itunes:duration>1767</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <enclosure url="https://play.podtrac.com/npr-510308/npr.mc.tritondigital.com/NPR_510308/media/anon.npr-mp3/npr/hiddenbrain/2016/04/20160404_hiddenbrain_grit.mp3?orgId=1&amp;d=1767&amp;p=510308&amp;story=472993948&amp;t=podcast&amp;e=472993948&amp;ft=pod&amp;f=510308" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Episode 25: Dream Jobs</title>
+      <description><![CDATA[Why do you work? Are you just in it for the money, or do you do it for a greater purpose? Popular wisdom says your answer depends on what your job is. But psychologist Amy Wrzesniewski at Yale University finds it may have more to do with how we think about our work. Across secretaries and custodians and computer programmers, she finds we're about equally split in whether we say we have a job, a career, or a calling. This week on Hidden Brain, Shankar Vedantam talks with Amy about how we find meaning and purpose at work.]]></description>
+      <pubDate>Tue, 29 Mar 2016 00:00:00 -0400</pubDate>
+      <copyright>Copyright 2015 NPR - For Personal Use Only</copyright>
+      <guid>c8ca07db-201f-4a91-bcf3-d8df01cc41f6</guid>
+      <itunes:author>NPR</itunes:author>
+      <itunes:summary><![CDATA[Why do you work? Are you just in it for the money, or do you do it for a greater purpose? Popular wisdom says your answer depends on what your job is. But psychologist Amy Wrzesniewski at Yale University finds it may have more to do with how we think about our work. Across secretaries and custodians and computer programmers, she finds we're about equally split in whether we say we have a job, a career, or a calling. This week on Hidden Brain, Shankar Vedantam talks with Amy about how we find meaning and purpose at work.]]></itunes:summary>
+      <itunes:subtitle><![CDATA[Why do you work? Are you just in it for the money, or do you do it for a greater purpose? Popular wisdom says your answer depends on what your job is. But psychologist Amy Wrzesniewski at Yale University finds it may have more to do with how we think about our work. Across secretaries and custodians and computer programmers, she finds we're about equally split in whether we say we have a job, a career, or a calling. This week on Hidden Brain, Shankar Vedantam talks with Amy about how we find meaning and purpose at work.]]></itunes:subtitle>
+      <itunes:image href="https://media.npr.org/assets/img/2016/03/25/65413487_thumbnail1_wide-541a09f42be088edf54f01f206fa559f1234ce88.jpg?s=1400"/>
+      <itunes:duration>1304</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <enclosure url="https://play.podtrac.com/npr-510308/npr.mc.tritondigital.com/NPR_510308/media/anon.npr-mp3/npr/hiddenbrain/2016/03/20160325_hiddenbrain_podcast25.mp3?orgId=1&amp;d=1304&amp;p=510308&amp;story=471887738&amp;t=podcast&amp;e=471887738&amp;ft=pod&amp;f=510308" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Episode 24: Tribes and Traitors</title>
+      <description><![CDATA[This week on Hidden Brain, two remarkable stories of empathy... And why showing empathy for another group can feel so threatening to our own tribes.]]></description>
+      <pubDate>Tue, 22 Mar 2016 00:00:00 -0400</pubDate>
+      <copyright>Copyright 2015 NPR - For Personal Use Only</copyright>
+      <guid>bbeea461-87cb-43ee-b68a-e0f3fd222d76</guid>
+      <itunes:author>NPR</itunes:author>
+      <itunes:summary><![CDATA[This week on Hidden Brain, two remarkable stories of empathy... And why showing empathy for another group can feel so threatening to our own tribes.]]></itunes:summary>
+      <itunes:subtitle><![CDATA[This week on Hidden Brain, two remarkable stories of empathy... And why showing empathy for another group can feel so threatening to our own tribes.]]></itunes:subtitle>
+      <itunes:image href="https://media.npr.org/assets/img/2016/03/21/istock_000059213106_medium1_wide-ea1eee76be9387d1abb189e8a4f1e23085647f62.jpg?s=1400"/>
+      <itunes:duration>1709</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <enclosure url="https://play.podtrac.com/npr-510308/npr.mc.tritondigital.com/NPR_510308/media/anon.npr-mp3/npr/hiddenbrain/2016/03/20160321_hiddenbrain_tribesandtraitors.mp3?orgId=1&amp;d=1709&amp;p=510308&amp;story=471342104&amp;t=podcast&amp;e=471342104&amp;ft=pod&amp;f=510308" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Episode 23: Boredom</title>
+      <description><![CDATA[We've all been there: bored in class, bored at work, bored in standstill traffic. But why do we find boredom so unbearable? And, if we hate being bored so much, why do we still take boring jobs? This week on Hidden Brain, we try to answer these questions and more — hopefully, without boring you.]]></description>
+      <pubDate>Tue, 15 Mar 2016 00:00:00 -0400</pubDate>
+      <copyright>Copyright 2015 NPR - For Personal Use Only</copyright>
+      <guid>31e06051-c486-475d-803d-c906256701be</guid>
+      <itunes:author>NPR</itunes:author>
+      <itunes:summary><![CDATA[We've all been there: bored in class, bored at work, bored in standstill traffic. But why do we find boredom so unbearable? And, if we hate being bored so much, why do we still take boring jobs? This week on Hidden Brain, we try to answer these questions and more — hopefully, without boring you.]]></itunes:summary>
+      <itunes:subtitle><![CDATA[We've all been there: bored in class, bored at work, bored in standstill traffic. But why do we find boredom so unbearable? And, if we hate being bored so much, why do we still take boring jobs? This week on Hidden Brain, we try to answer these questions and more — hopefully, without boring you.]]></itunes:subtitle>
+      <itunes:image href="https://media.npr.org/assets/img/2016/03/14/thumbnail_wide-0138985cb0abdd9f83ced4eddae7c13732c40bb6.jpg?s=1400"/>
+      <itunes:duration>1282</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <enclosure url="https://play.podtrac.com/npr-510308/npr.mc.tritondigital.com/NPR_510308/media/anon.npr-mp3/npr/hiddenbrain/2016/03/20160314_hiddenbrain_boredom.mp3?orgId=1&amp;d=1282&amp;p=510308&amp;story=470413232&amp;t=podcast&amp;e=470413232&amp;ft=pod&amp;f=510308" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Encore of Episode 9: Aziz Ansari on Modern Love</title>
+      <description><![CDATA[Hidden Brain host Shankar Vedantam talks to comedian Aziz Ansari — star of Master of None and coauthor of <em>Modern Romance</em> — about Tinder, texting and how dating is a bit like... buying jam.]]></description>
+      <pubDate>Tue, 08 Mar 2016 00:05:00 -0500</pubDate>
+      <copyright>Copyright 2015 NPR - For Personal Use Only</copyright>
+      <guid>51640a6d-1699-4d4a-894a-9ca5de078322</guid>
+      <itunes:author>NPR</itunes:author>
+      <itunes:summary><![CDATA[Hidden Brain host Shankar Vedantam talks to comedian Aziz Ansari — star of Master of None and coauthor of <em>Modern Romance</em> — about Tinder, texting and how dating is a bit like... buying jam.]]></itunes:summary>
+      <itunes:subtitle><![CDATA[Hidden Brain host Shankar Vedantam talks to comedian Aziz Ansari — star of Master of None and coauthor of <em>Modern Romance</em> — about Tinder, texting and how dating is a bit like... buying jam.]]></itunes:subtitle>
+      <itunes:image href="https://media.npr.org/assets/img/2016/03/07/gettyimages-482219548_wide-a722b0ea44938118dc785d864ca2fa84cecc6e8d.jpg?s=1400"/>
+      <itunes:duration>1671</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <enclosure url="https://play.podtrac.com/npr-510308/npr.mc.tritondigital.com/NPR_510308/media/anon.npr-mp3/npr/hiddenbrain/2016/03/20160307_hiddenbrain_ansari.mp3?orgId=1&amp;d=1671&amp;p=510308&amp;story=469533302&amp;t=podcast&amp;e=469533302&amp;ft=pod&amp;f=510308" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Episode 22: Originals</title>
+      <description><![CDATA[Adam Grant, author of Originals: How Non-Conformists Move the World, tells us what makes an original, how parents can nuture originality in their children, and its potential downside.]]></description>
+      <pubDate>Tue, 01 Mar 2016 00:01:00 -0500</pubDate>
+      <copyright>Copyright 2015 NPR - For Personal Use Only</copyright>
+      <guid>3fcc3c1d-d950-490d-ba8f-e96dec05c6df</guid>
+      <itunes:author>NPR</itunes:author>
+      <itunes:summary><![CDATA[Adam Grant, author of Originals: How Non-Conformists Move the World, tells us what makes an original, how parents can nuture originality in their children, and its potential downside.]]></itunes:summary>
+      <itunes:subtitle><![CDATA[Adam Grant, author of Originals: How Non-Conformists Move the World, tells us what makes an original, how parents can nuture originality in their children, and its potential downside.]]></itunes:subtitle>
+      <itunes:image href="https://media.npr.org/assets/img/2016/02/29/adamgrantnew---copy1_wide-2d6f468462f33baf95cb28d10d09234ef1821266.jpg?s=1400"/>
+      <itunes:duration>1281</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <enclosure url="https://play.podtrac.com/npr-510308/npr.mc.tritondigital.com/NPR_510308/media/anon.npr-mp3/npr/hiddenbrain/2016/02/20160229_hiddenbrain_originals.mp3?orgId=1&amp;d=1281&amp;p=510308&amp;story=468597392&amp;t=podcast&amp;e=468597392&amp;ft=pod&amp;f=510308" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Episode 21: Stroke of Genius</title>
+      <description><![CDATA[Derek Amato wasn't born a musical savant. He became one—almost instantly—after hitting his head on the bottom of a swimming pool.]]></description>
+      <pubDate>Tue, 23 Feb 2016 00:05:00 -0500</pubDate>
+      <copyright>Copyright 2015 NPR - For Personal Use Only</copyright>
+      <guid>09f2dda9-5f7e-4ca8-95f4-76ebc9419071</guid>
+      <itunes:author>NPR</itunes:author>
+      <itunes:summary><![CDATA[Derek Amato wasn't born a musical savant. He became one—almost instantly—after hitting his head on the bottom of a swimming pool.]]></itunes:summary>
+      <itunes:subtitle><![CDATA[Derek Amato wasn't born a musical savant. He became one—almost instantly—after hitting his head on the bottom of a swimming pool.]]></itunes:subtitle>
+      <itunes:image href="https://media.npr.org/assets/img/2016/02/22/derek-amato-picture_wide-031d6235a22047a1dcd0d56d04d2a86e48b44764.jpg?s=1400"/>
+      <itunes:duration>1483</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <enclosure url="https://play.podtrac.com/npr-510308/npr.mc.tritondigital.com/NPR_510308/media/anon.npr-mp3/npr/hiddenbrain/2016/02/20160222_hiddenbrain_savant.mp3?orgId=1&amp;d=1483&amp;p=510308&amp;story=467718118&amp;t=podcast&amp;e=467718118&amp;ft=pod&amp;f=510308" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Episode 20: Remembering Anarcha</title>
+      <description><![CDATA[J. Marion Sims is remembered as the father of modern gynecology. Forgotten are the mothers—the enslaved women whose bodies were sacrificed for the advancement of his research.]]></description>
+      <pubDate>Tue, 16 Feb 2016 00:05:00 -0500</pubDate>
+      <copyright>Copyright 2015 NPR - For Personal Use Only</copyright>
+      <guid>6fc4db0c-fa64-4a15-9247-444d70e0e9eb</guid>
+      <itunes:author>NPR</itunes:author>
+      <itunes:summary><![CDATA[J. Marion Sims is remembered as the father of modern gynecology. Forgotten are the mothers—the enslaved women whose bodies were sacrificed for the advancement of his research.]]></itunes:summary>
+      <itunes:subtitle><![CDATA[J. Marion Sims is remembered as the father of modern gynecology. Forgotten are the mothers—the enslaved women whose bodies were sacrificed for the advancement of his research.]]></itunes:subtitle>
+      <itunes:image href="https://media.npr.org/assets/img/2016/02/12/120181977_aed80653fb_z_wide-ae274141a46f69c7b374e78f49c7ccf819570816.jpg?s=1400"/>
+      <itunes:duration>1601</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <enclosure url="https://play.podtrac.com/npr-510308/npr.mc.tritondigital.com/NPR_510308/media/anon.npr-mp3/npr/hiddenbrain/2016/02/20160212_hiddenbrain_anarcha.mp3?orgId=1&amp;d=1601&amp;p=510308&amp;story=466573011&amp;t=podcast&amp;e=466573011&amp;ft=pod&amp;f=510308" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Episode 19: Dating and Mating</title>
+      <description><![CDATA[It's almost Valentine's Day, but this week we're not talking about love. Instead, we explore the other forces that drive our romantic relationships.]]></description>
+      <pubDate>Tue, 09 Feb 2016 00:02:00 -0500</pubDate>
+      <copyright>Copyright 2015 NPR - For Personal Use Only</copyright>
+      <guid>b19824f8-c7aa-46d2-a73b-d06d8d92a670</guid>
+      <itunes:author>NPR</itunes:author>
+      <itunes:summary><![CDATA[It's almost Valentine's Day, but this week we're not talking about love. Instead, we explore the other forces that drive our romantic relationships.]]></itunes:summary>
+      <itunes:subtitle><![CDATA[It's almost Valentine's Day, but this week we're not talking about love. Instead, we explore the other forces that drive our romantic relationships.]]></itunes:subtitle>
+      <itunes:image href="https://media.npr.org/assets/img/2016/02/08/77645587_thumbnail_wide-8c3ccd0cdc01d048e4d8479242ffd416ffc4c1a2.jpg?s=1400"/>
+      <itunes:duration>1410</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <enclosure url="https://play.podtrac.com/npr-510308/npr.mc.tritondigital.com/NPR_510308/media/anon.npr-mp3/npr/hiddenbrain/2016/02/20160208_hiddenbrain_datingandmating.mp3?orgId=1&amp;d=1410&amp;p=510308&amp;story=466043575&amp;t=podcast&amp;e=466043575&amp;ft=pod&amp;f=510308" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Encore of Episode 2: Near Victories</title>
+      <description><![CDATA[Shankar Vedantam explores "almosts" and "not quites" on this episode of the Hidden Brain podcast, with the help of Monica Wadhwa, Dan Pink, and country music singer Kacey Musgraves.]]></description>
+      <pubDate>Tue, 02 Feb 2016 00:00:00 -0500</pubDate>
+      <copyright>Copyright 2015 NPR - For Personal Use Only</copyright>
+      <guid>57ecf02d-782e-4513-9e3c-555de16bd9b1</guid>
+      <itunes:author>NPR</itunes:author>
+      <itunes:summary><![CDATA[Shankar Vedantam explores "almosts" and "not quites" on this episode of the Hidden Brain podcast, with the help of Monica Wadhwa, Dan Pink, and country music singer Kacey Musgraves.]]></itunes:summary>
+      <itunes:subtitle><![CDATA[Shankar Vedantam explores "almosts" and "not quites" on this episode of the Hidden Brain podcast, with the help of Monica Wadhwa, Dan Pink, and country music singer Kacey Musgraves.]]></itunes:subtitle>
+      <itunes:image href="https://media.npr.org/assets/img/2016/02/01/ap_90951483065_wide-fc5e4219eb80966a7debf4e223ffb22b829c644c.jpg?s=1400"/>
+      <itunes:duration>1534</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <enclosure url="https://play.podtrac.com/npr-510308/npr.mc.tritondigital.com/NPR_510308/media/anon.npr-mp3/npr/hiddenbrain/2016/02/20160201_hiddenbrain_encoreepisode2.mp3?orgId=1&amp;d=1534&amp;p=510308&amp;story=465181437&amp;t=podcast&amp;e=465181437&amp;ft=pod&amp;f=510308" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Episode 18: The Paradox of Forgiveness</title>
+      <description><![CDATA[After more than a decade of brutal civil war, perpetrators and victims attempted to find peace around bonfires across Sierra Leone. This week on Hidden Brain, a story about forgiving the unforgivable, and the cost of reconciliation.]]></description>
+      <pubDate>Tue, 26 Jan 2016 00:00:00 -0500</pubDate>
+      <copyright>Copyright 2015 NPR - For Personal Use Only</copyright>
+      <guid>bd7115d8-4b96-4afd-be50-b6fe0a831268</guid>
+      <itunes:author>NPR</itunes:author>
+      <itunes:summary><![CDATA[After more than a decade of brutal civil war, perpetrators and victims attempted to find peace around bonfires across Sierra Leone. This week on Hidden Brain, a story about forgiving the unforgivable, and the cost of reconciliation.]]></itunes:summary>
+      <itunes:subtitle><![CDATA[After more than a decade of brutal civil war, perpetrators and victims attempted to find peace around bonfires across Sierra Leone. This week on Hidden Brain, a story about forgiving the unforgivable, and the cost of reconciliation.]]></itunes:subtitle>
+      <itunes:image href="https://media.npr.org/assets/img/2016/01/25/walkhome1_wide-d67a7bebb6f33d4d33d40fc5dfae69d6da508097.jpg?s=1400"/>
+      <itunes:duration>1206</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <enclosure url="https://play.podtrac.com/npr-510308/npr.mc.tritondigital.com/NPR_510308/media/anon.npr-mp3/npr/hiddenbrain/2016/01/20160125_hiddenbrain_forgiveness.mp3?orgId=1&amp;d=1206&amp;p=510308&amp;story=464330379&amp;t=podcast&amp;e=464330379&amp;ft=pod&amp;f=510308" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Episode 17: Resolutions</title>
+      <description><![CDATA[Today is the perfect day to (re)start your resolution. Here's how.]]></description>
+      <pubDate>Tue, 19 Jan 2016 00:00:00 -0500</pubDate>
+      <copyright>Copyright 2015 NPR - For Personal Use Only</copyright>
+      <guid>5b55d32c-38d0-4b91-bd27-a576d72c7ea7</guid>
+      <itunes:author>NPR</itunes:author>
+      <itunes:summary><![CDATA[Today is the perfect day to (re)start your resolution. Here's how.]]></itunes:summary>
+      <itunes:subtitle><![CDATA[Today is the perfect day to (re)start your resolution. Here's how.]]></itunes:subtitle>
+      <itunes:image href="https://media.npr.org/assets/img/2016/01/15/5570923634_3c0ec0026e_o_wide-f024dc31b0602be5803a0a725b151effde7b24e4.jpg?s=1400"/>
+      <itunes:duration>1418</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <enclosure url="https://play.podtrac.com/npr-510308/npr.mc.tritondigital.com/NPR_510308/media/anon.npr-mp3/npr/hiddenbrain/2016/01/20160115_hiddenbrain_resolutions.mp3?orgId=1&amp;d=1418&amp;p=510308&amp;story=463230280&amp;t=podcast&amp;e=463230280&amp;ft=pod&amp;f=510308" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Episode 16: Misbehaving</title>
+      <description><![CDATA[From eating marshmallows to spending lottery winnings, Shankar Vedantam talks with behavioral economist Richard Thaler about his book <em>Misbehaving</em>.]]></description>
+      <pubDate>Tue, 12 Jan 2016 00:01:00 -0500</pubDate>
+      <copyright>Copyright 2015 NPR - For Personal Use Only</copyright>
+      <guid>63d6b2ce-eb61-4d71-8ca4-505cd5fc72f8</guid>
+      <itunes:author>NPR</itunes:author>
+      <itunes:summary><![CDATA[From eating marshmallows to spending lottery winnings, Shankar Vedantam talks with behavioral economist Richard Thaler about his book <em>Misbehaving</em>.]]></itunes:summary>
+      <itunes:subtitle><![CDATA[From eating marshmallows to spending lottery winnings, Shankar Vedantam talks with behavioral economist Richard Thaler about his book <em>Misbehaving</em>.]]></itunes:subtitle>
+      <itunes:image href="https://media.npr.org/assets/img/2016/01/11/20151031_066_wide-c5a32e2b6c27f7473a23a126b1c7c470818a1c05.jpg?s=1400"/>
+      <itunes:duration>1414</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <enclosure url="https://play.podtrac.com/npr-510308/npr.mc.tritondigital.com/NPR_510308/media/anon.npr-mp3/npr/hiddenbrain/2016/01/20160111_hiddenbrain_misbehaving.mp3?orgId=1&amp;d=1414&amp;p=510308&amp;story=462691504&amp;t=podcast&amp;e=462691504&amp;ft=pod&amp;f=510308" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Encore of Episode 3: Stereotype Threat</title>
+      <description><![CDATA[Annie Duke was often the only woman at the poker table, which influenced the way people saw her, and the way she saw <em>herself</em>. Feeling like an outsider can come at a cost, but also can be an advantage.]]></description>
+      <pubDate>Tue, 05 Jan 2016 00:01:15 -0500</pubDate>
+      <copyright>Copyright 2015 NPR - For Personal Use Only</copyright>
+      <guid>2940d683-0a93-4fc0-be47-ce4c878c0411</guid>
+      <itunes:author>NPR</itunes:author>
+      <itunes:summary><![CDATA[Annie Duke was often the only woman at the poker table, which influenced the way people saw her, and the way she saw <em>herself</em>. Feeling like an outsider can come at a cost, but also can be an advantage.]]></itunes:summary>
+      <itunes:subtitle><![CDATA[Annie Duke was often the only woman at the poker table, which influenced the way people saw her, and the way she saw <em>herself</em>. Feeling like an outsider can come at a cost, but also can be an advantage.]]></itunes:subtitle>
+      <itunes:image href="https://media.npr.org/assets/img/2015/12/30/annie-table_wide-dbad6605105badbd7ca6052eb7b0db69c517e7a6.jpg?s=1400"/>
+      <itunes:duration>1345</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <enclosure url="https://play.podtrac.com/npr-510308/npr.mc.tritondigital.com/NPR_510308/media/anon.npr-mp3/npr/hiddenbrain/2015/12/20151230_hiddenbrain_stereotypethreat.mp3?orgId=1&amp;d=1345&amp;p=510308&amp;story=461501506&amp;t=podcast&amp;e=461501506&amp;ft=pod&amp;f=510308" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Episode 15: Loss and Renewal</title>
+      <description><![CDATA[Maya Shankar was well on her way to an extraordinary career as a violinist when an injury closed that door. This week, we look at how she wound up at the top of another field: the social sciences.]]></description>
+      <pubDate>Tue, 29 Dec 2015 00:00:00 -0500</pubDate>
+      <copyright>Copyright 2015 NPR - For Personal Use Only</copyright>
+      <guid>4895759f-398e-4435-85d2-d060917d49a0</guid>
+      <itunes:author>NPR</itunes:author>
+      <itunes:summary><![CDATA[Maya Shankar was well on her way to an extraordinary career as a violinist when an injury closed that door. This week, we look at how she wound up at the top of another field: the social sciences.]]></itunes:summary>
+      <itunes:subtitle><![CDATA[Maya Shankar was well on her way to an extraordinary career as a violinist when an injury closed that door. This week, we look at how she wound up at the top of another field: the social sciences.]]></itunes:subtitle>
+      <itunes:image href="https://media.npr.org/assets/img/2015/12/23/npr_wide-8552f3d533d1cdc346b92de21f6a06cbaa227f05.jpg?s=1400"/>
+      <itunes:duration>1589</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <enclosure url="https://play.podtrac.com/npr-510308/npr.mc.tritondigital.com/NPR_510308/media/anon.npr-mp3/npr/hiddenbrain/2015/12/20151223_hiddenbrain_mshankar.mp3?orgId=1&amp;d=1589&amp;p=510308&amp;story=460837941&amp;t=podcast&amp;e=460837941&amp;ft=pod&amp;f=510308" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Episode 14: Christmas</title>
+      <description><![CDATA[This is the time of year for giving--whether that's a holiday gift for someone we love, or a charitable donation to a good cause. But why do we give? And how can we do it better? This week on Hidden Brain: how to be more generous, get your friends and family what they <em>actually</em> want, and why it's okay to regift.]]></description>
+      <pubDate>Tue, 22 Dec 2015 00:00:00 -0500</pubDate>
+      <copyright>Copyright 2015 NPR - For Personal Use Only</copyright>
+      <guid>88dc9c69-663a-45fc-ab64-cf016d6cb845</guid>
+      <itunes:author>NPR</itunes:author>
+      <itunes:summary><![CDATA[This is the time of year for giving--whether that's a holiday gift for someone we love, or a charitable donation to a good cause. But why do we give? And how can we do it better? This week on Hidden Brain: how to be more generous, get your friends and family what they <em>actually</em> want, and why it's okay to regift.]]></itunes:summary>
+      <itunes:subtitle><![CDATA[This is the time of year for giving--whether that's a holiday gift for someone we love, or a charitable donation to a good cause. But why do we give? And how can we do it better? This week on Hidden Brain: how to be more generous, get your friends and family what they <em>actually</em> want, and why it's okay to regift.]]></itunes:subtitle>
+      <itunes:image href="https://media.npr.org/assets/img/2015/12/22/istock_000049861110_medium_wide-30ef097b40f1ea27abc4bb0649e07e7539c4726f.jpg?s=1400"/>
+      <itunes:duration>1360</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <enclosure url="https://play.podtrac.com/npr-510308/npr.mc.tritondigital.com/NPR_510308/media/anon.npr-mp3/npr/hiddenbrain/2015/12/20151218_hiddenbrain_christmas.mp3?orgId=1&amp;d=1360&amp;p=510308&amp;story=460326892&amp;t=podcast&amp;e=460326892&amp;ft=pod&amp;f=510308" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Episode 13: Terrorism</title>
+      <description><![CDATA[Why do young people join ISIS? Is it nihilism, or, as social scientists suggest, a perverse idealism? This week on Hidden Brain, we explore the psychology of terrorist groups, and why so many young people leave behind promising futures to join them.]]></description>
+      <pubDate>Tue, 15 Dec 2015 00:04:00 -0500</pubDate>
+      <copyright>Copyright 2015 NPR - For Personal Use Only</copyright>
+      <guid>f2a04d3f-dc0b-4093-a815-e0a95b8fb3b5</guid>
+      <itunes:author>NPR</itunes:author>
+      <itunes:summary><![CDATA[Why do young people join ISIS? Is it nihilism, or, as social scientists suggest, a perverse idealism? This week on Hidden Brain, we explore the psychology of terrorist groups, and why so many young people leave behind promising futures to join them.]]></itunes:summary>
+      <itunes:subtitle><![CDATA[Why do young people join ISIS? Is it nihilism, or, as social scientists suggest, a perverse idealism? This week on Hidden Brain, we explore the psychology of terrorist groups, and why so many young people leave behind promising futures to join them.]]></itunes:subtitle>
+      <itunes:image href="https://media.npr.org/assets/img/2015/12/14/ap_8829006930691_wide-33ce44dab2e5c84abac338d69d3cedd0ceb4c8a2.jpg?s=1400"/>
+      <itunes:duration>1625</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <enclosure url="https://play.podtrac.com/npr-510308/npr.mc.tritondigital.com/NPR_510308/media/anon.npr-mp3/npr/hiddenbrain/2015/12/20151214_hiddenbrain_terrorism.mp3?orgId=1&amp;d=1625&amp;p=510308&amp;story=459730387&amp;t=podcast&amp;e=459730387&amp;ft=pod&amp;f=510308" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Episode 12: Humor</title>
+      <description><![CDATA[This week on Hidden Brain, Shankar Vedantam looks at what we find funny and what, well, crosses the line. Comedian Bill Burr joins us to talk about why race, gender and Caitlin Jenner can be so funny.]]></description>
+      <pubDate>Tue, 08 Dec 2015 00:04:00 -0500</pubDate>
+      <copyright>Copyright 2015 NPR - For Personal Use Only</copyright>
+      <guid>736fb3b9-f301-465f-acd7-f3570ca1cf83</guid>
+      <itunes:author>NPR</itunes:author>
+      <itunes:summary><![CDATA[This week on Hidden Brain, Shankar Vedantam looks at what we find funny and what, well, crosses the line. Comedian Bill Burr joins us to talk about why race, gender and Caitlin Jenner can be so funny.]]></itunes:summary>
+      <itunes:subtitle><![CDATA[This week on Hidden Brain, Shankar Vedantam looks at what we find funny and what, well, crosses the line. Comedian Bill Burr joins us to talk about why race, gender and Caitlin Jenner can be so funny.]]></itunes:subtitle>
+      <itunes:image href="https://media.npr.org/assets/img/2015/12/07/bill-burr-color-1---photo-credit-koury-angelo-2-_wide-b2df657fc3c0725adb710d923bd8990e6c76c8c4.jpg?s=1400"/>
+      <itunes:duration>1239</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <enclosure url="https://play.podtrac.com/npr-510308/npr.mc.tritondigital.com/NPR_510308/media/anon.npr-mp3/npr/hiddenbrain/2015/12/20151207_hiddenbrain_humor.mp3?orgId=1&amp;d=1239&amp;p=510308&amp;story=458810606&amp;t=podcast&amp;e=458810606&amp;ft=pod&amp;f=510308" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Episode 11: Forgery</title>
+      <description><![CDATA[This week on Hidden Brain, we explore real and fake, from fine art to fine wine. Shankar speaks with Noah Charney, author of <em>The Art of Forgery, </em>about why art forgers are compelled to spend their lives copying the great masters, and why so many of them want to get caught. Also this week: why we love studies that prove wine connoisseurs wrong.]]></description>
+      <pubDate>Tue, 01 Dec 2015 00:04:00 -0500</pubDate>
+      <copyright>Copyright 2015 NPR - For Personal Use Only</copyright>
+      <guid>48d44891-1c05-416e-b00b-26ce51940afc</guid>
+      <itunes:author>NPR</itunes:author>
+      <itunes:summary><![CDATA[This week on Hidden Brain, we explore real and fake, from fine art to fine wine. Shankar speaks with Noah Charney, author of <em>The Art of Forgery, </em>about why art forgers are compelled to spend their lives copying the great masters, and why so many of them want to get caught. Also this week: why we love studies that prove wine connoisseurs wrong.]]></itunes:summary>
+      <itunes:subtitle><![CDATA[This week on Hidden Brain, we explore real and fake, from fine art to fine wine. Shankar speaks with Noah Charney, author of <em>The Art of Forgery, </em>about why art forgers are compelled to spend their lives copying the great masters, and why so many of them want to get caught. Also this week: why we love studies that prove wine connoisseurs wrong.]]></itunes:subtitle>
+      <itunes:image href="https://media.npr.org/assets/img/2015/11/30/the-art-of-forgery-flat-cover_wide-6bc35db927590ea0124d9bdc0272b071c195a32f.jpg?s=1400"/>
+      <itunes:duration>1461</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <enclosure url="https://play.podtrac.com/npr-510308/npr.mc.tritondigital.com/NPR_510308/media/anon.npr-mp3/npr/specials/2015/11/20151130_specials_hbforgery02.mp3?orgId=1&amp;d=1461&amp;p=510308&amp;story=457866763&amp;t=podcast&amp;e=457866763&amp;ft=pod&amp;f=510308" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Episode 10: Thanksgiving</title>
+      <description><![CDATA[The holidays are all about generousity, gratitude, and spending time with the people we love. But we all know the whole "spending time with the people we love" part has its challenges. Hidden Brain is here to help — with science-based tips to give you a happier holiday.]]></description>
+      <pubDate>Tue, 24 Nov 2015 00:04:00 -0500</pubDate>
+      <copyright>Copyright 2015 NPR - For Personal Use Only</copyright>
+      <guid>397f7643-d343-4920-86ed-497f1455a61f</guid>
+      <itunes:author>NPR</itunes:author>
+      <itunes:summary><![CDATA[The holidays are all about generousity, gratitude, and spending time with the people we love. But we all know the whole "spending time with the people we love" part has its challenges. Hidden Brain is here to help — with science-based tips to give you a happier holiday.]]></itunes:summary>
+      <itunes:subtitle><![CDATA[The holidays are all about generousity, gratitude, and spending time with the people we love. But we all know the whole "spending time with the people we love" part has its challenges. Hidden Brain is here to help — with science-based tips to give you a happier holiday.]]></itunes:subtitle>
+      <itunes:image href="https://media.npr.org/assets/img/2015/11/23/istock_000073435373_medium_wide-e34b183509c9edebc08a7ef0ba21500a44cfb27f.jpg?s=1400"/>
+      <itunes:duration>1182</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <enclosure url="https://play.podtrac.com/npr-510308/npr.mc.tritondigital.com/NPR_510308/media/anon.npr-mp3/npr/blog/2015/11/20151123_blog_hbthanksgiving.mp3?orgId=1&amp;d=1182&amp;p=510308&amp;story=457128009&amp;t=podcast&amp;e=457128009&amp;ft=pod&amp;f=510308" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Episode 9: Aziz Ansari on Modern Love</title>
+      <description><![CDATA[Hidden Brain host Shankar Vedantam talks to comedian Aziz Ansari — star of a new Netflix show and coauthor of <em>Modern Romance</em> — about Tinder, texting and how dating is a bit like... buying jam.]]></description>
+      <pubDate>Tue, 17 Nov 2015 00:03:00 -0500</pubDate>
+      <copyright>Copyright 2015 NPR - For Personal Use Only</copyright>
+      <guid>4c80f7ab-d7a6-4ee4-b206-1d16754fda44</guid>
+      <itunes:author>NPR</itunes:author>
+      <itunes:summary><![CDATA[Hidden Brain host Shankar Vedantam talks to comedian Aziz Ansari — star of a new Netflix show and coauthor of <em>Modern Romance</em> — about Tinder, texting and how dating is a bit like... buying jam.]]></itunes:summary>
+      <itunes:subtitle><![CDATA[Hidden Brain host Shankar Vedantam talks to comedian Aziz Ansari — star of a new Netflix show and coauthor of <em>Modern Romance</em> — about Tinder, texting and how dating is a bit like... buying jam.]]></itunes:subtitle>
+      <itunes:duration>1632</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <enclosure url="https://play.podtrac.com/npr-510308/npr.mc.tritondigital.com/NPR_510308/media/anon.npr-mp3/npr/specials/2015/11/20151116_specials_hbaziz.mp3?orgId=1&amp;d=1632&amp;p=510308&amp;story=456265352&amp;t=podcast&amp;e=456265352&amp;ft=pod&amp;f=510308" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Episode 8: Back Up Plans</title>
+      <description><![CDATA[This week on Hidden Brain, researcher Katy Milkman explains why backup plans may make us less motivated, Dan Pink is back to discuss moral hazard, and NPR's Adam Cole ties it all together with a song.]]></description>
+      <pubDate>Tue, 10 Nov 2015 00:03:00 -0500</pubDate>
+      <copyright>Copyright 2015 NPR - For Personal Use Only</copyright>
+      <guid>fa64597e-7907-434c-90d0-46c8d9727dea</guid>
+      <itunes:author>NPR</itunes:author>
+      <itunes:summary><![CDATA[This week on Hidden Brain, researcher Katy Milkman explains why backup plans may make us less motivated, Dan Pink is back to discuss moral hazard, and NPR's Adam Cole ties it all together with a song.]]></itunes:summary>
+      <itunes:subtitle><![CDATA[This week on Hidden Brain, researcher Katy Milkman explains why backup plans may make us less motivated, Dan Pink is back to discuss moral hazard, and NPR's Adam Cole ties it all together with a song.]]></itunes:subtitle>
+      <itunes:image href="https://media.npr.org/assets/img/2015/11/09/npr_backup_finalart_wide-4c58efb8f392289bd752202ef529e0cb7f880704.jpg?s=1400"/>
+      <itunes:duration>1535</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <enclosure url="https://play.podtrac.com/npr-510308/npr.mc.tritondigital.com/NPR_510308/media/anon.npr-mp3/npr/specials/2015/11/20151109_specials_hbbackup.mp3?orgId=1&amp;d=1535&amp;p=510308&amp;story=455373319&amp;t=podcast&amp;e=455373319&amp;ft=pod&amp;f=510308" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Episode 7: Lonely Hearts</title>
+      <description><![CDATA[Jesse always wanted to fall in love. So when the perfect woman started writing him letters, it seemed too good to be true. Because it was. This week, a story about a con — with a twist. When the con was exposed, its victims defended the con artists. They still wanted to believe the lie.]]></description>
+      <pubDate>Tue, 03 Nov 2015 00:03:00 -0500</pubDate>
+      <copyright>Copyright 2015 NPR - For Personal Use Only</copyright>
+      <guid>e42cf9bf-594d-4b48-bbc6-bbb4bd8677c1</guid>
+      <itunes:author>NPR</itunes:author>
+      <itunes:summary><![CDATA[Jesse always wanted to fall in love. So when the perfect woman started writing him letters, it seemed too good to be true. Because it was. This week, a story about a con — with a twist. When the con was exposed, its victims defended the con artists. They still wanted to believe the lie.]]></itunes:summary>
+      <itunes:subtitle><![CDATA[Jesse always wanted to fall in love. So when the perfect woman started writing him letters, it seemed too good to be true. Because it was. This week, a story about a con — with a twist. When the con was exposed, its victims defended the con artists. They still wanted to believe the lie.]]></itunes:subtitle>
+      <itunes:duration>1987</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <enclosure url="https://play.podtrac.com/npr-510308/npr.mc.tritondigital.com/NPR_510308/media/anon.npr-mp3/npr/specials/2015/11/20151102_specials_hb7lonelyhearts.mp3?orgId=1&amp;d=1987&amp;p=510308&amp;story=454052774&amp;t=podcast&amp;e=454052774&amp;ft=pod&amp;f=510308" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Episode 6: The Science of Fear</title>
+      <description><![CDATA[This week, for Halloween, the Hidden Brain podcast gets spooky. We explore the science of fear — traveling to a haunted house curated by a scientist to investigate what scares us, and why some people enjoy this sensation more than others.]]></description>
+      <pubDate>Tue, 27 Oct 2015 00:03:00 -0400</pubDate>
+      <copyright>Copyright 2015 NPR - For Personal Use Only</copyright>
+      <guid>6e3a4db6-f9a5-484d-8431-4545ae802925</guid>
+      <itunes:author>NPR</itunes:author>
+      <itunes:summary><![CDATA[This week, for Halloween, the Hidden Brain podcast gets spooky. We explore the science of fear — traveling to a haunted house curated by a scientist to investigate what scares us, and why some people enjoy this sensation more than others.]]></itunes:summary>
+      <itunes:subtitle><![CDATA[This week, for Halloween, the Hidden Brain podcast gets spooky. We explore the science of fear — traveling to a haunted house curated by a scientist to investigate what scares us, and why some people enjoy this sensation more than others.]]></itunes:subtitle>
+      <itunes:image href="https://media.npr.org/assets/img/2015/10/26/theateratscarehouse_wide-b6c64b8791bcc7f78399f22627b9d9ab51315cfb.jpg?s=1400"/>
+      <itunes:duration>1295</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <enclosure url="https://play.podtrac.com/npr-510308/npr.mc.tritondigital.com/NPR_510308/media/anon.npr-mp3/npr/specials/2015/10/20151026_specials_hbhalloween.mp3?orgId=1&amp;d=1295&amp;p=510308&amp;story=451957838&amp;t=podcast&amp;e=451957838&amp;ft=pod&amp;f=510308" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Episode 5: Compassion</title>
+      <description><![CDATA[On this week's episode of <em>Hidden Brain</em>, we'll explore the science of compassion, and how being kind to others can make a real difference in your own life.]]></description>
+      <pubDate>Tue, 20 Oct 2015 00:03:00 -0400</pubDate>
+      <copyright>Copyright 2015 NPR - For Personal Use Only</copyright>
+      <guid>049ad8ce-44d9-449e-92c3-80e4eaa017c3</guid>
+      <itunes:author>NPR</itunes:author>
+      <itunes:summary><![CDATA[On this week's episode of <em>Hidden Brain</em>, we'll explore the science of compassion, and how being kind to others can make a real difference in your own life.]]></itunes:summary>
+      <itunes:subtitle><![CDATA[On this week's episode of <em>Hidden Brain</em>, we'll explore the science of compassion, and how being kind to others can make a real difference in your own life.]]></itunes:subtitle>
+      <itunes:image href="https://media.npr.org/assets/img/2015/10/15/hidden-brain-compassion_wide-0f2ef62df32186d5400c1861527ac67f11a58beb.jpeg?s=1400"/>
+      <itunes:duration>1205</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <enclosure url="https://play.podtrac.com/npr-510308/npr.mc.tritondigital.com/NPR_510308/media/anon.npr-mp3/npr/specials/2015/10/20151015_specials_hbcompassion.mp3?orgId=1&amp;d=1205&amp;p=510308&amp;story=448960979&amp;t=podcast&amp;e=448960979&amp;ft=pod&amp;f=510308" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Episode 4: Students and Teachers </title>
+      <description><![CDATA[In this episode of the Hidden Brain podcast, the connections between students and teachers, and how finding things in common between them might be a tool for closing the achievement gap.]]></description>
+      <pubDate>Tue, 13 Oct 2015 00:03:00 -0400</pubDate>
+      <copyright>Copyright 2015 NPR - For Personal Use Only</copyright>
+      <guid>85634938-f4cc-4cf3-85cc-6159b5074ff8</guid>
+      <itunes:author>NPR</itunes:author>
+      <itunes:summary><![CDATA[In this episode of the Hidden Brain podcast, the connections between students and teachers, and how finding things in common between them might be a tool for closing the achievement gap.]]></itunes:summary>
+      <itunes:subtitle><![CDATA[In this episode of the Hidden Brain podcast, the connections between students and teachers, and how finding things in common between them might be a tool for closing the achievement gap.]]></itunes:subtitle>
+      <itunes:image href="https://media.npr.org/assets/img/2015/10/09/students_wide-ab2c43ca770aa895832377bfa9a84b73c550a972.jpg?s=1400"/>
+      <itunes:duration>1214</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <enclosure url="https://play.podtrac.com/npr-510308/npr.mc.tritondigital.com/NPR_510308/media/anon.npr-mp3/npr/specials/2015/10/20151009_specials_hbstudentsteachers.mp3?orgId=1&amp;d=1214&amp;p=510308&amp;story=447215129&amp;t=podcast&amp;e=447215129&amp;ft=pod&amp;f=510308" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Episode 3: Stereotype Threat</title>
+      <description><![CDATA[Annie Duke was often the only woman at the poker table, which influenced the way people saw her, and the way she saw <em>herself</em>. Feeling like an outsider can come at a cost, but also can be an advantage.]]></description>
+      <pubDate>Tue, 06 Oct 2015 00:08:00 -0400</pubDate>
+      <copyright>Copyright 2015 NPR - For Personal Use Only</copyright>
+      <guid>00fd9117-b5bb-4332-8192-1dbcaa347b1d</guid>
+      <itunes:author>NPR</itunes:author>
+      <itunes:summary><![CDATA[Annie Duke was often the only woman at the poker table, which influenced the way people saw her, and the way she saw <em>herself</em>. Feeling like an outsider can come at a cost, but also can be an advantage.]]></itunes:summary>
+      <itunes:subtitle><![CDATA[Annie Duke was often the only woman at the poker table, which influenced the way people saw her, and the way she saw <em>herself</em>. Feeling like an outsider can come at a cost, but also can be an advantage.]]></itunes:subtitle>
+      <itunes:image href="https://media.npr.org/assets/img/2015/10/02/annie-table_wide-c8e9087d6cdcbfa96433aef6c9ee1e8ba855b55e.jpg?s=1400"/>
+      <itunes:duration>1379</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <enclosure url="https://play.podtrac.com/npr-510308/npr.mc.tritondigital.com/NPR_510308/media/anon.npr-mp3/npr/specials/2015/10/20151002_specials_stereotypethreat.mp3?orgId=1&amp;d=1379&amp;p=510308&amp;story=443449219&amp;t=podcast&amp;e=443449219&amp;ft=pod&amp;f=510308" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Brain Bonus: Magic Brain</title>
+      <description><![CDATA[In time for your Friday commute, we introduce you to a new segment called Magic Brain. Shankar explores the social science behind magic, and discovers that free choice is sometimes just an illusion.]]></description>
+      <pubDate>Fri, 02 Oct 2015 12:03:00 -0400</pubDate>
+      <copyright>Copyright 2015 NPR - For Personal Use Only</copyright>
+      <guid>a1f6d4c2-c100-4e0c-864a-c73da9e9a79c</guid>
+      <itunes:author>NPR</itunes:author>
+      <itunes:summary><![CDATA[In time for your Friday commute, we introduce you to a new segment called Magic Brain. Shankar explores the social science behind magic, and discovers that free choice is sometimes just an illusion.]]></itunes:summary>
+      <itunes:subtitle><![CDATA[In time for your Friday commute, we introduce you to a new segment called Magic Brain. Shankar explores the social science behind magic, and discovers that free choice is sometimes just an illusion.]]></itunes:subtitle>
+      <itunes:duration>286</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <enclosure url="https://play.podtrac.com/npr-510308/npr.mc.tritondigital.com/NPR_510308/media/anon.npr-mp3/npr/specials/2015/09/20150930_specials_hbbonus.mp3?orgId=1&amp;d=286&amp;p=510308&amp;story=444802065&amp;t=podcast&amp;e=444802065&amp;ft=pod&amp;f=510308" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Episode 2: Near Victories</title>
+      <description><![CDATA[Shankar Vedantam explores "almosts" and "not quites" on this episode of the Hidden Brain podcast, with the help of Monica Wadhwa, Dan Pink, and country music singer Kacey Musgraves.]]></description>
+      <pubDate>Tue, 29 Sep 2015 00:08:00 -0400</pubDate>
+      <copyright>Copyright 2015 NPR - For Personal Use Only</copyright>
+      <guid>4e7ecc82-3066-4d69-99bf-9aec7b9b76d1</guid>
+      <itunes:author>NPR</itunes:author>
+      <itunes:summary><![CDATA[Shankar Vedantam explores "almosts" and "not quites" on this episode of the Hidden Brain podcast, with the help of Monica Wadhwa, Dan Pink, and country music singer Kacey Musgraves.]]></itunes:summary>
+      <itunes:subtitle><![CDATA[Shankar Vedantam explores "almosts" and "not quites" on this episode of the Hidden Brain podcast, with the help of Monica Wadhwa, Dan Pink, and country music singer Kacey Musgraves.]]></itunes:subtitle>
+      <itunes:duration>1457</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <enclosure url="https://play.podtrac.com/npr-510308/npr.mc.tritondigital.com/NPR_510308/media/anon.npr-mp3/npr/specials/2015/09/20150925_specials_nearvictories.mp3?orgId=1&amp;d=1457&amp;p=510308&amp;story=443468344&amp;t=podcast&amp;e=443468344&amp;ft=pod&amp;f=510308" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Episode 1: Switchtracking</title>
+      <description><![CDATA[The first episode of <em>Hidden Brain</em> explores switchtracking: a common pattern in conversations you'll be accusing your partner of in no time! Plus speedy science, a cup of tea and a song from Adam Cole.]]></description>
+      <pubDate>Tue, 22 Sep 2015 00:08:00 -0400</pubDate>
+      <copyright>Copyright 2015 NPR - For Personal Use Only</copyright>
+      <guid>2db32962-0a25-46f7-b4d3-edfd116836a4</guid>
+      <itunes:author>NPR</itunes:author>
+      <itunes:summary><![CDATA[The first episode of <em>Hidden Brain</em> explores switchtracking: a common pattern in conversations you'll be accusing your partner of in no time! Plus speedy science, a cup of tea and a song from Adam Cole.]]></itunes:summary>
+      <itunes:subtitle><![CDATA[The first episode of <em>Hidden Brain</em> explores switchtracking: a common pattern in conversations you'll be accusing your partner of in no time! Plus speedy science, a cup of tea and a song from Adam Cole.]]></itunes:subtitle>
+      <itunes:image href="https://media.npr.org/assets/img/2015/09/21/npr_hiddenbrain_finalart3_72dpi_wide-988595db0b7b5eadbcb11ea1fc444132c5095f45.jpg?s=1400"/>
+      <itunes:duration>1845</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <enclosure url="https://play.podtrac.com/npr-510308/npr.mc.tritondigital.com/NPR_510308/media/anon.npr-mp3/npr/specials/2015/09/20150921_specials_switchtracking.mp3?orgId=1&amp;d=1845&amp;p=510308&amp;story=442278355&amp;t=podcast&amp;e=442278355&amp;ft=pod&amp;f=510308" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Hidden Brain: A Sneak Peek</title>
+      <description><![CDATA[Check out a few minutes of the latest podcast from NPR: Hidden Brain. Shankar Vedantam explores what happens when two people think they are talking about the same thing, but in reality are speeding down separate tracks. It usually doesn't end well.]]></description>
+      <pubDate>Fri, 04 Sep 2015 00:08:51 -0400</pubDate>
+      <copyright>Copyright 2015 NPR - For Personal Use Only</copyright>
+      <guid>43019bde-65c3-4163-bc64-738e58421498</guid>
+      <itunes:author>NPR</itunes:author>
+      <itunes:summary><![CDATA[Check out a few minutes of the latest podcast from NPR: Hidden Brain. Shankar Vedantam explores what happens when two people think they are talking about the same thing, but in reality are speeding down separate tracks. It usually doesn't end well.]]></itunes:summary>
+      <itunes:subtitle><![CDATA[Check out a few minutes of the latest podcast from NPR: Hidden Brain. Shankar Vedantam explores what happens when two people think they are talking about the same thing, but in reality are speeding down separate tracks. It usually doesn't end well.]]></itunes:subtitle>
+      <itunes:image href="https://media.npr.org/assets/img/2015/09/03/hiddenbrain_deepbluereverse3_wide-9b9d5766a120e292dd67bb7a3c87697bf22e3911.jpg?s=1400"/>
+      <itunes:duration>333</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <enclosure url="https://play.podtrac.com/npr-510308/npr.mc.tritondigital.com/NPR_510308/media/anon.npr-mp3/npr/specials/2015/09/20150903_specials_hbpreview.mp3?orgId=1&amp;d=333&amp;p=510308&amp;story=437290806&amp;t=podcast&amp;e=437290806&amp;ft=pod&amp;f=510308" length="0" type="audio/mpeg"/>
+    </item>
+    <item>
+      <title>Welcome to the Hidden Brain Podcast</title>
+      <description><![CDATA[A conversation about life's unseen patterns. Discover what's inside your Hidden Brain... subscribe now.]]></description>
+      <pubDate>Sun, 09 Aug 2015 09:53:00 -0400</pubDate>
+      <copyright>Copyright 2015 NPR - For Personal Use Only</copyright>
+      <guid>b2ff8946-6bee-43a6-a87c-6924d6ca4d79</guid>
+      <itunes:author>NPR</itunes:author>
+      <itunes:summary><![CDATA[A conversation about life's unseen patterns. Discover what's inside your Hidden Brain... subscribe now.]]></itunes:summary>
+      <itunes:subtitle><![CDATA[A conversation about life's unseen patterns. Discover what's inside your Hidden Brain... subscribe now.]]></itunes:subtitle>
+      <itunes:image href="https://media.npr.org/assets/img/2015/09/03/hiddenbrain_deepbluereverse3_wide-9b9d5766a120e292dd67bb7a3c87697bf22e3911.jpg?s=1400"/>
+      <itunes:duration>83</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <enclosure url="https://play.podtrac.com/npr-510308/npr.mc.tritondigital.com/NPR_510308/media/anon.npr-mp3/npr/specials/2015/09/20150903_specials_hbteaser.mp3?orgId=1&amp;d=83&amp;p=510308&amp;story=430418815&amp;t=podcast&amp;e=430418815&amp;ft=pod&amp;f=510308" length="0" type="audio/mpeg"/>
+    </item>
+  </channel>
+</rss>
