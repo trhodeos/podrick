@@ -1,9 +1,8 @@
 import 'package:flutter/material.dart';
-import 'package:flutter/services.dart';
 
+import 'package:flup/flup_home.dart';
+import 'package:flup/flup_settings.dart';
 import 'package:flup/flup_types.dart';
-import 'package:flup/podcast_feed_reader.dart';
-import 'package:xml/xml.dart' as xml;
 
 class FlupApp extends StatefulWidget {
   @override
@@ -78,100 +77,10 @@ class _FlupAppState extends State<FlupApp> {
       showPerformanceOverlay: _configuration.showPerformanceOverlay,
       showSemanticsDebugger: _configuration.showSemanticsDebugger,
       routes: <String, WidgetBuilder>{
-        '/': (BuildContext context) => new MyHomePage(title: 'Podcasts')
+        '/': (BuildContext context) => new FlupHomePage(title: 'Podcasts'),
+        '/settings': (BuildContext context) => new FlupSettingsPage()
       },
       onGenerateRoute: _getRoute,
-    );
-  }
-}
-
-class MyHomePage extends StatefulWidget {
-  MyHomePage({Key key, this.title}) : super(key: key);
-
-  final String title;
-
-  @override
-  _MyHomePageState createState() => new _MyHomePageState();
-}
-
-class _MyHomePageState extends State<MyHomePage> {
-  @override
-  Widget build(BuildContext context) {
-    return new Scaffold(
-      appBar: new AppBar(
-        title: new Text(widget.title),
-      ),
-      body: new PodcastGrid(),
-    );
-  }
-}
-
-class PodcastChannelButton extends StatefulWidget {
-  final rssUrl;
-
-  PodcastChannelButton(this.rssUrl);
-
-  @override
-  _PodcastChannelButtonState createState() =>
-      new _PodcastChannelButtonState(this.rssUrl);
-}
-
-class _PodcastChannelButtonState extends State<PodcastChannelButton> {
-  final rssUrl;
-  PodcastChannel _channel;
-
-  _PodcastChannelButtonState(this.rssUrl) {
-    _downloadChannel();
-  }
-
-  _downloadChannel() async {
-    var httpClient = createHttpClient();
-    var response = await httpClient.read(rssUrl);
-    var channel = createPodcastChannel(xml.parse(response));
-    setState(() {
-      _channel = channel;
-    });
-  }
-
-  @override
-  Widget build(BuildContext context) {
-    if (_channel == null) {
-      return new Row(children: <Widget>[new Text("Loading...")]);
-    }
-    return new Container(
-        height: 80.0,
-        margin: const EdgeInsets.only(bottom: 10.0),
-        child: new Row(children: <Widget>[
-          new Image.network(_channel.image, fit: BoxFit.contain),
-          new Text(_channel.title),
-          new IconButton(
-              icon: new Icon(Icons.arrow_forward),
-              onPressed: () {
-                Navigator.pushNamed(context, '/channel:${_channel.title}');
-              })
-        ]));
-  }
-}
-
-class PodcastGrid extends StatefulWidget {
-  @override
-  _PodcastGridState createState() => new _PodcastGridState();
-}
-
-class _PodcastGridState extends State<PodcastGrid> {
-  @override
-  Widget build(BuildContext context) {
-    return new ListView(
-      shrinkWrap: true,
-      padding: const EdgeInsets.all(10.0),
-      children: <Widget>[
-        new PodcastChannelButton(
-            "https://www.npr.org/rss/podcast.php?id=510308" /* hidden brain */),
-        new PodcastChannelButton(
-            "https://www.npr.org/rss/podcast.php?id=510289" /* planet money */),
-        new PodcastChannelButton(
-            "https://www.npr.org/rss/podcast.php?id=510307" /* invisibilia */)
-      ],
     );
   }
 }
