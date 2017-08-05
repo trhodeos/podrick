@@ -69,18 +69,18 @@ class _PodcastChannelButtonState extends State<PodcastChannelButton> {
     }
     return new Container(
         height: 80.0,
-        child:
-            new InkWell(
-              child: new Container(
-                height: 56.0,
-                  child: new Row(
-                      children: [
-                new Image.network(_channel.image, fit:BoxFit.contain),
-                new Container(margin: const EdgeInsets.only(left: 16.0), child: new Text(_channel.title)),
+        child: new InkWell(
+          child: new Container(
+              height: 56.0,
+              child: new Row(children: [
+                new Image.network(_channel.image, fit: BoxFit.contain),
+                new Container(
+                    margin: const EdgeInsets.only(left: 16.0),
+                    child: new Text(_channel.title)),
               ])),
-              onTap: () => Navigator.pushNamed(context, '/channel:${_channel.title}'),
-            )
-        );
+          onTap: () =>
+              Navigator.pushNamed(context, '/channel:${_channel.title}'),
+        ));
   }
 }
 
