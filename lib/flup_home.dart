@@ -69,16 +69,18 @@ class _PodcastChannelButtonState extends State<PodcastChannelButton> {
     }
     return new Container(
         height: 80.0,
-        margin: const EdgeInsets.only(bottom: 10.0),
-        child: new Row(children: <Widget>[
-          new Image.network(_channel.image, fit: BoxFit.contain),
-          new Text(_channel.title),
-          new IconButton(
-              icon: new Icon(Icons.arrow_forward),
-              onPressed: () {
-                Navigator.pushNamed(context, '/channel:${_channel.title}');
-              })
-        ]));
+        child:
+            new InkWell(
+              child: new Container(
+                height: 56.0,
+                  child: new Row(
+                      children: [
+                new Image.network(_channel.image, fit:BoxFit.contain),
+                new Container(margin: const EdgeInsets.only(left: 16.0), child: new Text(_channel.title)),
+              ])),
+              onTap: () => Navigator.pushNamed(context, '/channel:${_channel.title}'),
+            )
+        );
   }
 }
 
@@ -92,7 +94,6 @@ class _PodcastGridState extends State<PodcastGrid> {
   Widget build(BuildContext context) {
     return new ListView(
       shrinkWrap: true,
-      padding: const EdgeInsets.all(10.0),
       children: <Widget>[
         new PodcastChannelButton(
             "https://www.npr.org/rss/podcast.php?id=510308" /* hidden brain */),
