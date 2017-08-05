@@ -1,8 +1,8 @@
-import 'package:flutter/material.dart';
-import 'package:flutter/services.dart';
+import 'dart:async';
 
-import 'package:flup/podcast_feed_reader.dart';
-import 'package:xml/xml.dart' as xml;
+import 'package:flutter/material.dart';
+import 'channel_directory.dart';
+import 'podcast_feed_reader.dart';
 
 class FlupHomePage extends StatefulWidget {
   FlupHomePage({Key key, this.title}) : super(key: key);
@@ -53,13 +53,9 @@ class _PodcastChannelButtonState extends State<PodcastChannelButton> {
     _downloadChannel();
   }
 
-  _downloadChannel() async {
-    var httpClient = createHttpClient();
-    var response = await httpClient.read(rssUrl);
-    var channel = createPodcastChannel(xml.parse(response));
-    setState(() {
-      _channel = channel;
-    });
+  Future _downloadChannel() async {
+    var c = await getChannel(rssUrl);
+    setState(() => _channel = c);
   }
 
   @override
@@ -73,13 +69,13 @@ class _PodcastChannelButtonState extends State<PodcastChannelButton> {
           child: new Container(
               height: 56.0,
               child: new Row(children: [
-                new Image.network(_channel.image, fit: BoxFit.contain),
+                new Hero(tag: _channel.image, child: new Image.network(_channel.image, fit: BoxFit.contain)),
                 new Container(
                     margin: const EdgeInsets.only(left: 16.0),
                     child: new Text(_channel.title)),
               ])),
           onTap: () =>
-              Navigator.pushNamed(context, '/channel:${_channel.title}'),
+              Navigator.pushNamed(context, '/channel:${Uri.encodeQueryComponent(_channel.rssUrl)}'),
         ));
   }
 }

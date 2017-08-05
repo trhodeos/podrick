@@ -1,8 +1,12 @@
+import 'dart:async';
+
 import 'package:flutter/material.dart';
 
-import 'package:flup/flup_home.dart';
-import 'package:flup/flup_settings.dart';
-import 'package:flup/flup_types.dart';
+import 'flup_home.dart';
+import 'flup_settings.dart';
+import 'flup_types.dart';
+import 'channel_page.dart';
+import 'channel_directory.dart';
 
 class FlupApp extends StatefulWidget {
   @override
@@ -53,16 +57,11 @@ class _FlupAppState extends State<FlupApp> {
         return null;
       }
 
-      final String channel = path[1].substring(8);
+      final String channelName = Uri.decodeQueryComponent(path[1].substring(8));
+      var channel = getChannelSync(channelName);
       return new MaterialPageRoute<Null>(
           settings: settings,
-          builder: (BuildContext context) {
-            return new Scaffold(
-                appBar: new AppBar(
-                  title: new Text(channel),
-                ),
-                body: new Text(channel));
-          });
+          builder: (BuildContext context) => new ChannelPage(channel));
     }
     // Other paths are defined in the routes table.
     return null;

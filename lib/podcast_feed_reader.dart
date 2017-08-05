@@ -20,6 +20,7 @@ class PodcastChannel {
   final String description;
   final String image;
   final Iterable<PodcastEpisode> episodes;
+  String rssUrl;
   PodcastChannel(this.title, this.url, this.description, this.image, this.episodes);
 
   @override
