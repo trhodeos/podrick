@@ -3,6 +3,7 @@ import 'dart:async';
 import 'package:flutter/material.dart';
 import 'channel_directory.dart';
 import 'podcast_feed_reader.dart';
+import 'itunes_podcast_searcher.dart';
 
 class FlupHomePage extends StatefulWidget {
   FlupHomePage({Key key, this.title}) : super(key: key);
@@ -16,6 +17,7 @@ class FlupHomePage extends StatefulWidget {
 class _FlupHomePageState extends State<FlupHomePage> {
   @override
   Widget build(BuildContext context) {
+    var grid = new PodcastGrid();
     return new Scaffold(
       appBar: new AppBar(
         title: new Text(widget.title),
@@ -30,7 +32,23 @@ class _FlupHomePageState extends State<FlupHomePage> {
             title: new Text("Settings"),
             onTap: () => Navigator.pushNamed(context, "/settings"))
       ])),
-      body: new PodcastGrid(),
+      body: grid,
+      floatingActionButton: new IconButton(
+          icon: new Icon(Icons.search),
+          onPressed: () {
+            showDialog(
+                context: context,
+                child: new SimpleDialog(
+                  title: new Text("Search"),
+                  children: <Widget>[
+                    new TextField(onSubmitted: (String s) {
+                      queryItunes(s).then((SearchResults r) {
+                        print(r);
+                      });
+                    })
+                  ],
+                ));
+          }),
     );
   }
 }
@@ -81,6 +99,10 @@ class _PodcastChannelButtonState extends State<PodcastChannelButton> {
 }
 
 class PodcastGrid extends StatefulWidget {
+
+  updateGrid(String s) {
+
+  }
   @override
   _PodcastGridState createState() => new _PodcastGridState();
 }

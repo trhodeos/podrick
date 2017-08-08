@@ -22,31 +22,29 @@ abstract class SearchResults {
   Iterable<SearchResult> results;
 }
 
-class SearchResultImpl extends JsonObject implements SearchResult {
-  SearchResultImpl();
+class _SearchResultImpl extends JsonObject implements SearchResult {
+  _SearchResultImpl();
 
-  factory SearchResultImpl.fromJsonString(string) {
-    return new JsonObject.fromJsonString(string, new SearchResultImpl());
+  factory _SearchResultImpl.fromJsonString(string) {
+    return new JsonObject.fromJsonString(string, new _SearchResultImpl());
   }
 }
 
-class SearchResultsImpl extends JsonObject implements SearchResults {
-  SearchResultsImpl();
+class _SearchResultsImpl extends JsonObject implements SearchResults {
+  _SearchResultsImpl();
 
-  factory SearchResultsImpl.fromJsonString(string) {
-    return new JsonObject.fromJsonString(string, new SearchResultsImpl());
+  factory _SearchResultsImpl.fromJsonString(string) {
+    return new JsonObject.fromJsonString(string, new _SearchResultsImpl());
   }
 }
 
 
-class ItunesPodcastSearcher {
-  final template = new UriTemplate("https://itunes.apple.com/search{?term,entity}");
+final _template = new UriTemplate("https://itunes.apple.com/search{?term,entity}");
 
-  Future<SearchResults> query(String term) async {
-     var client = createHttpClient();
-     var url = template.expand({'term': term, 'entity': 'podcast'});
-     return client.get(url).then((response) {
-        return SearchResultImpl.fromJsonString(response.body);
-     });
-  }
+Future<SearchResults> queryItunes(String term) async {
+   var client = createHttpClient();
+   var url = _template.expand({'term': term, 'entity': 'podcast'});
+   return client.get(url).then((response) {
+      return _SearchResultImpl.fromJsonString(response.body);
+   });
 }
