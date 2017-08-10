@@ -30,18 +30,27 @@ class PodcastChannel {
 }
 
 PodcastEpisode _createEpisode(XmlElement node) {
+  // required
   var title = node.findElements("title").single.text;
   var description = node.findElements("description").single.text;
-  var guid = node.findElements("guid").single.text;
-  var enclosure = node.findElements("enclosure").single;
-  return new PodcastEpisode(title, description, guid, enclosure.getAttribute("url"), enclosure.getAttribute("type"));
+  var enclosure = node.findElements("enclosure");
+  var rssUrl;
+  var rssType;
+  if (enclosure.length > 0) {
+    rssUrl = enclosure.first.getAttribute("url");
+    rssType = enclosure.first.getAttribute("type");
+  }
+
+  // optional
+  var guid = node.findElements("guid").single?.text;
+  return new PodcastEpisode(title, description, guid, rssUrl, rssType);
 }
 
 PodcastChannel _createChannel(XmlElement channel) {
-  var title = channel.findElements("title").single.text.trim();
-  var link = channel.findElements("link").single.text.trim();
-  var description = channel.findElements("description").single.text.trim();
-  var image = channel.findElements("image").single.findElements("url").single.text.trim();
+  var title = channel.findElements("title").single.text;
+  var link = channel.findElements("link").single.text;
+  var description = channel.findElements("description").single.text;
+  var image = channel.findElements("image").single.findElements("url").single.text;
   var episodes = channel.findElements("item").where((n) => n is XmlElement).map(_createEpisode);
   return new PodcastChannel(title, link, description, image, episodes);
 }

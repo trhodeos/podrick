@@ -43,7 +43,7 @@ class _FlupHomePageState extends State<FlupHomePage> {
                   children: <Widget>[
                     new TextField(onSubmitted: (String s) {
                       queryItunes(s).then((SearchResults r) {
-                        print(r);
+                        print("Found ${r.resultsCount} results, with the first being ${r.results.first.collectionName}");
                       });
                     })
                   ],
