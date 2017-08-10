@@ -8,7 +8,7 @@ import "package:flup/podcast_feed_reader.dart";
 void main() {
   var file;
   setUp(() {
-    file = new File('/Users/trhodes/IdeaProjects/flup/lib/podcast.xml').readAsStringSync();
+    file = new File('test/podcast.xml').readAsStringSync();
   });
   test("Parses the file", () {
     var channel = createPodcastChannel(xml.parse(file));
