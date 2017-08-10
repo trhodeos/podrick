@@ -58,10 +58,9 @@ class _FlupAppState extends State<FlupApp> {
       }
 
       final String channelName = Uri.decodeQueryComponent(path[1].substring(8));
-      var channel = getChannelSync(channelName);
       return new MaterialPageRoute<Null>(
           settings: settings,
-          builder: (BuildContext context) => new ChannelPage(channel));
+          builder: (BuildContext context) => new ChannelPage(channelName));
     }
     // Other paths are defined in the routes table.
     return null;

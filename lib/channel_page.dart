@@ -1,24 +1,48 @@
 import 'package:flutter/material.dart';
 
+import 'channel_directory.dart';
 import 'podcast_feed_reader.dart';
 
-class ChannelPage extends StatelessWidget {
-  final PodcastChannel channel;
-  ChannelPage(this.channel);
+class ChannelPage extends StatefulWidget {
+  final String channelUrl;
+  ChannelPage(this.channelUrl);
+  @override
+  _ChannelPageState createState() => new _ChannelPageState(channelUrl);
+}
+
+class _ChannelPageState extends State<ChannelPage> {
+  final String channelUrl;
+  PodcastChannel channel;
+  _ChannelPageState(this.channelUrl) {
+    initChannel();
+  }
+
+  initChannel() async {
+    var t = await getChannel(channelUrl);
+    setState(() {
+      this.channel = t;
+    });
+  }
+
   @override
   Widget build(BuildContext context) {
-    var children = [
-      new Hero(tag: channel.title, child: new Image.network(channel.image)),
-      new Text(channel.description)
-    ];
-    children.addAll(channel.episodes.map((e) => new ListTile(title: new Text(e.title))));
+    var bodyChild;
+    if (channel == null) {
+      bodyChild = new Text("Loading");
+    } else {
+      var children = [
+        new Hero(tag: channel.title, child: new Image.network(channel.image)),
+        new Text(channel.description)
+      ];
+      children.addAll(
+          channel.episodes.map((e) => new ListTile(title: new Text(e.title))));
+      bodyChild = new ListView(children: children);
+    }
     return new Scaffold(
-        appBar: new AppBar(title: new Text(channel.title)),
+        appBar: new AppBar(title: new Text(channel?.title ?? "Loading")),
         body: new Container(
             padding: const EdgeInsets.all(16.0),
-            child: new ListView(
-              children: children,
-            )
+            child: bodyChild
         )
     );
   }

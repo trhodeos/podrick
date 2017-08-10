@@ -22,6 +22,3 @@ Future<PodcastChannel> getChannel(String url) async {
   return channels[url];
 }
 
-PodcastChannel getChannelSync(String url) {
-  return channels[url];
-}
