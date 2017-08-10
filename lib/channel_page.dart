@@ -8,7 +8,7 @@ class ChannelPage extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     var children = [
-      new Hero(tag: channel.image, child: new Image.network(channel.image)),
+      new Hero(tag: channel.title, child: new Image.network(channel.image)),
       new Text(channel.description)
     ];
     children.addAll(channel.episodes.map((e) => new ListTile(title: new Text(e.title))));

@@ -4,32 +4,13 @@ import 'dart:convert';
 import 'package:flutter/services.dart';
 import 'package:uri/uri.dart';
 
-abstract class SearchResult {
-  String kind;
-  String artistName;
-  String collectionName;
-  String feedUrl;
-  String artworkUrl30;
-  String artworkUrl60;
-  String artworkUrl100;
-  String artworkUrl600;
-  int trackCount;
-  Iterable<String> genres;
-}
-
-abstract class SearchResults {
-  int resultsCount;
-  Iterable<SearchResult> results;
-}
-
-class _SearchResultImpl implements SearchResult {
-
-  _SearchResultImpl(this.artistName, this.artworkUrl100, this.artworkUrl30,
+class SearchResult {
+  SearchResult(this.artistName, this.artworkUrl100, this.artworkUrl30,
       this.artworkUrl60, this.artworkUrl600, this.collectionName, this.feedUrl,
       this.genres, this.kind, this.trackCount);
 
-  factory _SearchResultImpl.fromMap(object) {
-    return new _SearchResultImpl(
+  factory SearchResult.fromMap(object) {
+    return new SearchResult(
         object['artistName'],
         object['artworkUrl100'],
         object['artworkUrl30'],
@@ -41,56 +22,49 @@ class _SearchResultImpl implements SearchResult {
         object['kind'],
         object['trackCount']);
   }
-  @override
-  String artistName;
 
-  @override
-  String artworkUrl100;
+  final String artistName;
+  final String artworkUrl100;
+  final String artworkUrl30;
+  final String artworkUrl60;
+  final String artworkUrl600;
+  final String collectionName;
+  final String feedUrl;
+  final Iterable<String> genres;
+  final String kind;
+  final int trackCount;
 
-  @override
-  String artworkUrl30;
-
-  @override
-  String artworkUrl60;
-
-  @override
-  String artworkUrl600;
-
-  @override
-  String collectionName;
-
-  @override
-  String feedUrl;
-
-  @override
-  Iterable<String> genres;
-
-  @override
-  String kind;
-
-  @override
-  int trackCount;
+  String getBestArtwork() {
+    if (artworkUrl600 != null) {
+      return artworkUrl600;
+    } else if (artworkUrl100 != null) {
+      return artworkUrl100;
+    } else if (artworkUrl60 != null) {
+      return artworkUrl60;
+    } else if (artworkUrl30 != null) {
+      return artworkUrl30;
+    } else {
+      return "";
+    }
+  }
 }
 
-class _SearchResultsImpl  implements SearchResults {
+class SearchResults {
 
-  _SearchResultsImpl(this.results, this.resultsCount);
+  SearchResults(this.results, this.resultsCount);
 
-  factory _SearchResultsImpl.fromMap(object) {
+  factory SearchResults.fromMap(object) {
     var resultsCount = object['resultCount'];
-    var results = <_SearchResultImpl>[];
+    var results = <SearchResult>[];
     for (var s in object['results']) {
-      results.add(new _SearchResultImpl.fromMap(s));
+      results.add(new SearchResult.fromMap(s));
     }
 
-    return new _SearchResultsImpl(results, resultsCount);
+    return new SearchResults(results, resultsCount);
   }
 
-  @override
-  Iterable<SearchResult> results;
-
-  @override
-  int resultsCount;
+  final Iterable<SearchResult> results;
+  final int resultsCount;
 }
 
 
@@ -99,12 +73,10 @@ final _template = new UriTemplate("https://itunes.apple.com/search{?term,entity}
 Future<SearchResults> queryItunes(String term) async {
    var client = createHttpClient();
    var url = _template.expand({'term': term, 'entity': 'podcast'});
-   print("Querying itunes for term: " + term);
-   print(url);
    return client.read(url).then((body) {
      JsonCodec codec = new JsonCodec();
      Map<String, dynamic> object = codec.decode(body);
-     SearchResults results = new _SearchResultsImpl.fromMap(object);
+     SearchResults results = new SearchResults.fromMap(object);
      return results;
    });
 }
