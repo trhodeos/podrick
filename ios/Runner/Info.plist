@@ -45,5 +45,18 @@
 	</array>
 	<key>UIViewControllerBasedStatusBarAppearance</key>
 	<false/>
+	<key>CFBundleURLTypes</key>
+    <array>
+        <dict>
+           <key>CFBundleTypeRole</key>
+           <string>Editor</string>
+           <key>CFBundleURLSchemes</key>
+           <array>
+             <!-- reverse url of your client id, for example: -->
+              <string>com.googleusercontent.apps.465063924843-h9o27br6423jlhtnl00l4unesbdn5k1u</string>
+              <string>org.trhodes.flup</string>
+           </array>
+        </dict>
+    </array>
 </dict>
 </plist>
