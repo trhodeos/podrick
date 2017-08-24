@@ -1,12 +1,9 @@
-import 'dart:async';
-
 import 'package:flutter/material.dart';
 
 import 'flup_home.dart';
 import 'flup_settings.dart';
 import 'flup_types.dart';
 import 'channel_page.dart';
-import 'channel_directory.dart';
 
 class FlupApp extends StatefulWidget {
   @override

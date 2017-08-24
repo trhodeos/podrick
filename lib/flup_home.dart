@@ -1,9 +1,19 @@
 import 'dart:async';
 
 import 'package:flutter/material.dart';
-import 'channel_directory.dart';
-import 'podcast_feed_reader.dart';
 import 'itunes_podcast_searcher.dart';
+import 'package:google_sign_in/google_sign_in.dart';
+
+final googleSignIn = new GoogleSignIn();
+
+Future<Null> _ensureLoggedIn() async {
+  GoogleSignInAccount user = googleSignIn.currentUser;
+  if (user == null)
+    user = await googleSignIn.signInSilently();
+  if (user == null) {
+    await googleSignIn.signIn();
+  }
+}
 
 class FlupHomePage extends StatefulWidget {
   FlupHomePage({Key key, this.title}) : super(key: key);
@@ -34,6 +44,7 @@ class PodcastChannelWidget extends StatelessWidget {
 
   PodcastChannelWidget({this.title, this.imageUrl="http://via.placeholder.com/100x100", this.rssUrl});
 
+
   @override
   Widget build(BuildContext context) {
     return new Container(
@@ -60,8 +71,10 @@ class LibraryWidget extends StatefulWidget {
 }
 
 class _LibraryWidgetState extends State<LibraryWidget> {
+
   @override
   Widget build(BuildContext context) {
+    _ensureLoggedIn();
     return new ListView(
       shrinkWrap: true,
       children: <Widget>[
