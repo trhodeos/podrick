@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AD_UNIT_ID_FOR_BANNER_TEST</key>
+	<string>ca-app-pub-3940256099942544/2934735716</string>
+	<key>AD_UNIT_ID_FOR_INTERSTITIAL_TEST</key>
+	<string>ca-app-pub-3940256099942544/4411468910</string>
+	<key>CLIENT_ID</key>
+	<string>465063924843-h9o27br6423jlhtnl00l4unesbdn5k1u.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.465063924843-h9o27br6423jlhtnl00l4unesbdn5k1u</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCx8M9Xs-UDC4Awa43pSkru-4f6f4yqXQ8</string>
+	<key>GCM_SENDER_ID</key>
+	<string>465063924843</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>org.trhodes.flup</string>
+	<key>PROJECT_ID</key>
+	<string>podrick-a59d6</string>
+	<key>STORAGE_BUCKET</key>
+	<string>podrick-a59d6.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<true/>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false/>
+	<key>IS_APPINVITE_ENABLED</key>
+	<false/>
+	<key>IS_GCM_ENABLED</key>
+	<true/>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true/>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:465063924843:ios:4ad8ac14fda7cc90</string>
+	<key>DATABASE_URL</key>
+	<string>https://podrick-a59d6.firebaseio.com</string>
+</dict>
+</plist>

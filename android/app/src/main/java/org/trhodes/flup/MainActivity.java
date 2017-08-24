@@ -1,4 +1,4 @@
-package com.yourcompany.flup;
+package org.trhodes.flup;
 
 import android.os.Bundle;
 

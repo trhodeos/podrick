@@ -7,6 +7,11 @@ dependencies:
 
   xml: ^2.6.0
   uri: ^0.11.1
+  google_sign_in: 0.3.1
+  firebase_analytics: 0.0.4
+  firebase_auth: 0.1.1
+  firebase_database: 0.0.12
+  firebase_storage: 0.0.5
 
 
 dev_dependencies:

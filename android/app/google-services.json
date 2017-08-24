@@ -1,0 +1,62 @@
+{
+  "project_info": {
+    "project_number": "465063924843",
+    "firebase_url": "https://podrick-a59d6.firebaseio.com",
+    "project_id": "podrick-a59d6",
+    "storage_bucket": "podrick-a59d6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:465063924843:android:4ad8ac14fda7cc90",
+        "android_client_info": {
+          "package_name": "org.trhodes.flup"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "465063924843-mok4a0n0pnhs8f0mmhhv9f6d9jpd37cg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "org.trhodes.flup",
+            "certificate_hash": "6dee970290de63be4312a918d70b343d360db3f6"
+          }
+        },
+        {
+          "client_id": "465063924843-5hpvftpki7127rgkimie1hv9hdtq2jee.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACHGHEWbC5J6in-VaAfn4GJ9anEVSlNb0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "465063924843-5hpvftpki7127rgkimie1hv9hdtq2jee.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "465063924843-h9o27br6423jlhtnl00l4unesbdn5k1u.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "org.trhodes.flup"
+              }
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
