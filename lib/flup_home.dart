@@ -3,19 +3,22 @@ import 'dart:async';
 import 'package:flutter/material.dart';
 import 'itunes_podcast_searcher.dart';
 import 'package:google_sign_in/google_sign_in.dart';
+import 'package:firebase_analytics/firebase_analytics.dart';
 import 'package:firebase_auth/firebase_auth.dart';
 import 'package:firebase_database/firebase_database.dart';
 import 'package:firebase_database/ui/firebase_animated_list.dart';
 
 final googleSignIn = new GoogleSignIn();
+final analytics = new FirebaseAnalytics();
 final auth = FirebaseAuth.instance;
-final libraryReference = FirebaseDatabase.instance.reference().child('library');
+final libraryReference = FirebaseDatabase.instance.reference().child('libraries');
 
 Future<Null> _ensureLoggedIn() async {
   GoogleSignInAccount user = googleSignIn.currentUser;
   if (user == null) user = await googleSignIn.signInSilently();
   if (user == null) {
     await googleSignIn.signIn();
+    analytics.logLogin();
   }
   if (auth.currentUser == null) {
     GoogleSignInAuthentication credentials =
@@ -94,14 +97,25 @@ class LibraryWidget extends StatefulWidget {
 }
 
 class _LibraryWidgetState extends State<LibraryWidget> {
+  String uid;
+
+  _logIn() async {
+   await _ensureLoggedIn();
+   setState(() {
+      this.uid = auth.currentUser.uid;
+   });
+  }
   @override
   Widget build(BuildContext context) {
-    _ensureLoggedIn();
+    _logIn();
+    if (uid == null) {
+      return new Column();
+    }
     return new Column(
       children: <Widget>[
         new Flexible(
             child: new FirebaseAnimatedList(
-          query: libraryReference,
+          query: libraryReference.child(uid),
           sort: (a, b) => b.key.compareTo(a.key),
           padding: new EdgeInsets.all(8.0),
           itemBuilder: (_, DataSnapshot snapshot, Animation<double> animation) {
