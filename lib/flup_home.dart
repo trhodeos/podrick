@@ -11,9 +11,15 @@ import 'package:firebase_database/ui/firebase_animated_list.dart';
 final googleSignIn = new GoogleSignIn();
 final analytics = new FirebaseAnalytics();
 final auth = FirebaseAuth.instance;
-final libraryReference = FirebaseDatabase.instance.reference().child('libraries');
+final libraryReference =
+    FirebaseDatabase.instance.reference().child('libraries');
 
-Future<Null> _ensureLoggedIn() async {
+Future<DatabaseReference> getLibraryReference() async {
+  _ensureLoggedIn();
+  return libraryReference.child(auth.currentUser.uid);
+}
+
+_ensureLoggedIn() async {
   GoogleSignInAccount user = googleSignIn.currentUser;
   if (user == null) user = await googleSignIn.signInSilently();
   if (user == null) {
@@ -28,6 +34,15 @@ Future<Null> _ensureLoggedIn() async {
       accessToken: credentials.accessToken,
     );
   }
+}
+
+_addToLibrary(title, imageUrl, rssUrl) async {
+  var ref = await getLibraryReference();
+  ref.push().set({
+    "title": title,
+    "imageUrl": imageUrl,
+    "rssUrl": rssUrl,
+  });
 }
 
 class FlupHomePage extends StatefulWidget {
@@ -57,11 +72,13 @@ class PodcastChannelWidget extends StatelessWidget {
   final String title;
   final String imageUrl;
   final String rssUrl;
+  final bool withAddButton;
 
   PodcastChannelWidget(
       {this.title,
       this.imageUrl = "http://via.placeholder.com/100x100",
-      this.rssUrl});
+      this.rssUrl,
+      this.withAddButton = false});
 
   factory PodcastChannelWidget.createForSnapshot(snapshot) {
     return new PodcastChannelWidget(
@@ -72,19 +89,22 @@ class PodcastChannelWidget extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
+    var rowChildren = [
+      new Hero(
+          tag: title, child: new Image.network(imageUrl, fit: BoxFit.contain)),
+      new Container(
+          margin: const EdgeInsets.only(left: 16.0), child: new Text(title))
+    ];
+    if (withAddButton) {
+      rowChildren.add(new IconButton(
+          icon: new Icon(Icons.add),
+          onPressed: () { _addToLibrary(title, imageUrl, rssUrl); }));
+    }
     return new Container(
         height: 80.0,
         child: new InkWell(
           child: new Container(
-              height: 56.0,
-              child: new Row(children: [
-                new Hero(
-                    tag: title,
-                    child: new Image.network(imageUrl, fit: BoxFit.contain)),
-                new Container(
-                    margin: const EdgeInsets.only(left: 16.0),
-                    child: new Text(title)),
-              ])),
+              height: 56.0, child: new Row(children: rowChildren)),
           onTap: () => Navigator.pushNamed(
               context, '/channel:${Uri.encodeQueryComponent(rssUrl)}'),
         ));
@@ -100,15 +120,16 @@ class _LibraryWidgetState extends State<LibraryWidget> {
   String uid;
 
   _logIn() async {
-   await _ensureLoggedIn();
-   setState(() {
+    await _ensureLoggedIn();
+    setState(() {
       this.uid = auth.currentUser.uid;
-   });
+    });
   }
+
   @override
   Widget build(BuildContext context) {
-    _logIn();
     if (uid == null) {
+      _logIn();
       return new Column();
     }
     return new Column(
@@ -160,7 +181,8 @@ class _SearchWidgetState extends State<SearchWidget> {
         children.add(new PodcastChannelWidget(
             title: result.collectionName,
             imageUrl: result.getBestArtwork(),
-            rssUrl: result.feedUrl));
+            rssUrl: result.feedUrl,
+            withAddButton: true));
       }
     }
 
