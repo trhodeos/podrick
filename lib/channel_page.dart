@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 
-import 'channel_directory.dart';
+import 'podcast_directory.dart';
 import 'podcast_feed_reader.dart';
 
 class ChannelPage extends StatefulWidget {
