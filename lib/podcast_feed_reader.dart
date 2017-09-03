@@ -1,58 +1,5 @@
 import 'package:xml/xml.dart';
-import 'dart:convert';
-
-class PodcastEpisode {
-  final String title;
-  final String description;
-  final String guid;
-  final String url;
-  final String type;
-  PodcastEpisode(this.title, this.description, this.guid, this.url, this.type);
-
-  @override
-  String toString() {
-    return "$title [$url, $type]: $description";
-  }
-}
-
-class PodcastChannel {
-  final String title;
-  final String rssUrl;
-  final String description;
-  final String image;
-  final Iterable<PodcastEpisode> episodes;
-  PodcastChannel(this.title, this.rssUrl, this.description, this.image, this.episodes);
-
-  factory PodcastChannel.fromDataSnapshot(dataSnapshot) {
-    return new PodcastChannel(dataSnapshot.value['title'], _getRssUrl(dataSnapshot.key), dataSnapshot.value['description'], dataSnapshot.value['imageUrl'], new List());
-  }
-
-  @override
-  String toString() {
-    return "$title [$rssUrl]: (${episodes.length} episodes)";
-  }
-
-  static String _getRssUrl(String key) {
-    return UTF8.decode(BASE64.decode(key));
-  }
-
-  String getKey() {
-    return BASE64.encode(UTF8.encode(rssUrl));
-  }
-
-  static String getKeyForUrl(String url) {
-    return BASE64.encode(UTF8.encode(url));
-  }
-
-  dynamic toFirebaseData() {
-    return {
-      "title": title,
-      "imageUrl": image,
-      "rssUrl": rssUrl,
-      "description": description,
-    };
-  }
-}
+import 'podcast.dart';
 
 PodcastEpisode _createEpisode(XmlElement node) {
   // required
@@ -73,7 +20,6 @@ PodcastEpisode _createEpisode(XmlElement node) {
 
 PodcastChannel _createChannel(String rssUrl, XmlElement channel) {
   var title = channel.findElements("title").single.text;
-  //var link = channel.findElements("link").single.text;
   var description = channel.findElements("description").single.text;
   var image = channel.findElements("image").single.findElements("url").single.text;
   var episodes = channel.findElements("item").where((n) => n is XmlElement).map(_createEpisode);

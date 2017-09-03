@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 
-import 'podcast_directory.dart';
-import 'podcast_feed_reader.dart';
+import 'podcast_provider.dart';
+import 'podcast.dart';
 
 class ChannelPage extends StatefulWidget {
   final String channelUrl;
@@ -18,7 +18,7 @@ class _ChannelPageState extends State<ChannelPage> {
   }
 
   initChannel() async {
-    var t = await getChannel(channelUrl);
+    var t = await PodcastProvider.get(channelUrl);
     setState(() {
       this.channel = t;
     });
