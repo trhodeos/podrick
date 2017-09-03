@@ -12,7 +12,7 @@ class ChannelPage extends StatefulWidget {
 
 class _ChannelPageState extends State<ChannelPage> {
   final String channelUrl;
-  PodcastChannel channel;
+  Podcast channel;
   _ChannelPageState(this.channelUrl) {
     initChannel();
   }

@@ -14,13 +14,13 @@ class PodcastEpisode {
   }
 }
 
-class PodcastChannel {
+class Podcast {
   final String title;
   final String rssUrl;
   final String description;
   final String image;
   final Iterable<PodcastEpisode> episodes;
-  PodcastChannel(this.title, this.rssUrl, this.description, this.image, this.episodes);
+  Podcast(this.title, this.rssUrl, this.description, this.image, this.episodes);
 
   @override
   String toString() {

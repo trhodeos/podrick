@@ -1,18 +1,19 @@
 import 'package:flutter/material.dart';
+import 'package:logging/logging.dart';
 
-import 'flup_home.dart';
-import 'flup_settings.dart';
-import 'flup_types.dart';
+import 'ui/home_page.dart';
+import 'ui/settings_page.dart';
+import 'ui/configuration.dart';
 import 'channel_page.dart';
 
 class FlupApp extends StatefulWidget {
   @override
-  _FlupAppState createState() => new _FlupAppState();
+  _PodrickAppState createState() => new _PodrickAppState();
 }
 
-class _FlupAppState extends State<FlupApp> {
-  FlupConfiguration _configuration = new FlupConfiguration(
-      theme: FlupTheme.dark,
+class _PodrickAppState extends State<FlupApp> {
+  PodrickConfiguration _configuration = new PodrickConfiguration(
+      theme: PodrickTheme.dark,
       debugShowGrid: false,
       debugShowSizes: false,
       debugShowBaselines: false,
@@ -29,10 +30,10 @@ class _FlupAppState extends State<FlupApp> {
 
   ThemeData get theme {
     switch (_configuration.theme) {
-      case FlupTheme.light:
+      case PodrickTheme.light:
         return new ThemeData(
             brightness: Brightness.light, primarySwatch: Colors.blue);
-      case FlupTheme.dark:
+      case PodrickTheme.dark:
         return new ThemeData(
             brightness: Brightness.dark, primarySwatch: Colors.lightBlue);
     }
@@ -72,8 +73,8 @@ class _FlupAppState extends State<FlupApp> {
       showPerformanceOverlay: _configuration.showPerformanceOverlay,
       showSemanticsDebugger: _configuration.showSemanticsDebugger,
       routes: <String, WidgetBuilder>{
-        '/': (BuildContext context) => new FlupHomePage(title: 'Podcasts'),
-        '/settings': (BuildContext context) => new FlupSettingsPage()
+        '/': (BuildContext context) => new PodrickHomePage(title: 'Podcasts'),
+        '/settings': (BuildContext context) => new PodrickSettingsPage()
       },
       onGenerateRoute: _getRoute,
     );
@@ -81,5 +82,10 @@ class _FlupAppState extends State<FlupApp> {
 }
 
 void main() {
+  Logger.root.level = Level.ALL;
+  Logger.root.onRecord.listen((LogRecord rec) {
+    print('${rec.level.name}: ${rec.time}: ${rec.message}');
+  });
+
   runApp(new FlupApp());
 }

@@ -1,7 +1,7 @@
 import 'dart:async';
 
 import 'package:flutter/material.dart';
-import 'itunes_podcast_searcher.dart';
+import '../itunes_podcast_searcher.dart';
 import 'package:google_sign_in/google_sign_in.dart';
 import 'package:firebase_analytics/firebase_analytics.dart';
 import 'package:firebase_auth/firebase_auth.dart';
@@ -45,13 +45,13 @@ _addToLibrary(title, imageUrl, rssUrl) async {
   });
 }
 
-class FlupHomePage extends StatefulWidget {
-  FlupHomePage({Key key, this.title}) : super(key: key);
+class PodrickHomePage extends StatefulWidget {
+  PodrickHomePage({Key key, this.title}) : super(key: key);
 
   final String title;
 
   @override
-  _FlupHomePageState createState() => new _FlupHomePageState();
+  _PodrickHomePageState createState() => new _PodrickHomePageState();
 }
 
 class TabChoice {
@@ -190,7 +190,7 @@ class _SearchWidgetState extends State<SearchWidget> {
   }
 }
 
-class _FlupHomePageState extends State<FlupHomePage> {
+class _PodrickHomePageState extends State<PodrickHomePage> {
   @override
   Widget build(BuildContext context) {
     return new DefaultTabController(

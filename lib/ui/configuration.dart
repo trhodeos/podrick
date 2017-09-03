@@ -1,11 +1,11 @@
 import 'package:flutter/foundation.dart';
 
-enum FlupTheme {
+enum PodrickTheme {
   light, dark
 }
 
-class FlupConfiguration {
-  FlupConfiguration({
+class PodrickConfiguration {
+  PodrickConfiguration({
     @required this.theme,
     @required this.debugShowGrid,
     @required this.debugShowSizes,
@@ -24,7 +24,7 @@ class FlupConfiguration {
         assert(debugShowRainbow != null),
         assert(showPerformanceOverlay != null),
         assert(showSemanticsDebugger != null);
-  final FlupTheme theme;
+  final PodrickTheme theme;
   final bool debugShowGrid;
   final bool debugShowSizes;
   final bool debugShowBaselines;
