@@ -1,10 +1,10 @@
 import 'package:flutter/material.dart';
 import 'package:logging/logging.dart';
 
+import 'ui/channel_page.dart';
+import 'ui/configuration.dart';
 import 'ui/home_page.dart';
 import 'ui/settings_page.dart';
-import 'ui/configuration.dart';
-import 'channel_page.dart';
 
 class FlupApp extends StatefulWidget {
   @override

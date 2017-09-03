@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 
-import 'podcast_provider.dart';
-import 'podcast.dart';
+import '../podcast.dart';
+import '../podcast_provider.dart';
 
 class ChannelPage extends StatefulWidget {
   final String channelUrl;

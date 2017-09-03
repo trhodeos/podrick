@@ -1,9 +1,11 @@
 import 'dart:async';
+
 import 'package:flutter/services.dart';
 import 'package:logging/logging.dart';
 import 'package:xml/xml.dart' as xml;
-import 'podcast.dart';
+
 import 'feed_reader.dart';
+import 'podcast.dart';
 
 final Logger log = new Logger('podcast_provider');
 
