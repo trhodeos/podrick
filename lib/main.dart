@@ -1,17 +1,22 @@
 import 'package:flutter/material.dart';
 import 'package:logging/logging.dart';
 
-import 'ui/channel_page.dart';
+import 'ui/podcast_page.dart';
 import 'ui/configuration.dart';
 import 'ui/home_page.dart';
 import 'ui/settings_page.dart';
+import 'podcast_utils.dart';
 
-class FlupApp extends StatefulWidget {
+final Logger log = new Logger("PodrickMain");
+
+final String podcastPrefix = '/podcast:';
+
+class PodrickApp extends StatefulWidget {
   @override
   _PodrickAppState createState() => new _PodrickAppState();
 }
 
-class _PodrickAppState extends State<FlupApp> {
+class _PodrickAppState extends State<PodrickApp> {
   PodrickConfiguration _configuration = new PodrickConfiguration(
       theme: PodrickTheme.dark,
       debugShowGrid: false,
@@ -42,23 +47,23 @@ class _PodrickAppState extends State<FlupApp> {
   }
 
   Route<Null> _getRoute(RouteSettings settings) {
-    final List<String> path = settings.name.split('/');
+    log.info("Routing request ${settings.name}.");
     // Paths *must* start with a '/'.
-    if (path[0] != '') {
+    if (settings.name[0] != '/') {
       return null;
     }
 
     // Specific channel page.
-    if (path[1].startsWith('channel:')) {
-      // Don't support channel sub-pages yet.
-      if (path.length != 2) {
-        return null;
-      }
+    if (settings.name.startsWith(podcastPrefix)) {
 
-      final String channelName = Uri.decodeQueryComponent(path[1].substring(8));
+      final String podcastKeyString = settings.name.substring(podcastPrefix.length);
+      final PodcastKey podcastKey = new PodcastKey(podcastKeyString);
+      log.info("Routing request for podcast ${podcastKey.key} -> ${podcastKey.getRssUrl()}.");
       return new MaterialPageRoute<Null>(
           settings: settings,
-          builder: (BuildContext context) => new ChannelPage(channelName));
+          builder: (BuildContext context) => new PodcastPage(podcastKey));
+    } else {
+      log.warning("Could not handle route ${settings.name}.");
     }
     // Other paths are defined in the routes table.
     return null;
@@ -67,13 +72,13 @@ class _PodrickAppState extends State<FlupApp> {
   @override
   Widget build(BuildContext context) {
     return new MaterialApp(
-      title: 'Flup',
+      title: 'Podrick',
       theme: theme,
       debugShowMaterialGrid: _configuration.debugShowGrid,
       showPerformanceOverlay: _configuration.showPerformanceOverlay,
       showSemanticsDebugger: _configuration.showSemanticsDebugger,
       routes: <String, WidgetBuilder>{
-        '/': (BuildContext context) => new PodrickHomePage(title: 'Podcasts'),
+        '/': (BuildContext context) => new PodrickHomePage(title: 'Podrick'),
         '/settings': (BuildContext context) => new PodrickSettingsPage()
       },
       onGenerateRoute: _getRoute,
@@ -87,5 +92,6 @@ void main() {
     print('${rec.level.name}: ${rec.time}: ${rec.message}');
   });
 
-  runApp(new FlupApp());
+  log.info("Starting Podrick.");
+  runApp(new PodrickApp());
 }

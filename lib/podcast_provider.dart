@@ -10,13 +10,14 @@ import 'podcast.dart';
 final Logger log = new Logger('podcast_provider');
 
 class _LocalPodcastCache {
+  static Map<String, Podcast> _localMap = new Map<String, Podcast>();
 
   static Future<Podcast> get(String rssUrl) async {
-    return null;
+    return _localMap[rssUrl];
   }
 
   static store(String rssUrl, Podcast podcast) async {
-    return null;
+    _localMap[rssUrl] = podcast;
   }
 }
 

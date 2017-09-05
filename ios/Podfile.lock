@@ -50,6 +50,9 @@ PODS:
     - FirebaseUI/Auth
     - GoogleSignIn (~> 4.0)
   - Flutter (1.0.0)
+  - FMDB (2.7.2):
+    - FMDB/standard (= 2.7.2)
+  - FMDB/standard (2.7.2)
   - Google/Core (3.1.0):
     - FirebaseAnalytics (~> 3.2)
   - Google/SignIn (3.1.0):
@@ -80,6 +83,9 @@ PODS:
   - GTMSessionFetcher/Core (1.1.11)
   - GTMSessionFetcher/Full (1.1.11):
     - GTMSessionFetcher/Core (= 1.1.11)
+  - sqflite (0.0.1):
+    - Flutter
+    - FMDB
 
 DEPENDENCIES:
   - firebase_analytics (from `/Users/trhodes/.pub-cache/hosted/pub.dartlang.org/firebase_analytics-0.0.4/ios`)
@@ -88,6 +94,7 @@ DEPENDENCIES:
   - firebase_storage (from `/Users/trhodes/.pub-cache/hosted/pub.dartlang.org/firebase_storage-0.0.5/ios`)
   - Flutter (from `/Users/trhodes/src/flutter/bin/cache/artifacts/engine/ios`)
   - google_sign_in (from `/Users/trhodes/.pub-cache/hosted/pub.dartlang.org/google_sign_in-0.3.1/ios`)
+  - sqflite (from `/Users/trhodes/.pub-cache/hosted/pub.dartlang.org/sqflite-0.2.2/ios`)
 
 EXTERNAL SOURCES:
   firebase_analytics:
@@ -102,6 +109,8 @@ EXTERNAL SOURCES:
     :path: /Users/trhodes/src/flutter/bin/cache/artifacts/engine/ios
   google_sign_in:
     :path: /Users/trhodes/.pub-cache/hosted/pub.dartlang.org/google_sign_in-0.3.1/ios
+  sqflite:
+    :path: /Users/trhodes/.pub-cache/hosted/pub.dartlang.org/sqflite-0.2.2/ios
 
 SPEC CHECKSUMS:
   Firebase: 4b66b5b59c43edac745b87f0c87e42cdd0279c13
@@ -117,12 +126,14 @@ SPEC CHECKSUMS:
   FirebaseStorage: a5c55b23741a49a72af8f30f95b3bb5ddbeda12d
   FirebaseUI: 6e99ff95e369f5858232e4f65bff215458fe8469
   Flutter: d674e78c937094a75ac71dd77e921e840bea3dbf
+  FMDB: 6198a90e7b6900cfc046e6bc0ef6ebb7be9236aa
   Google: 98da4b1a60ed0beb80a290387a28333406a1eb90
   google_sign_in: 24ea34feed2d7d04e957cd1c4daf063c488532c2
   GoogleSignIn: d7ad83f13480e1f30453471d00d19b5293ac46af
   GoogleToolboxForMac: 8e329f1b599f2512c6b10676d45736bcc2cbbeb0
   GTMOAuth2: 7fc9c10f5c745f4d9850419ea88889fe3baa6b7d
   GTMSessionFetcher: 5ad62e8200fa00ed011fe5e08d27fef72c5b1429
+  sqflite: 8e2d9fe1e7cdc95d4d537fc7eb2d23c8dc428e3c
 
 PODFILE CHECKSUM: 351e02e34b831289961ec3558a535cbd2c4965d2
 

@@ -6,14 +6,18 @@ import 'package:firebase_analytics/firebase_analytics.dart';
 import 'package:firebase_auth/firebase_auth.dart';
 import 'package:firebase_database/firebase_database.dart';
 import 'package:firebase_database/ui/firebase_animated_list.dart';
+import 'package:logging/logging.dart';
 
 import '../itunes_podcast_searcher.dart';
+import '../podcast_utils.dart';
 
 final googleSignIn = new GoogleSignIn();
 final analytics = new FirebaseAnalytics();
 final auth = FirebaseAuth.instance;
 final libraryReference =
     FirebaseDatabase.instance.reference().child('libraries');
+
+final Logger log = new Logger('HomePage');
 
 Future<DatabaseReference> getLibraryReference() async {
   _ensureLoggedIn();
@@ -67,8 +71,6 @@ const List<TabChoice> choices = const <TabChoice>[
   const TabChoice(title: "Find", icon: Icons.search)
 ];
 
-final Image placeholder = new Image.network("placeholder");
-
 class PodcastChannelWidget extends StatelessWidget {
   final String title;
   final String imageUrl;
@@ -77,7 +79,7 @@ class PodcastChannelWidget extends StatelessWidget {
 
   PodcastChannelWidget(
       {this.title,
-      this.imageUrl = "http://via.placeholder.com/100x100",
+      this.imageUrl,
       this.rssUrl,
       this.withAddButton = false});
 
@@ -90,9 +92,10 @@ class PodcastChannelWidget extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
+    var podcastKey = new PodcastKey.forRssUrl(rssUrl);
     var rowChildren = [
       new Hero(
-          tag: title, child: new Image.network(imageUrl, fit: BoxFit.contain)),
+          tag: podcastKey.key, child: new Image.network(imageUrl, fit: BoxFit.contain)),
       new Container(
           margin: const EdgeInsets.only(left: 16.0), child: new Text(title))
     ];
@@ -107,7 +110,7 @@ class PodcastChannelWidget extends StatelessWidget {
           child: new Container(
               height: 56.0, child: new Row(children: rowChildren)),
           onTap: () => Navigator.pushNamed(
-              context, '/channel:${Uri.encodeQueryComponent(rssUrl)}'),
+              context, '/podcast:${podcastKey.key}'),
         ));
   }
 }
