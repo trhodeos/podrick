@@ -7,6 +7,7 @@ import 'package:firebase_auth/firebase_auth.dart';
 import 'package:firebase_database/firebase_database.dart';
 import 'package:firebase_database/ui/firebase_animated_list.dart';
 import 'package:logging/logging.dart';
+import 'package:podrick/ui/podcast_player.dart';
 
 import '../itunes_podcast_searcher.dart';
 import '../podcast_utils.dart';
