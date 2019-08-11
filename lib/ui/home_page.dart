@@ -20,8 +20,8 @@ final libraryReference =
 final Logger log = new Logger('HomePage');
 
 Future<DatabaseReference> getLibraryReference() async {
-  _ensureLoggedIn();
-  return libraryReference.child(auth.currentUser.uid);
+  var user = await _ensureLoggedIn();
+  return libraryReference.child(user.uid);
 }
 
 _ensureLoggedIn() async {
@@ -31,14 +31,16 @@ _ensureLoggedIn() async {
     await googleSignIn.signIn();
     analytics.logLogin();
   }
-  if (auth.currentUser == null) {
+  var currentUser = await auth.currentUser();
+  if (currentUser == null) {
     GoogleSignInAuthentication credentials =
         await googleSignIn.currentUser.authentication;
-    await auth.signInWithGoogle(
+    return auth.signInWithGoogle(
       idToken: credentials.idToken,
       accessToken: credentials.accessToken,
     );
   }
+  return currentUser;
 }
 
 _addToLibrary(title, imageUrl, rssUrl) async {
@@ -124,10 +126,8 @@ class _LibraryWidgetState extends State<LibraryWidget> {
   String uid;
 
   _logIn() async {
-    await _ensureLoggedIn();
-    setState(() {
-      this.uid = auth.currentUser.uid;
-    });
+    var user = await _ensureLoggedIn();
+    setState(() => uid = user.uid);
   }
 
   @override

@@ -1,17 +1,17 @@
-name: flup
-description: A new Flutter project.
+name: podrick
+description: A podcast player.
 
 dependencies:
   flutter:
     sdk: flutter
-
-  xml: ^2.6.0
-  uri: ^0.11.1
-  google_sign_in: 0.3.1
-  firebase_analytics: 0.0.4
-  firebase_auth: 0.1.1
-  firebase_database: 0.0.12
-  firebase_storage: 0.0.5
+  audioplayer: ^0.5.0
+  xml: ^3.5.0
+  uri:
+  google_sign_in: ^4.0.6
+  firebase_analytics: ^5.0.0
+  firebase_auth: ^0.14.0
+  firebase_database: ^3.0.0
+  firebase_storage: ^3.0.0
   crypto: ^2.0.2
   sqflite: any
   logging: ^0.11.3+1

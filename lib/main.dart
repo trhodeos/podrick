@@ -7,7 +7,7 @@ import 'ui/home_page.dart';
 import 'ui/settings_page.dart';
 import 'podcast_utils.dart';
 
-final Logger log = new Logger("PodrickMain");
+final Logger log = new Logger('PodrickMain');
 
 final String podcastPrefix = '/podcast:';
 
@@ -55,7 +55,6 @@ class _PodrickAppState extends State<PodrickApp> {
 
     // Specific channel page.
     if (settings.name.startsWith(podcastPrefix)) {
-
       final String podcastKeyString = settings.name.substring(podcastPrefix.length);
       final PodcastKey podcastKey = new PodcastKey(podcastKeyString);
       log.info("Routing request for podcast ${podcastKey.key} -> ${podcastKey.getRssUrl()}.");
